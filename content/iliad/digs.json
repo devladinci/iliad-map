@@ -1,0 +1,200 @@
+[
+ {
+  "id": "x_watercave",
+  "lat": 39.9557,
+  "lon": 26.2361,
+  "minZoom": 13,
+  "anchor": "bottom"
+ },
+ {
+  "id": "x_besik",
+  "lat": 39.899,
+  "lon": 26.172,
+  "minZoom": 10,
+  "anchor": "right"
+ },
+ {
+  "id": "x_hanay",
+  "lat": 39.9085,
+  "lon": 26.2934,
+  "minZoom": 11,
+  "anchor": "bottom"
+ },
+ {
+  "id": "x_kumtepe",
+  "lat": 39.977,
+  "lon": 26.196,
+  "minZoom": 11,
+  "anchor": "left"
+ },
+ {
+  "id": "x_poliochni",
+  "lat": 39.855,
+  "lon": 25.335,
+  "minZoom": 7,
+  "anchor": "right"
+ },
+ {
+  "id": "x_thermi",
+  "lat": 39.1769,
+  "lon": 26.5032,
+  "minZoom": 8,
+  "anchor": "right"
+ },
+ {
+  "id": "x_midea",
+  "lat": 37.6498,
+  "lon": 22.8414,
+  "minZoom": 7,
+  "anchor": "right"
+ },
+ {
+  "id": "x_dendra",
+  "lat": 37.6569,
+  "lon": 22.8255,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_vapheio",
+  "lat": 37.0203,
+  "lon": 22.4678,
+  "minZoom": 8,
+  "anchor": "right"
+ },
+ {
+  "id": "x_iklaina",
+  "lat": 36.9964,
+  "lon": 21.711,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_nichoria",
+  "lat": 37.0022,
+  "lon": 21.9142,
+  "minZoom": 8,
+  "anchor": "right"
+ },
+ {
+  "id": "x_gla",
+  "lat": 38.484,
+  "lon": 23.1819,
+  "minZoom": 7,
+  "anchor": "right"
+ },
+ {
+  "id": "x_mitrou",
+  "lat": 38.6367,
+  "lon": 23.1245,
+  "minZoom": 8,
+  "anchor": "right"
+ },
+ {
+  "id": "x_kalapodi",
+  "lat": 38.6365,
+  "lon": 22.8954,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_eleusis",
+  "lat": 38.0411,
+  "lon": 23.5374,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_lefkandi",
+  "lat": 38.4118,
+  "lon": 23.6822,
+  "minZoom": 7,
+  "anchor": "right"
+ },
+ {
+  "id": "x_dimini",
+  "lat": 39.3614,
+  "lon": 22.8938,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_kastanas",
+  "lat": 40.8179,
+  "lon": 22.6469,
+  "minZoom": 7,
+  "anchor": "right"
+ },
+ {
+  "id": "x_adatepe",
+  "lat": 41.437,
+  "lon": 25.655,
+  "minZoom": 6,
+  "anchor": "right"
+ },
+ {
+  "id": "x_valchitran",
+  "lat": 43.383,
+  "lon": 24.85,
+  "minZoom": 6,
+  "anchor": "right"
+ },
+ {
+  "id": "x_panaztepe",
+  "lat": 38.6217,
+  "lon": 26.9406,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_limantepe",
+  "lat": 38.3627,
+  "lon": 26.7758,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_apasa",
+  "lat": 37.9555,
+  "lon": 27.3681,
+  "minZoom": 7,
+  "anchor": "right"
+ },
+ {
+  "id": "x_iasos",
+  "lat": 37.2792,
+  "lon": 27.5849,
+  "minZoom": 8,
+  "anchor": "right"
+ },
+ {
+  "id": "x_kommos",
+  "lat": 35.0132,
+  "lon": 24.7608,
+  "minZoom": 8,
+  "anchor": "left"
+ },
+ {
+  "id": "x_kydonia",
+  "lat": 35.5158,
+  "lon": 24.0187,
+  "minZoom": 7,
+  "anchor": "right"
+ },
+ {
+  "id": "x_uluburun",
+  "lat": 36.1286,
+  "lon": 29.6858,
+  "minZoom": 6,
+  "anchor": "right",
+  "sea": true
+ },
+ {
+  "id": "x_gelidonya",
+  "lat": 36.215,
+  "lon": 30.407,
+  "minZoom": 6,
+  "anchor": "right",
+  "sea": true
+ }
+]

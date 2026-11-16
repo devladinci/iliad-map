@@ -1,0 +1,168 @@
+[
+ {
+  "id": "achilles",
+  "side": "achaean",
+  "home": "phthia",
+  "father": "peleus",
+  "mother": "thetis",
+  "patrons": [
+   "athena",
+   "hera",
+   "thetis"
+  ],
+  "family": "aeacus"
+ },
+ {
+  "id": "agamemnon",
+  "side": "achaean",
+  "home": "mycenae",
+  "father": "atreus",
+  "family": "atreus"
+ },
+ {
+  "id": "menelaus",
+  "side": "achaean",
+  "home": "sparta",
+  "father": "atreus",
+  "patrons": [
+   "hera",
+   "athena"
+  ],
+  "family": "atreus"
+ },
+ {
+  "id": "odysseus",
+  "side": "achaean",
+  "home": "ithaca",
+  "father": "laertes",
+  "patrons": [
+   "athena"
+  ]
+ },
+ {
+  "id": "ajax",
+  "side": "achaean",
+  "home": "salamis",
+  "father": "telamon",
+  "family": "telamon"
+ },
+ {
+  "id": "ajax_lesser",
+  "side": "achaean",
+  "home": "opous",
+  "father": "oileus"
+ },
+ {
+  "id": "diomedes",
+  "side": "achaean",
+  "home": "argos",
+  "father": "tydeus",
+  "patrons": [
+   "athena"
+  ],
+  "family": "diomedes"
+ },
+ {
+  "id": "nestor",
+  "side": "achaean",
+  "home": "pylos",
+  "father": "neleus",
+  "family": "nestor"
+ },
+ {
+  "id": "patroclus",
+  "side": "achaean",
+  "home": "opous",
+  "father": "menoetius"
+ },
+ {
+  "id": "idomeneus",
+  "side": "achaean",
+  "home": "knossos",
+  "father": "deucalion"
+ },
+ {
+  "id": "hector",
+  "side": "trojan",
+  "home": "troy",
+  "father": "priam",
+  "mother": "hecuba",
+  "patrons": [
+   "apollo"
+  ],
+  "family": "troy"
+ },
+ {
+  "id": "paris",
+  "side": "trojan",
+  "home": "troy",
+  "father": "priam",
+  "mother": "hecuba",
+  "patrons": [
+   "aphrodite",
+   "apollo"
+  ],
+  "family": "troy"
+ },
+ {
+  "id": "priam",
+  "side": "trojan",
+  "home": "troy",
+  "father": "laomedon",
+  "family": "troy"
+ },
+ {
+  "id": "aeneas",
+  "side": "trojan",
+  "home": "dardania",
+  "father": "anchises",
+  "mother": "aphrodite",
+  "patrons": [
+   "aphrodite",
+   "apollo"
+  ],
+  "family": "troy"
+ },
+ {
+  "id": "sarpedon",
+  "side": "trojan",
+  "home": "lycia",
+  "father": "zeus",
+  "mother": "laodameia",
+  "patrons": [
+   "zeus"
+  ],
+  "family": "lycia"
+ },
+ {
+  "id": "glaucus",
+  "side": "trojan",
+  "home": "lycia",
+  "father": "hippolochus",
+  "family": "lycia"
+ },
+ {
+  "id": "helen",
+  "side": "trojan",
+  "home": "sparta",
+  "father": "zeus",
+  "patrons": [
+   "aphrodite"
+  ],
+  "family": "atreus"
+ },
+ {
+  "id": "andromache",
+  "side": "trojan",
+  "home": "thebe",
+  "father": "eetion",
+  "family": "troy"
+ },
+ {
+  "id": "hecuba",
+  "side": "trojan",
+  "home": "phrygia",
+  "father": "dymas",
+  "family": "troy"
+ }
+]

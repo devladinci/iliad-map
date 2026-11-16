@@ -1,0 +1,293 @@
+{
+ "names": {
+  "zeus": "Zeus",
+  "hera": "Hera",
+  "athena": "Athena",
+  "poseidon": "Poseidon",
+  "hermes": "Hermes",
+  "hephaestus": "Hephaestus",
+  "thetis": "Thetis",
+  "apollo": "Apollo",
+  "artemis": "Artemis",
+  "leto": "Leto",
+  "aphrodite": "Aphrodite",
+  "ares": "Ares",
+  "xanthos": "Xanthus (Scamander)",
+  "dardanus": "Dardanus",
+  "erichthonius": "Erichthonius",
+  "tros": "Tros",
+  "ilus": "Ilus",
+  "laomedon": "Laomedon",
+  "priam": "Priam",
+  "hecuba": "Hecuba",
+  "hector": "Hector",
+  "andromache": "Andromache",
+  "astyanax": "Astyanax",
+  "paris": "Paris (Alexander)",
+  "helen": "Helen",
+  "helenus": "Helenus",
+  "deiphobus": "Deiphobus",
+  "cassandra": "Cassandra",
+  "lycaon": "Lycaon",
+  "polydorus": "Polydorus",
+  "tithonus": "Tithonus",
+  "assaracus": "Assaracus",
+  "capys": "Capys",
+  "anchises": "Anchises",
+  "aeneas": "Aeneas",
+  "ganymede": "Ganymede",
+  "atreus": "Atreus",
+  "agamemnon": "Agamemnon",
+  "clytemnestra": "Clytemnestra",
+  "orestes": "Orestes",
+  "menelaus": "Menelaus",
+  "aeacus": "Aeacus",
+  "peleus": "Peleus",
+  "achilles": "Achilles",
+  "neoptolemus": "Neoptolemus",
+  "telamon": "Telamon",
+  "ajax": "Ajax son of Telamon",
+  "teucer": "Teucer",
+  "neleus": "Neleus",
+  "nestor": "Nestor",
+  "antilochus": "Antilochus",
+  "thrasymedes": "Thrasymedes",
+  "oeneus": "Oeneus",
+  "tydeus": "Tydeus",
+  "diomedes": "Diomedes",
+  "aeolus": "Aeolus",
+  "sisyphus": "Sisyphus",
+  "glaucus1": "Glaucus (the elder)",
+  "bellerophon": "Bellerophon",
+  "isander": "Isander",
+  "hippolochus": "Hippolochus",
+  "glaucus": "Glaucus",
+  "laodameia": "Laodameia",
+  "sarpedon": "Sarpedon",
+  "laertes": "Laertes",
+  "oileus": "Oileus",
+  "menoetius": "Menoetius",
+  "deucalion": "Deucalion",
+  "eetion": "Eetion",
+  "dymas": "Dymas",
+  "ajax_lesser": "Ajax son of Oileus",
+  "odysseus": "Odysseus",
+  "patroclus": "Patroclus",
+  "idomeneus": "Idomeneus"
+ },
+ "gods": {
+  "zeus": "He stands above both sides. {{1|He promises Thetis to help the Trojans until the Achaeans honour Achilles.}}",
+  "hera": "Wife of Zeus. She hates Troy and wants the city to fall.",
+  "athena": "Daughter of Zeus. She protects Achilles, Diomedes and Odysseus.",
+  "poseidon": "Brother of Zeus, god of the sea. He holds a grudge against Troy: he built its walls for King Laomedon and was never paid.",
+  "hermes": "Messenger of the gods.",
+  "hephaestus": "God of fire and smith of the gods, son of Hera.",
+  "thetis": "A sea goddess, mother of Achilles. She is not among the fighting gods, but she does everything for her son.",
+  "apollo": "God of the bow. He guards Troy from the first book on.",
+  "artemis": "Sister of Apollo, goddess of the hunt.",
+  "leto": "Mother of Apollo and Artemis.",
+  "aphrodite": "Goddess of love, mother of Aeneas. She protects Paris.",
+  "ares": "God of war.",
+  "xanthos": "The river of Troy. The gods call it Xanthus, men call it Scamander."
+ },
+ "godsIntro": "The sides are the ones Homer lists in Book 20, lines 31–40.",
+ "families": {
+  "troy": {
+   "name": "The royal house of Troy",
+   "note": "As Aeneas tells it in Book 20, lines 215–240. Lycaon and Polydorus are Priam’s sons by Laothoe, not by Hecuba."
+  },
+  "atreus": {
+   "name": "The sons of Atreus",
+   "note": "The two brothers lead the expedition. Helen is the wife of Menelaus."
+  },
+  "aeacus": {
+   "name": "The line of Achilles",
+   "note": "Aeacus is a son of Zeus (Book 21, line 189)."
+  },
+  "telamon": {
+   "name": "The sons of Telamon",
+   "note": "Ajax and Teucer are half-brothers, with the same father. Later tradition makes Telamon a brother of Peleus. Homer does not say so."
+  },
+  "nestor": {
+   "name": "The line of Nestor",
+   "note": "Nestor is the oldest of the Achaean kings."
+  },
+  "diomedes": {
+   "name": "The line of Diomedes",
+   "note": "{{6|Oeneus once had Bellerophon as his guest (Book 6, lines 215–221). That is why Diomedes and Glaucus do not fight.}}"
+  },
+  "lycia": {
+   "name": "The line of Glaucus and Sarpedon",
+   "note": "Glaucus tells it to Diomedes in Book 6, lines 152–206."
+  }
+ },
+ "familiesIntro": "A name with a dot leads to that person’s home on the map.",
+ "days": {
+  "plague": "Plague in the camp",
+  "quarrel": "The assembly and the quarrel",
+  "waiting": "Achilles stays apart; the gods are away",
+  "olympus": "Thetis goes to Zeus",
+  "battle1": "First day of battle",
+  "burial": "A truce to bury the dead",
+  "wall": "The Achaeans build the wall",
+  "battle2": "Second day of battle and the night after",
+  "battle3": "Third day of battle",
+  "battle4": "Fourth day of battle",
+  "funeral": "A funeral and games",
+  "twelve": "The days after the funeral",
+  "ransom": "Priam’s night",
+  "truce": "A truce for a burial"
+ },
+ "daysNote": "The count of days is approximate: depending on how you count, it comes to between 50 and 54.",
+ "modern": {
+  "istanbul": "Istanbul",
+  "canakkale": "Çanakkale",
+  "izmir": "İzmir",
+  "bursa": "Bursa",
+  "antalya": "Antalya",
+  "ankara": "Ankara",
+  "edirne": "Edirne",
+  "bodrum": "Bodrum",
+  "athens": "Athens (today)",
+  "thessaloniki": "Thessaloniki",
+  "patras": "Patras",
+  "kalamata": "Kalamata",
+  "volos": "Volos",
+  "heraklion": "Heraklion",
+  "rhodes": "Rhodes town",
+  "mytilene": "Mytilene",
+  "alexandroupoli": "Alexandroupoli",
+  "sofia": "Sofia",
+  "plovdiv": "Plovdiv",
+  "skopje": "Skopje",
+  "tirana": "Tirana",
+  "nicosia": "Nicosia",
+  "greece": "Greece",
+  "turkey": "Türkiye",
+  "bulgaria": "Bulgaria",
+  "albania": "Albania",
+  "north_macedonia": "North Macedonia",
+  "cyprus": "Cyprus"
+ },
+ "heroes": {
+  "achilles": {
+   "about": "The strongest of the Achaeans, leader of the Myrmidons.",
+   "find": [
+    "Achilles"
+   ]
+  },
+  "agamemnon": {
+   "about": "King of Mycenae and commander of the expedition.",
+   "find": [
+    "Agamemnon"
+   ]
+  },
+  "menelaus": {
+   "about": "King of Sparta, husband of Helen. The war is fought for his sake.",
+   "find": [
+    "Menelaus"
+   ]
+  },
+  "odysseus": {
+   "about": "King of Ithaca, the most cunning of the Achaeans.",
+   "find": [
+    "Odysseus"
+   ]
+  },
+  "ajax": {
+   "about": "The strongest fighter after Achilles, with a huge shield.",
+   "find": [
+    "Ajax"
+   ]
+  },
+  "ajax_lesser": {
+   "about": "Leader of the Locrians, a fast runner.",
+   "find": [
+    "Ajax son of Oileus",
+    "lesser Ajax",
+    "Lesser Ajax",
+    "two Ajaxes",
+    "Ajaxes"
+   ]
+  },
+  "diomedes": {
+   "about": "King of Argos, young and fearless.",
+   "find": [
+    "Diomedes"
+   ]
+  },
+  "nestor": {
+   "about": "The old king of Pylos, adviser of the Achaeans.",
+   "find": [
+    "Nestor"
+   ]
+  },
+  "patroclus": {
+   "about": "The closest friend of Achilles. He was born in Opus and brought up in Phthia.",
+   "find": [
+    "Patroclus"
+   ]
+  },
+  "idomeneus": {
+   "about": "King of Crete, grandson of Minos.",
+   "find": [
+    "Idomeneus"
+   ]
+  },
+  "hector": {
+   "about": "Son of Priam, the defender of Troy.",
+   "find": [
+    "Hector"
+   ]
+  },
+  "paris": {
+   "about": "Son of Priam. He took Helen from Sparta.",
+   "find": [
+    "Paris",
+    "Alexander"
+   ]
+  },
+  "priam": {
+   "about": "The old king of Troy.",
+   "find": [
+    "Priam"
+   ]
+  },
+  "aeneas": {
+   "about": "Leader of the Dardanians, son of a goddess.",
+   "find": [
+    "Aeneas"
+   ]
+  },
+  "sarpedon": {
+   "about": "King of the Lycians, son of Zeus.",
+   "find": [
+    "Sarpedon"
+   ]
+  },
+  "glaucus": {
+   "about": "Leader of the Lycians together with Sarpedon.",
+   "find": [
+    "Glaucus"
+   ]
+  },
+  "helen": {
+   "about": "Wife of Menelaus, now in Troy with Paris.",
+   "find": [
+    "Helen"
+   ]
+  },
+  "andromache": {
+   "about": "Wife of Hector, daughter of King Eetion.",
+   "find": [
+    "Andromache"
+   ]
+  },
+  "hecuba": {
+   "about": "Queen of Troy, wife of Priam.",
+   "find": [
+    "Hecuba"
+   ]
+  }
+ }
+}

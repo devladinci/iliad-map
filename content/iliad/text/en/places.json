@@ -1,0 +1,998 @@
+{
+ "thebes": {
+  "name": "Thebes",
+  "note": "Boeotia",
+  "heroes": [
+   {
+    "name": "Peneleos",
+    "role": "leader of the Boeotians"
+   },
+   {
+    "name": "Leitus",
+    "role": "leader of the Boeotians"
+   },
+   {
+    "name": "Arcesilaus, Prothoenor and Clonius",
+    "role": "leaders of the Boeotians"
+   }
+  ],
+  "text": "The Catalogue of Ships begins with the Boeotians: 50 ships with 120 men each. It lists 29 places, among them Aulis, Plataea, Thespiae and “Hypothebae” (Lower Thebes). By tradition the citadel itself, the Cadmea, had already been destroyed by the Epigoni.",
+  "loc": "Certain. A Mycenaean palace with a Linear B archive has been excavated under modern Thebes."
+ },
+ "aulis": {
+  "name": "Aulis",
+  "note": "Euboean strait",
+  "text": "The Achaean fleet gathers here before it sails. {{2|Odysseus recalls the omen: a snake eats eight sparrows and their mother. Calchas reads this as a sign that Troy will fall in the tenth year.}}",
+  "loc": "Certain."
+ },
+ "orchomenos": {
+  "name": "Orchomenus",
+  "note": "Boeotia",
+  "heroes": [
+   {
+    "name": "Ascalaphus",
+    "role": "son of Ares{{13|, killed in Book 13}}"
+   },
+   {
+    "name": "Ialmenus",
+    "role": "son of Ares"
+   }
+  ],
+  "text": "The Minyans of Orchomenus and Aspledon bring 30 ships. {{9|In Book 9 Achilles mentions the wealth of Orchomenus.}} The great tholos tomb called the “Treasury of Minyas” is here.",
+  "loc": "Certain."
+ },
+ "panopeus": {
+  "name": "Panopeus (Phocis)",
+  "note": "modern Agios Vlasios",
+  "heroes": [
+   {
+    "name": "Schedius",
+    "role": "son of Iphitus; his home is in Panopeus"
+   },
+   {
+    "name": "Epistrophus",
+    "role": "brother of Schedius"
+   }
+  ],
+  "text": "The Phocians come from Cyparissus, Pytho (Delphi), Crisa, Daulis, Panopeus, Anemoreia, Hyampolis and Lilaea at the springs of the river Cephisus: 40 ships. {{17|Schedius is killed by Hector in Book 17. There it is said that he lives in Panopeus.}}",
+  "loc": "Certain."
+ },
+ "opous": {
+  "name": "Opus (Locris)",
+  "note": "near modern Atalanti",
+  "heroes": [
+   {
+    "name": "Ajax son of Oileus",
+    "role": "“the Lesser Ajax”, a swift runner and spearman"
+   },
+   {
+    "name": "Patroclus",
+    "role": "born in Opus, raised in Phthia"
+   }
+  ],
+  "text": "The Lesser Ajax leads the Locrians from Cynus, Opus, Calliarus, Bessa, Scarphe, Augeiae, Tarphe and Thronium: 40 ships. Homer does not say in which town Ajax himself lives. Patroclus was born in Opus. As a child he killed a playmate during a game, and his father took him to Peleus in Phthia.",
+  "loc": "Approximate. Opus is somewhere near modern Atalanti. Ajax’s town is not named; by late tradition it is Naryx."
+ },
+ "chalcis": {
+  "name": "Chalcis (Euboea)",
+  "note": "Abantes",
+  "heroes": [
+   {
+    "name": "Elephenor",
+    "role": "son of Chalcodon, leader of the Abantes"
+   }
+  ],
+  "text": "The Abantes of Euboea wear their hair long at the back. Their towns: Chalcis, Eretria, Histiaea, Cerinthus, Dium, Carystus, Styra. They bring 40 ships. {{4|Elephenor is killed as early as Book 4.}}",
+  "loc": "Approximate. Classical Chalcis is on the Euripus strait. Nearby, at Lefkandi, there is a large Bronze Age settlement."
+ },
+ "athens": {
+  "name": "Athens",
+  "note": "the Acropolis",
+  "heroes": [
+   {
+    "name": "Menestheus",
+    "role": "son of Peteos, king of Athens"
+   }
+  ],
+  "text": "Menestheus leads 50 ships. Homer praises him as the best at marshalling horses and fighting men; only Nestor can match him.",
+  "loc": "Certain. On the Acropolis there are Mycenaean walls and traces of a palace."
+ },
+ "salamis": {
+  "name": "Salamis",
+  "note": "Mycenaean acropolis of Kanakia",
+  "heroes": [
+   {
+    "name": "Ajax son of Telamon",
+    "role": "“the Greater Ajax”, the strongest Achaean after Achilles"
+   },
+   {
+    "name": "Teucer",
+    "role": "half-brother of Ajax, an archer"
+   }
+  ],
+  "text": "Ajax leads 12 ships from Salamis. He is the “wall of the Achaeans”{{15|: with his huge shield he guards the ships in Book 15}}. {{7|In Book 7 he fights a duel with Hector and the two exchange gifts.}}",
+  "loc": "The island is certain. The Mycenaean settlement is probably at Kanakia. The Classical city of Salamis is elsewhere on the island."
+ },
+ "argos": {
+  "name": "Argos",
+  "note": "the Larisa and Aspis hills",
+  "heroes": [
+   {
+    "name": "Diomedes",
+    "role": "son of Tydeus, one of the bravest Achaeans"
+   },
+   {
+    "name": "Sthenelus",
+    "role": "son of Capaneus, Diomedes’ charioteer"
+   },
+   {
+    "name": "Euryalus",
+    "role": "third leader of the Argives"
+   }
+  ],
+  "text": "Diomedes leads 80 ships from Argos, Tiryns, Hermione, Asine, Troezen, Eionae, Epidaurus, Aegina and Mases. {{5|In Book 5 he wounds even the gods Aphrodite and Ares.}}",
+  "loc": "Certain. Argos has been inhabited without a break from the Bronze Age until today."
+ },
+ "tiryns": {
+  "name": "Tiryns",
+  "text": "“Tiryns of the strong walls” is a town in the kingdom of Diomedes. Its Cyclopean walls are among the best-preserved Mycenaean fortifications. In the Bronze Age the sea was closer to the citadel than it is today.",
+  "loc": "Certain."
+ },
+ "mycenae": {
+  "name": "Mycenae",
+  "note": "the Lion Gate",
+  "heroes": [
+   {
+    "name": "Agamemnon",
+    "role": "king of Mycenae, “lord of men”, commander-in-chief"
+   }
+  ],
+  "text": "The largest force in the expedition: 100 ships. Corinth, Sicyon, Cleonae, Orneae, Pellene, Aegium and Helice also come under Agamemnon. {{1|His quarrel with Achilles over Briseis (Book 1) sets the whole “Iliad” in motion.}}",
+  "loc": "Certain. The citadel with the Lion Gate and the royal tombs has been excavated (Schliemann, 1876)."
+ },
+ "sparta": {
+  "name": "Lacedaemon (Sparta)",
+  "note": "Menelaion, Therapne",
+  "alts": [
+   "Agios Vasileios (Mycenaean palace)"
+  ],
+  "heroes": [
+   {
+    "name": "Menelaus",
+    "role": "king of Lacedaemon, brother of Agamemnon"
+   },
+   {
+    "name": "Helen",
+    "role": "wife of Menelaus, taken to Troy by Paris"
+   }
+  ],
+  "text": "Menelaus leads 60 ships from Pharis, Sparta, Messe, Bryseiae, Augeiae, Amyclae, Helos, Laas and Oetylus. The whole war is because of Helen. {{3|In Book 3 Menelaus and Paris fight a duel for her.}}",
+  "loc": "Approximate. The palace of Menelaus has not been found. The marker is at the Menelaion (Therapne) near Sparta, where there is a Mycenaean settlement. In 2009 a Mycenaean palace was found at Agios Vasileios, about 12 km to the south. It is also a candidate."
+ },
+ "pylos": {
+  "name": "Pylos",
+  "note": "Palace of Nestor, Ano Englianos",
+  "heroes": [
+   {
+    "name": "Nestor",
+    "role": "the oldest king, wise adviser to the Achaeans"
+   },
+   {
+    "name": "Antilochus",
+    "role": "son of Nestor, friend of Achilles"
+   },
+   {
+    "name": "Thrasymedes",
+    "role": "son of Nestor"
+   }
+  ],
+  "text": "Nestor leads 90 ships, the second-largest contingent. His towns: Pylos, Arene, Thryum, Aepy, Cyparisseis, Amphigeneia, Pteleum, Helos, Dorium. {{11|In Book 11 he tells of his youth and the wars with the Epeians.}}",
+  "loc": "Certain. In the excavated palace there are Linear B tablets on which the name pu-ro (Pylos) is written."
+ },
+ "tegea": {
+  "name": "Arcadia (Tegea)",
+  "note": "Tegea",
+  "heroes": [
+   {
+    "name": "Agapenor",
+    "role": "son of Ancaeus, king of the Arcadians"
+   }
+  ],
+  "text": "The Arcadians live inland and are not seafarers, so Agamemnon gives them 60 ships. Towns: Pheneus, Orchomenus, Rhipe, Stratie, Enispe, Tegea, Mantinea, Stymphalus, Parrhasia.",
+  "loc": "Homer does not name Agapenor’s town. The marker is at Tegea, following a later tradition (Pausanias)."
+ },
+ "elis": {
+  "name": "Elis (Epeians)",
+  "note": "Bouprasion",
+  "heroes": [
+   {
+    "name": "Amphimachus",
+    "role": "son of Cteatus"
+   },
+   {
+    "name": "Thalpius",
+    "role": "son of Eurytus"
+   },
+   {
+    "name": "Diores",
+    "role": "son of Amarynceus"
+   },
+   {
+    "name": "Polyxeinus",
+    "role": "son of Agasthenes"
+   }
+  ],
+  "text": "The Epeians of Buprasium and Elis have four leaders with 10 ships each. {{11|Nestor tells of the old wars of Pylos with them (Book 11).}}",
+  "loc": "Approximate. The marker is at the Classical city of Elis. Buprasium has not been found."
+ },
+ "doulichion": {
+  "name": "Dulichium and the Echinades",
+  "note": "Echinades",
+  "heroes": [
+   {
+    "name": "Meges",
+    "role": "son of Phyleus"
+   }
+  ],
+  "text": "Meges leads 40 ships from Dulichium and the “holy Echinades”, the islands opposite Elis.",
+  "loc": "Unknown. Dulichium has not been found. The theories are: part of Cephalonia, Lefkada or the Echinades. Mind the topography: the sediments of the river Achelous have joined part of the Echinades to the mainland since antiquity."
+ },
+ "ithaca": {
+  "name": "Ithaca",
+  "note": "“School of Homer”",
+  "alts": [
+   "Paliki (Cephalonia) – theory",
+   "Lefkada – Dörpfeld’s theory"
+  ],
+  "heroes": [
+   {
+    "name": "Odysseus",
+    "role": "king of the Cephallenians, “the resourceful”"
+   }
+  ],
+  "text": "Odysseus leads the Cephallenians from Ithaca, Neritum, Crocyleia, Aegilips, Zacynthus and Same (Cephalonia). He has only 12 ships, but he is among the chief advisers. {{10|With Diomedes he makes the night raid in Book 10.}}",
+  "loc": "Disputed. Most scholars accept the modern island of Ithaca. There are other theories too: the Paliki peninsula of Cephalonia, or Lefkada. The marker is at the “School of Homer”, where there are Mycenaean finds."
+ },
+ "calydon": {
+  "name": "Aetolia (Calydon)",
+  "note": "Pleurōn",
+  "heroes": [
+   {
+    "name": "Thoas",
+    "role": "son of Andraemon, leader of the Aetolians"
+   }
+  ],
+  "text": "The Aetolians come from Pleuron, Olenus, Pylene, Chalcis and rocky Calydon: 40 ships. The sons of the old king Oeneus are already dead, so Thoas leads them. {{9|Phoenix tells the story of Meleager of Calydon (Book 9).}}",
+  "loc": "Calydon and Pleuron are certain sites. Homer does not say in which town Thoas lives."
+ },
+ "knossos": {
+  "name": "Knossos (Crete)",
+  "heroes": [
+   {
+    "name": "Idomeneus",
+    "role": "king of Crete, grandson of Minos"
+   },
+   {
+    "name": "Meriones",
+    "role": "companion of Idomeneus, an archer"
+   }
+  ],
+  "text": "“Crete of the hundred cities”: Knossos, Gortyn, Lyctus, Miletus, Lycastus, Phaestus and Rhytium. They bring 80 ships. {{13|Idomeneus is a main hero of Book 13.}} {{10|Meriones gives Odysseus a boar’s-tusk helmet (Book 10). Such helmets have been found in Mycenaean graves.}}",
+  "loc": "Certain. The palace at Knossos has a Linear B archive, that is, one in Mycenaean Greek."
+ },
+ "rhodes": {
+  "name": "Rhodes",
+  "note": "Lindos · Kameiros",
+  "heroes": [
+   {
+    "name": "Tlepolemus",
+    "role": "son of Heracles"
+   }
+  ],
+  "text": "The Rhodians live in three towns: Lindus, Ialysus and white Camirus. Tlepolemus fled to Rhodes after he killed his father’s maternal uncle. {{5|He is killed by Sarpedon in Book 5.}}",
+  "loc": "Certain. The marker is at Ialysus, where there is a large Mycenaean settlement and cemetery."
+ },
+ "syme": {
+  "name": "Syme",
+  "heroes": [
+   {
+    "name": "Nireus",
+    "role": "the most handsome Achaean after Achilles, but weak"
+   }
+  ],
+  "text": "The smallest contingent: 3 ships. Homer repeats the name of Nireus three times and says that he was weak and that few men followed him.",
+  "loc": "The island is certain."
+ },
+ "kos": {
+  "name": "Kos",
+  "heroes": [
+   {
+    "name": "Pheidippus",
+    "role": "son of Thessalus, grandson of Heracles"
+   },
+   {
+    "name": "Antiphus",
+    "role": "son of Thessalus"
+   }
+  ],
+  "text": "The men of Nisyrus, Carpathus, Casus, Kos and the Calydnian islands bring 30 ships.",
+  "loc": "Certain. Under the modern town of Kos there is a Mycenaean settlement."
+ },
+ "phthia": {
+  "name": "Phthia",
+  "note": "Hellas · Myrmidons",
+  "alts": [
+   "Spercheius valley – another theory for Phthia"
+  ],
+  "heroes": [
+   {
+    "name": "Achilles (Achilleus)",
+    "role": "son of Peleus and Thetis, the strongest Achaean"
+   },
+   {
+    "name": "Patroclus",
+    "role": "Achilles’ closest companion"
+   },
+   {
+    "name": "Phoenix",
+    "role": "Achilles’ tutor, king of the Dolopians"
+   },
+   {
+    "name": "Automedon",
+    "role": "Achilles’ charioteer"
+   },
+   {
+    "name": "Peleus",
+    "role": "father of Achilles, grown old at home"
+   }
+  ],
+  "text": "The Myrmidons come from Pelasgian Argos, Alus, Alope, Trachis, Phthia and Hellas: 50 ships. {{1|After the quarrel with Agamemnon Achilles stays in his tent (Book 1)}}{{19| and returns to the fighting only after the death of Patroclus}}{{1|.}} Achilles’ river is the Spercheius; he has promised his hair to it (Book 23).",
+  "loc": "Unknown. The town of Phthia has not been found. Ancient authors look for it around Pharsalus or in the valley of the river Spercheius. The marker shows only the region."
+ },
+ "phylake": {
+  "name": "Phylace",
+  "note": "Achaea Phthiotis",
+  "heroes": [
+   {
+    "name": "Protesilaus",
+    "role": "the first Achaean to die; he was the first to leap ashore"
+   },
+   {
+    "name": "Podarces",
+    "role": "brother of Protesilaus, takes over the command"
+   }
+  ],
+  "text": "Phylace, Pyrasus, Iton, Antron and Pteleum bring 40 ships. Protesilaus leaves behind at home an unfinished house and a wife in tears.",
+  "loc": "Approximate. The site is placed in Achaea Phthiotis, but without secure Bronze Age evidence."
+ },
+ "pherai": {
+  "name": "Pherae",
+  "note": "modern Velestino",
+  "heroes": [
+   {
+    "name": "Eumelus",
+    "role": "son of Admetus and Alcestis, with the best horses"
+   }
+  ],
+  "text": "Pherae, Boebe, Glaphyrae and Iolcus bring 11 ships. Eumelus’ mares are the fastest{{23|, but in the race in Book 23 Athena breaks his chariot}}. Beside Boebe there was a large lake (Boebeis), drained in the 20th century.",
+  "loc": "Certain."
+ },
+ "iolkos": {
+  "name": "Iolcus",
+  "note": "at modern Volos",
+  "text": "A town in the kingdom of Eumelus. According to the myth, the Argonauts set out from here. At Volos (Dimini and Kastro) there are Mycenaean palaces.",
+  "loc": "Probably at modern Volos."
+ },
+ "methone": {
+  "name": "Methone (Magnesia)",
+  "note": "Meliboia",
+  "heroes": [
+   {
+    "name": "Philoctetes",
+    "role": "famous archer; left on Lemnos, bitten by a snake"
+   },
+   {
+    "name": "Medon",
+    "role": "illegitimate son of Oileus, leads in Philoctetes’ place"
+   }
+  ],
+  "text": "Methone, Thaumacia, Meliboea and Olizon bring 7 ships, each with 50 rowers who are also archers. Homer says that the Achaeans will soon remember Philoctetes. {{25|This is a hint at his later return.}}",
+  "loc": "Disputed. Methone has been located. Meliboea (by tradition the town of Philoctetes) has not been found."
+ },
+ "trikka": {
+  "name": "Tricca",
+  "note": "modern Trikala",
+  "heroes": [
+   {
+    "name": "Machaon",
+    "role": "healer, son of Asclepius"
+   },
+   {
+    "name": "Podalirius",
+    "role": "healer, son of Asclepius"
+   }
+  ],
+  "text": "Tricca, Ithome and Oechalia bring 30 ships. {{4|Machaon treats Menelaus after Pandarus’ arrow (Book 4).}}",
+  "loc": "Probable. Ancient Tricca lies under the modern town of Trikala."
+ },
+ "ormenion": {
+  "name": "Ormenium",
+  "heroes": [
+   {
+    "name": "Eurypylus",
+    "role": "son of Euaemon"
+   }
+  ],
+  "text": "Ormenium, the spring Hypereia, Asterium and the white peaks of Titanus bring 40 ships. {{11|The wounded Eurypylus is treated by Patroclus (Book 11).}}",
+  "loc": "Unknown. According to Strabo it is at the foot of Pelion, by the Pagasetic Gulf. The marker is notional."
+ },
+ "argissa": {
+  "name": "Argissa (Lapiths)",
+  "note": "Argoura?",
+  "heroes": [
+   {
+    "name": "Polypoetes",
+    "role": "son of Peirithous, a Lapith"
+   },
+   {
+    "name": "Leonteus",
+    "role": "a Lapith, companion of Polypoetes"
+   }
+  ],
+  "text": "Argissa, Gyrtone, Orthe, Elone and Oloosson bring 40 ships. {{12|The two Lapiths guard the gate of the Achaean wall “like two oaks” (Book 12).}}",
+  "loc": "Disputed. Argissa may be the later Argura near Larissa."
+ },
+ "kyphos": {
+  "name": "Cyphus (Enienes, Perrhaebians)",
+  "note": "river Titaressus",
+  "heroes": [
+   {
+    "name": "Guneus",
+    "role": "leader of the Enienes and the Perrhaebians"
+   }
+  ],
+  "text": "Guneus leads 22 ships from Cyphus. The Enienes live around “wintry Dodona”, and the Perrhaebians by the river Titaressus. It flows into the Peneus, but its water “floats on top like oil”.",
+  "loc": "Unknown. Cyphus has not been found. The marker is in Perrhaebia (northern Thessaly)."
+ },
+ "magnetes": {
+  "name": "Magnesia (Pelion)",
+  "note": "Pēlion",
+  "heroes": [
+   {
+    "name": "Prothous",
+    "role": "son of Tenthredon, leader of the Magnetes"
+   }
+  ],
+  "text": "The Magnetes live around the river Peneus and Mount Pelion. They bring 40 ships. The Catalogue of Ships ends with them.",
+  "loc": "A region only. Homer names no town."
+ },
+ "troy": {
+  "name": "Troy (Ilion)",
+  "note": "modern Hisarlık",
+  "heroes": [
+   {
+    "name": "Priam",
+    "role": "king of Troy"
+   },
+   {
+    "name": "Hector",
+    "role": "Priam’s eldest son, leader of the Trojans"
+   },
+   {
+    "name": "Paris (Alexander)",
+    "role": "the son who carried off Helen"
+   },
+   {
+    "name": "Hecuba",
+    "role": "the queen, a native of Phrygia"
+   },
+   {
+    "name": "Andromache",
+    "role": "Hector’s wife, a native of Thebe"
+   },
+   {
+    "name": "Cassandra",
+    "role": "daughter of Priam"
+   },
+   {
+    "name": "Deiphobus and Helenus",
+    "role": "sons of Priam; Helenus is a seer"
+   },
+   {
+    "name": "Polydamas",
+    "role": "wise adviser to Hector"
+   },
+   {
+    "name": "Antenor",
+    "role": "elder, adviser to Priam"
+   }
+  ],
+  "text": "Priam’s citadel. Late Troy VI and Troy VIIa (about 1300–1180 BC) match the time of the war: strong walls with towers and a large lower city. Homer mentions the Scaean Gates, the tower above them, the fig tree and the two springs of the Scamander, one warm and one cold (Book 22).",
+  "loc": "Certain. Hisarlık was excavated by Schliemann, Dörpfeld, Blegen and Korfmann. The Hittite texts probably call it Wilusa, that is, (W)Ilion."
+ },
+ "dardania": {
+  "name": "Dardania",
+  "note": "the upper Scamander valley",
+  "heroes": [
+   {
+    "name": "Aeneas",
+    "role": "son of Anchises and Aphrodite, leader of the Dardanians"
+   },
+   {
+    "name": "Archelochus and Acamas",
+    "role": "sons of Antenor"
+   },
+   {
+    "name": "Anchises",
+    "role": "father of Aeneas; he grazed herds on Ida"
+   }
+  ],
+  "text": "The Dardanians live “at the foot of Ida”. According to Aeneas (Book 20), Dardania was founded before Ilion, when people still lived on the slopes of the mountain.",
+  "loc": "Unknown. The exact site has not been found. It is probably in the upper Scamander valley, around modern Bayramiç."
+ },
+ "zeleia": {
+  "name": "Zeleia",
+  "note": "river Aesepus",
+  "heroes": [
+   {
+    "name": "Pandarus",
+    "role": "son of Lycaon; he shoots with a bow, a gift from Apollo"
+   }
+  ],
+  "text": "The Trojans of Zeleia live at the foot of Ida and drink the water of the river Aesepus. {{4|In Book 4 Pandarus breaks the truce: he shoots at Menelaus.}} {{5|He is killed by Diomedes in Book 5.}}",
+  "loc": "Probable. The Zeleia of later authors, near modern Sarıköy."
+ },
+ "adrasteia": {
+  "name": "Adrasteia",
+  "note": "Apaisos · Pityeia",
+  "heroes": [
+   {
+    "name": "Adrastus and Amphius",
+    "role": "sons of the seer Merops of Percote"
+   }
+  ],
+  "text": "Adrasteia, Apaesus, Pityeia and Mount Tereia. Merops foresaw the death of his sons and did not want to let them go to war. {{11|Diomedes kills them in Book 11.}}",
+  "loc": "Approximate. The later Adrasteia near the Sea of Marmara."
+ },
+ "percote": {
+  "name": "Percote",
+  "heroes": [
+   {
+    "name": "Merops",
+    "role": "seer, father of Adrastus and Amphius"
+   }
+  ],
+  "text": "A town on the Hellespont, in the contingent of Asius. Melanippus, a kinsman of Priam, grazed his cattle there (Book 15).",
+  "loc": "Approximate."
+ },
+ "arisbe": {
+  "name": "Arisbe",
+  "note": "river Selleis",
+  "heroes": [
+   {
+    "name": "Asius",
+    "role": "son of Hyrtacus, from Arisbe"
+   }
+  ],
+  "text": "Percote, Practius, Sestos, Abydos and Arisbe. {{12|Asius is the only one who attacks the Achaean wall with a chariot.}} {{13|He is killed by Idomeneus (Book 13).}}",
+  "loc": "Probable, but not certain. Near modern Musaköy."
+ },
+ "abydos": {
+  "name": "Abydos",
+  "note": "Cape Nara",
+  "heroes": [
+   {
+    "name": "Democoon",
+    "role": "illegitimate son of Priam"
+   }
+  ],
+  "text": "A town on the Asian shore of the Hellespont, in the contingent of Asius. Democoon{{4|, killed by Odysseus,}} came from here.",
+  "loc": "Certain."
+ },
+ "sestos": {
+  "name": "Sestos",
+  "text": "The only town on the European shore in the contingent of Asius.",
+  "loc": "Certain."
+ },
+ "larisa": {
+  "name": "Larisa (Pelasgians)",
+  "note": "Limantepe (Troad)",
+  "alts": [
+   "Larisa Phriconis – another theory"
+  ],
+  "heroes": [
+   {
+    "name": "Hippothous",
+    "role": "son of Lethus, a Pelasgian"
+   },
+   {
+    "name": "Pylaeus",
+    "role": "brother of Hippothous"
+   }
+  ],
+  "text": "The Pelasgians come from fertile Larisa. {{17|Hippothous is killed over the body of Patroclus “far from Larisa” (Book 17).}}",
+  "loc": "Disputed. The marker is at Larisa in the Troad. Strabo prefers Larisa Phriconis near Cyme, in Aeolis."
+ },
+ "ainos": {
+  "name": "Aenus (Thracians)",
+  "note": "modern Enez, mouth of the Maritsa",
+  "heroes": [
+   {
+    "name": "Peirous",
+    "role": "son of Imbrasus; “came from Aenus”"
+   },
+   {
+    "name": "Acamas",
+    "role": "leader of the Thracians"
+   }
+  ],
+  "text": "The Thracians live in the land “enclosed by the stormy Hellespont”. {{4|Peirous kills the Achaean Diores and is himself killed by Thoas (Book 4).}}",
+  "loc": "Probable. Modern Enez at the mouth of the river Hebrus (Maritsa)."
+ },
+ "rhesus": {
+  "name": "Rhesus (Thrace)",
+  "note": "later tradition: river Strymon (Struma)",
+  "heroes": [
+   {
+    "name": "Rhesus",
+    "role": "king of the Thracians, son of Eioneus, with white horses"
+   }
+  ],
+  "text": "{{10|Rhesus arrives last, with splendid white horses and golden armour.}} {{10|On the very first night Odysseus and Diomedes kill him in his sleep and lead away the horses (Book 10).}}",
+  "loc": "Unknown. Homer does not say where he is from. The later tragedy “Rhesus” makes him the son of the river Strymon (Struma). The marker is notional, on the lower course of the Struma."
+ },
+ "ismaros": {
+  "name": "Ismarus (Cicones)",
+  "note": "at Maroneia",
+  "heroes": [
+   {
+    "name": "Euphemus",
+    "role": "son of Troezenus, leader of the Cicones"
+   }
+  ],
+  "text": "The Cicones are spearmen from Thrace. {{25|In the “Odyssey” Odysseus sacks their town Ismarus.}}",
+  "loc": "Approximate. Mount Ismarus near Maroneia."
+ },
+ "amydon": {
+  "name": "Amydon (Paeonians)",
+  "note": "river Axius (Vardar)",
+  "heroes": [
+   {
+    "name": "Pyraechmes",
+    "role": "leader of the Paeonians, archers with curved bows"
+   },
+   {
+    "name": "Asteropaeus",
+    "role": "grandson of the river Axius, arrived later"
+   }
+  ],
+  "text": "The Paeonians come from Amydon on the wide Axius (Vardar), “whose water is the most beautiful on earth”. {{21|In Book 21 Asteropaeus, grandson of the river god Axius, fights Achilles with two spears and is killed.}}",
+  "loc": "Unknown. Amydon is sought on the lower Vardar (e.g. near Axiochori). Mind the topography: at that time the Thermaic Gulf reached far inland, almost to Pella."
+ },
+ "paphlagonia": {
+  "name": "Sesamus (Paphlagonia)",
+  "note": "modern Amasra · Eneti",
+  "heroes": [
+   {
+    "name": "Pylaemenes",
+    "role": "king of the Paphlagonians"
+   }
+  ],
+  "text": "The Paphlagonians (Eneti) come from Cytorus, Sesamus, Cromna, Aegialus, Erythini and the river Parthenius, “the land of the wild mules”. {{13|Curiously, Menelaus kills Pylaemenes in Book 5, but in Book 13 he is alive and weeps for his son.}}",
+  "loc": "Probable. Sesamus is Amasra, Cytorus is Gideros. The marker shows the region."
+ },
+ "alybe": {
+  "name": "Alybe (Halizones)",
+  "note": "location unknown",
+  "heroes": [
+   {
+    "name": "Odius and Epistrophus",
+    "role": "leaders of the Halizones"
+   }
+  ],
+  "text": "The Halizones come from far away, from Alybe, “where silver is born”. {{5|Odius is killed as early as Book 5.}}",
+  "loc": "Unknown. Perhaps on the Black Sea coast (they are linked with the Chalybes) or near the river Halys. The marker is entirely notional."
+ },
+ "mysia": {
+  "name": "Mysia",
+  "note": "the region",
+  "heroes": [
+   {
+    "name": "Chromis",
+    "role": "leader of the Mysians"
+   },
+   {
+    "name": "Ennomus",
+    "role": "seer{{21|, killed by Achilles in the river}}"
+   }
+  ],
+  "text": "The Mysians live east of the Troad, towards the Sea of Marmara. {{21|Of Ennomus Homer says that his divining did not save him.}}",
+  "loc": "A region only (north-western Asia Minor)."
+ },
+ "phrygia": {
+  "name": "Ascania (Phrygians)",
+  "note": "Lake İznik",
+  "heroes": [
+   {
+    "name": "Phorcys",
+    "role": "leader of the Phrygians"
+   },
+   {
+    "name": "Ascanius",
+    "role": "leader of the Phrygians"
+   }
+  ],
+  "text": "The Phrygians come from distant Ascania. {{3|Priam tells (Book 3) how as a young man he fought beside them against the Amazons at the river Sangarius.}} Hecuba is the daughter of Dymas, who lived in Phrygia by the Sangarius.",
+  "loc": "Disputed. The Ascanian Lake is usually taken to be modern Lake İznik."
+ },
+ "maeonia": {
+  "name": "Maeonia (Tmolus)",
+  "note": "the Gygaean Lake",
+  "heroes": [
+   {
+    "name": "Mesthles and Antiphus",
+    "role": "sons of Talaemenes and the nymph of the Gygaean Lake"
+   }
+  ],
+  "text": "The Maeonians (the later Lydians) live below Mount Tmolus. The Gygaean Lake is modern Marmara Gölü. Sardis later arises beside it.",
+  "loc": "The lake and the mountain are certain. No town is named."
+ },
+ "miletus": {
+  "name": "Miletus (Carians)",
+  "note": "Millawanda",
+  "heroes": [
+   {
+    "name": "Nastes",
+    "role": "leader of the Carians, “of barbarian speech”"
+   },
+   {
+    "name": "Amphimachus",
+    "role": "his brother, who went into battle wearing gold like a girl"
+   }
+  ],
+  "text": "The Carians hold Miletus, Mount Phthires, the river Maeander and Mycale. Mind the topography: at that time Miletus is on a peninsula in the Latmian Gulf, which today is filled in by the sediments of the Maeander.",
+  "loc": "Certain. There is a Mycenaean layer at Miletus. In the Hittite texts it is probably Millawanda."
+ },
+ "lycia": {
+  "name": "Lycia (river Xanthus)",
+  "note": "Xanthos",
+  "heroes": [
+   {
+    "name": "Sarpedon",
+    "role": "son of Zeus, king of the Lycians"
+   },
+   {
+    "name": "Glaucus",
+    "role": "cousin of Sarpedon"
+   }
+  ],
+  "text": "The Lycians come from far away, from the eddying Xanthus. {{6|Glaucus and Diomedes exchange armour, gold for bronze (Book 6).}} {{16|Sarpedon is killed by Patroclus; Sleep and Death carry his body to Lycia (Book 16).}}",
+  "loc": "Approximate. The city of Xanthos is later. In the Bronze Age this is the land of Lukka of the Hittite texts."
+ },
+ "thebe": {
+  "name": "Thebe under Placus",
+  "note": "Cilicians",
+  "heroes": [
+   {
+    "name": "Andromache",
+    "role": "Hector’s wife"
+   },
+   {
+    "name": "Eetion",
+    "role": "king of the Cilicians, father of Andromache"
+   }
+  ],
+  "text": "The town of Eetion, under wooded Placus. Achilles sacks it and kills Eetion and Andromache’s seven brothers (Book 6). Chryseis too is from the same plunder (Book 1).",
+  "loc": "Disputed. The site is not proven. The “Barrington Atlas” places it about 1.5 km north of Edremit (the marker)."
+ },
+ "lyrnessos": {
+  "name": "Lyrnessus",
+  "heroes": [
+   {
+    "name": "Briseis",
+    "role": "Achilles’ captive{{1|, the cause of his wrath}}"
+   },
+   {
+    "name": "Mynes",
+    "role": "Briseis’ husband, killed by Achilles"
+   }
+  ],
+  "text": "Achilles destroys Lyrnessus and Thebe. He kills Briseis’ husband and brothers and takes her as his prize. Aeneas barely escapes from Achilles here.",
+  "loc": "Unknown. The marker follows the “Barrington Atlas”."
+ },
+ "chryse": {
+  "name": "Chryse",
+  "note": "Apollo Smintheus",
+  "alts": [
+   "Smintheum at Gülpınar – another possibility"
+  ],
+  "heroes": [
+   {
+    "name": "Chryses",
+    "role": "priest of Apollo"
+   },
+   {
+    "name": "Chryseis",
+    "role": "his daughter, Agamemnon’s captive"
+   }
+  ],
+  "text": "The “Iliad” begins here. {{1|Chryses pleads for his daughter, Agamemnon drives him away, and Apollo sends a plague on the camp.}} {{1|Odysseus takes Chryseis back by ship to the harbour of Chryse.}} {{1|Chryses prays to Apollo, “who guards Chryse and holy Cilla and rules over Tenedos”.}}",
+  "loc": "Disputed. Strabo places it on the Gulf of Adramyttium (the marker). The other possibility is the temple of Apollo Smintheus at Gülpınar, which is later, however."
+ },
+ "pedasos": {
+  "name": "Pedasus (Leleges)",
+  "note": "river Satnioeis",
+  "heroes": [
+   {
+    "name": "Altes",
+    "role": "king of the Leleges"
+   },
+   {
+    "name": "Laothoe",
+    "role": "daughter of Altes, wife of Priam, mother of Lycaon and Polydorus"
+   }
+  ],
+  "text": "“High Pedasus” on the river Satnioeis (modern Tuzla). Achilles sacks it on the same campaign in which he attacks Lyrnessus.",
+  "loc": "Unknown. The marker is notional (after the “Barrington Atlas”)."
+ },
+ "camp": {
+  "name": "Achaean camp",
+  "note": "the ships, the wall and the ditch",
+  "alts": [
+   "Beşik Bay – Korfmann’s theory"
+  ],
+  "heroes": [
+   {
+    "name": "Achilles",
+    "role": "his tent is at one end of the camp"
+   },
+   {
+    "name": "Ajax son of Telamon",
+    "role": "at the other end"
+   },
+   {
+    "name": "Odysseus",
+    "role": "his ship is in the middle"
+   }
+  ],
+  "text": "The ships are drawn up on the shore in several rows, because the shore is narrow. Achilles and Ajax are at the two ends, Odysseus is in the middle. {{7|The Achaeans build a wall and a ditch around the camp (Book 7).}} {{12|After the war Poseidon and Apollo sweep them away with the waters of eight rivers from Ida (Book 12).}}",
+  "loc": "Disputed. According to the geological drill cores (Kraft, Kayan, Luce), the camp is on the western shore of what was then the bay, below the Sigeum ridge. Another theory (Korfmann) places it at Beşik Bay on the Aegean Sea."
+ },
+ "sigeion": {
+  "name": "Sigeum",
+  "note": "Yenişehir",
+  "refNote": "the name is not in Homer",
+  "text": "A cape and a ridge west of what was then the bay. {{25|Ancient tradition places the tomb of Achilles and Patroclus here.}} The name Sigeum is later; it is not in Homer.",
+  "loc": "The site is certain."
+ },
+ "rhoiteion": {
+  "name": "Rhoeteum",
+  "note": "İntepe",
+  "refNote": "the name is not in Homer",
+  "text": "A hill east of what was then the bay. {{25|Ancient tradition places the tomb of Ajax here.}} The name is later; it is not in Homer.",
+  "loc": "The site is certain."
+ },
+ "kallikolone": {
+  "name": "Callicolone",
+  "note": "“the Beautiful Hill”",
+  "text": "A hill above the Simoeis. {{20|Ares calls to the Trojans from here, and the gods who help Troy sit here to watch the battle.}}",
+  "loc": "Disputed. The marker follows the “Barrington Atlas”."
+ },
+ "thymbra": {
+  "name": "Thymbra",
+  "note": "the Kemer valley",
+  "text": "{{10|Dolon tells Odysseus and Diomedes that the Lycians, Mysians, Phrygians and Maeonians are camped towards Thymbra.}} Later there is a temple of Thymbraean Apollo here.",
+  "loc": "Approximate. The plain south of Troy, along the river Thymbrius (modern Kemer)."
+ },
+ "ida": {
+  "name": "Ida (Gargarus)",
+  "note": "Gargaron · modern Kaz Dağı, 1774 m",
+  "heroes": [
+   {
+    "name": "Zeus",
+    "role": "{{8|watches the battle from the peak of Gargarus}}"
+   }
+  ],
+  "text": "“Ida of the many springs, mother of wild beasts”. On the peak of Gargarus Zeus has a sanctuary{{8| and from there he watches the war}}. {{14|Here Hera puts him to sleep (Book 14).}} Ida is the source of the rivers{{12| that later sweep away the Achaean wall}}.",
+  "loc": "The mountain is certain. Gargarus is one of its peaks."
+ },
+ "lekton": {
+  "name": "Lectum",
+  "note": "Cape Baba",
+  "heroes": [
+   {
+    "name": "Hera and Sleep",
+    "role": "{{14|step onto land here}}"
+   }
+  ],
+  "text": "{{14|Hera and Sleep fly over from Lemnos and Imbros and step onto land here.}} {{14|From there they climb Ida.}}",
+  "loc": "Certain."
+ },
+ "tenedos": {
+  "name": "Tenedos",
+  "note": "modern Bozcaada",
+  "text": "Apollo’s island. Achilles has sacked it; Hecamede, Nestor’s slave woman, comes from there. {{13|Poseidon keeps his horses in a cave between Tenedos and Imbros (Book 13).}}",
+  "loc": "Certain."
+ },
+ "imbros": {
+  "name": "Imbros",
+  "note": "modern Gökçeada",
+  "text": "An island opposite the Troad. Achilles sells Lycaon, son of Priam, into slavery on Lemnos, and Eetion of Imbros ransoms him (Book 21).",
+  "loc": "Certain."
+ },
+ "samothrace": {
+  "name": "Samothrace",
+  "note": "Mount Saos, 1611 m",
+  "heroes": [
+   {
+    "name": "Poseidon",
+    "role": "{{13|watches the battle from the island’s peak}}"
+   }
+  ],
+  "text": "{{13|From the highest peak of Samothrace Poseidon watches the battle. From there Ida, Troy and the ships can be seen.}} {{13|Then he comes down to help the Achaeans.}}",
+  "loc": "Certain."
+ },
+ "lemnos": {
+  "name": "Lemnos",
+  "note": "the settlement of Poliochni",
+  "heroes": [
+   {
+    "name": "Philoctetes",
+    "role": "abandoned here with his wound"
+   },
+   {
+    "name": "Euneus",
+    "role": "son of Jason{{7|, sends wine to the Achaeans}}"
+   }
+  ],
+  "text": "Hephaestus falls here, thrown from Olympus by Zeus. The Achaeans abandon Philoctetes on the island. {{7|Euneus, son of Jason, sends ships with wine.}} {{14|Hera comes here to find Sleep (Book 14).}}",
+  "loc": "Certain."
+ },
+ "lesbos": {
+  "name": "Lesbos",
+  "text": "Achilles has captured Lesbos. {{9|From there come the captive women whom Agamemnon promises to Achilles to appease him (Book 9).}}",
+  "loc": "Certain."
+ },
+ "olympus": {
+  "name": "Olympus",
+  "note": "2918 m",
+  "heroes": [
+   {
+    "name": "Zeus and the gods",
+    "role": "live on the summit"
+   }
+  ],
+  "text": "The home of the gods. {{1|Thetis goes up here to plead with Zeus for Achilles (Book 1).}} On Olympus the gods argue about the war.",
+  "loc": "Certain."
+ },
+ "scamander": {
+  "name": "Scamander (Xanthus)",
+  "note": "modern Karamenderes",
+  "text": "The gods call it Xanthus, men call it Scamander (Book 20). {{21|In Book 21 the river, choked with corpses, rises against Achilles, and Hephaestus dries it up with fire.}} Its two springs, one warm and one cold, are in front of the Scaean Gates.",
+  "loc": "The dashed line is the approximate riverbed around 1200 BC. The rivers meandered across the whole plain and their beds often shifted. The thin line is today’s riverbed."
+ },
+ "simoeis": {
+  "name": "Simoeis",
+  "note": "modern Dümrek",
+  "text": "The Simoeis flows into the Scamander in front of Troy (Book 5). {{21|In Book 21 the Scamander calls his brother Simoeis to help him against Achilles.}}",
+  "loc": "Approximate. Drill cores show that in the Bronze Age the riverbed ran right below the northern slope of Troy. Later it shifted north."
+ },
+ "hellespont": {
+  "name": "Hellespont",
+  "note": "modern Dardanelles",
+  "text": "The “broad Hellespont”, today the Dardanelles. The Achaean ships are drawn up on its shore.",
+  "loc": "Certain."
+ },
+ "athos": {
+  "name": "Athos",
+  "note": "2033 m",
+  "text": "{{14|On her way to Lemnos Hera steps from the peak of Athos into the sea.}}",
+  "loc": "Certain."
+ },
+ "kyllene": {
+  "name": "Cyllene",
+  "note": "2376 m",
+  "text": "The Arcadians live “under the steep mountain of Cyllene”, near the tomb of Aepytus.",
+  "loc": "Certain."
+ }
+}

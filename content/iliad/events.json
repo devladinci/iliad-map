@@ -1,0 +1,170 @@
+[
+ {
+  "id": "e_scaean",
+  "lat": 39.9573,
+  "lon": 26.236,
+  "certainty": 3,
+  "minZoom": 13,
+  "anchor": "left",
+  "books": [
+   3,
+   6,
+   16,
+   22
+  ]
+ },
+ {
+  "id": "e_springs",
+  "lat": 39.956,
+  "lon": 26.2342,
+  "certainty": 3,
+  "minZoom": 13,
+  "anchor": "left",
+  "books": [
+   22
+  ]
+ },
+ {
+  "id": "e_ford",
+  "lat": 39.96,
+  "lon": 26.2258,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "right",
+  "books": [
+   5,
+   6,
+   14,
+   21,
+   24
+  ]
+ },
+ {
+  "id": "e_ilos",
+  "lat": 39.9612,
+  "lon": 26.231,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "right",
+  "books": [
+   10,
+   11,
+   24
+  ]
+ },
+ {
+  "id": "e_batieia",
+  "lat": 39.952,
+  "lon": 26.23,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "right",
+  "books": [
+   2
+  ]
+ },
+ {
+  "id": "e_duels",
+  "lat": 39.9545,
+  "lon": 26.2175,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "left",
+  "books": [
+   3,
+   4,
+   7
+  ]
+ },
+ {
+  "id": "e_patroclus",
+  "lat": 39.9588,
+  "lon": 26.2335,
+  "certainty": 3,
+  "minZoom": 13,
+  "anchor": "right",
+  "books": [
+   16,
+   17
+  ]
+ },
+ {
+  "id": "e_bivouac",
+  "lat": 39.968,
+  "lon": 26.203,
+  "certainty": 3,
+  "minZoom": 11,
+  "anchor": "bottom",
+  "books": [
+   8,
+   10
+  ]
+ },
+ {
+  "id": "e_rhesus",
+  "lat": 39.9655,
+  "lon": 26.1975,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "left",
+  "books": [
+   10
+  ]
+ },
+ {
+  "id": "e_wall",
+  "lat": 39.981,
+  "lon": 26.1975,
+  "certainty": 3,
+  "minZoom": 11,
+  "anchor": "left",
+  "books": [
+   7,
+   8,
+   9,
+   12,
+   18
+  ]
+ },
+ {
+  "id": "e_ships",
+  "lat": 39.985,
+  "lon": 26.199,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "right",
+  "books": [
+   13,
+   15,
+   16
+  ]
+ },
+ {
+  "id": "e_tent",
+  "lat": 39.9985,
+  "lon": 26.1985,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "left",
+  "books": [
+   1,
+   9,
+   11,
+   16,
+   18,
+   19,
+   24
+  ]
+ },
+ {
+  "id": "e_pyre",
+  "lat": 40.003,
+  "lon": 26.201,
+  "certainty": 3,
+  "minZoom": 12,
+  "anchor": "right",
+  "books": [
+   23
+  ]
+ }
+]

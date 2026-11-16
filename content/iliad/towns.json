@@ -1,0 +1,541 @@
+[
+ {
+  "id": "tw01",
+  "lat": 38.2211,
+  "lon": 23.2735,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw02",
+  "lat": 38.2945,
+  "lon": 23.1524,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw03",
+  "lat": 38.3783,
+  "lon": 23.0866,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw04",
+  "lat": 38.3733,
+  "lon": 23.1503,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw05",
+  "lat": 38.4977,
+  "lon": 23.4517,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw06",
+  "lat": 38.2682,
+  "lon": 23.2047,
+  "parent": "thebes",
+  "certainty": 1
+ },
+ {
+  "id": "tw07",
+  "lat": 38.2609,
+  "lon": 22.9678,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw08",
+  "lat": 38.4568,
+  "lon": 23.5648,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw09",
+  "lat": 38.4167,
+  "lon": 23.5196,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw10",
+  "lat": 38.5015,
+  "lon": 23.1633,
+  "parent": "thebes",
+  "certainty": 2
+ },
+ {
+  "id": "tw11",
+  "lat": 38.4823,
+  "lon": 22.5012,
+  "parent": "panopeus",
+  "certainty": 1
+ },
+ {
+  "id": "tw12",
+  "lat": 38.4654,
+  "lon": 22.4596,
+  "parent": "panopeus",
+  "certainty": 2
+ },
+ {
+  "id": "tw13",
+  "lat": 38.5075,
+  "lon": 22.7289,
+  "parent": "panopeus",
+  "certainty": 2
+ },
+ {
+  "id": "tw14",
+  "lat": 38.5961,
+  "lon": 22.9056,
+  "parent": "panopeus",
+  "certainty": 2
+ },
+ {
+  "id": "tw15",
+  "lat": 38.632,
+  "lon": 22.5013,
+  "parent": "panopeus",
+  "certainty": 2
+ },
+ {
+  "id": "tw16",
+  "lat": 38.7184,
+  "lon": 23.0702,
+  "parent": "opous",
+  "certainty": 1
+ },
+ {
+  "id": "tw17",
+  "lat": 38.7758,
+  "lon": 22.7257,
+  "parent": "opous",
+  "certainty": 2
+ },
+ {
+  "id": "tw18",
+  "lat": 38.8091,
+  "lon": 22.6638,
+  "parent": "opous",
+  "certainty": 2
+ },
+ {
+  "id": "tw19",
+  "lat": 38.3999,
+  "lon": 23.7947,
+  "parent": "chalcis",
+  "certainty": 2
+ },
+ {
+  "id": "tw20",
+  "lat": 38.9466,
+  "lon": 23.0905,
+  "parent": "chalcis",
+  "certainty": 2
+ },
+ {
+  "id": "tw21",
+  "lat": 38.8346,
+  "lon": 23.4719,
+  "parent": "chalcis",
+  "certainty": 2
+ },
+ {
+  "id": "tw22",
+  "lat": 38.0348,
+  "lon": 24.4314,
+  "parent": "chalcis",
+  "certainty": 2
+ },
+ {
+  "id": "tw23",
+  "lat": 38.1458,
+  "lon": 24.2618,
+  "parent": "chalcis",
+  "certainty": 2
+ },
+ {
+  "id": "tw24",
+  "lat": 37.3852,
+  "lon": 23.2436,
+  "parent": "argos",
+  "certainty": 2
+ },
+ {
+  "id": "tw25",
+  "lat": 37.5359,
+  "lon": 22.8689,
+  "parent": "argos",
+  "certainty": 1
+ },
+ {
+  "id": "tw26",
+  "lat": 37.5031,
+  "lon": 23.3485,
+  "parent": "argos",
+  "certainty": 2
+ },
+ {
+  "id": "tw27",
+  "lat": 37.6335,
+  "lon": 23.1602,
+  "parent": "argos",
+  "certainty": 2
+ },
+ {
+  "id": "tw28",
+  "lat": 37.7501,
+  "lon": 23.4237,
+  "parent": "argos",
+  "certainty": 2
+ },
+ {
+  "id": "tw29",
+  "lat": 37.9069,
+  "lon": 22.877,
+  "parent": "mycenae",
+  "certainty": 2
+ },
+ {
+  "id": "tw30",
+  "lat": 37.8197,
+  "lon": 22.7762,
+  "parent": "mycenae",
+  "certainty": 2
+ },
+ {
+  "id": "tw31",
+  "lat": 37.7179,
+  "lon": 22.5473,
+  "parent": "mycenae",
+  "certainty": 2
+ },
+ {
+  "id": "tw32",
+  "lat": 37.9838,
+  "lon": 22.7122,
+  "parent": "mycenae",
+  "certainty": 2
+ },
+ {
+  "id": "tw33",
+  "lat": 38.0432,
+  "lon": 22.5483,
+  "parent": "mycenae",
+  "certainty": 2
+ },
+ {
+  "id": "tw34",
+  "lat": 38.2527,
+  "lon": 22.082,
+  "parent": "mycenae",
+  "certainty": 2
+ },
+ {
+  "id": "tw35",
+  "lat": 38.222,
+  "lon": 22.1318,
+  "parent": "mycenae",
+  "certainty": 3
+ },
+ {
+  "id": "tw36",
+  "lat": 37.0363,
+  "lon": 22.4503,
+  "parent": "sparta",
+  "certainty": 2
+ },
+ {
+  "id": "tw37",
+  "lat": 36.8432,
+  "lon": 22.6075,
+  "parent": "sparta",
+  "certainty": 3
+ },
+ {
+  "id": "tw38",
+  "lat": 36.7051,
+  "lon": 22.3848,
+  "parent": "sparta",
+  "certainty": 2
+ },
+ {
+  "id": "tw39",
+  "lat": 37.2485,
+  "lon": 21.6812,
+  "parent": "pylos",
+  "certainty": 2
+ },
+ {
+  "id": "tw40",
+  "lat": 37.9105,
+  "lon": 22.3071,
+  "parent": "tegea",
+  "certainty": 2
+ },
+ {
+  "id": "tw41",
+  "lat": 37.7247,
+  "lon": 22.3154,
+  "parent": "tegea",
+  "certainty": 2
+ },
+ {
+  "id": "tw42",
+  "lat": 37.6174,
+  "lon": 22.3926,
+  "parent": "tegea",
+  "certainty": 2
+ },
+ {
+  "id": "tw43",
+  "lat": 37.8594,
+  "lon": 22.4595,
+  "parent": "tegea",
+  "certainty": 2
+ },
+ {
+  "id": "tw44",
+  "lat": 38.3945,
+  "lon": 21.4188,
+  "parent": "calydon",
+  "certainty": 2
+ },
+ {
+  "id": "tw45",
+  "lat": 38.4645,
+  "lon": 21.3815,
+  "parent": "calydon",
+  "certainty": 3
+ },
+ {
+  "id": "tw46",
+  "lat": 38.2508,
+  "lon": 20.6476,
+  "parent": "ithaca",
+  "certainty": 2
+ },
+ {
+  "id": "tw47",
+  "lat": 37.78,
+  "lon": 20.89,
+  "parent": "ithaca",
+  "certainty": 2
+ },
+ {
+  "id": "tw48",
+  "lat": 35.0621,
+  "lon": 24.9469,
+  "parent": "knossos",
+  "certainty": 2
+ },
+ {
+  "id": "tw49",
+  "lat": 35.0512,
+  "lon": 24.8144,
+  "parent": "knossos",
+  "certainty": 1
+ },
+ {
+  "id": "tw50",
+  "lat": 35.2081,
+  "lon": 25.3682,
+  "parent": "knossos",
+  "certainty": 2
+ },
+ {
+  "id": "tw51",
+  "lat": 35.2024,
+  "lon": 25.1016,
+  "parent": "knossos",
+  "certainty": 2
+ },
+ {
+  "id": "tw52",
+  "lat": 35.0122,
+  "lon": 25.1674,
+  "parent": "knossos",
+  "certainty": 2
+ },
+ {
+  "id": "tw53",
+  "lat": 36.0913,
+  "lon": 28.0883,
+  "parent": "rhodes",
+  "certainty": 1
+ },
+ {
+  "id": "tw54",
+  "lat": 36.3361,
+  "lon": 27.9212,
+  "parent": "rhodes",
+  "certainty": 1
+ },
+ {
+  "id": "tw55",
+  "lat": 36.606,
+  "lon": 27.1302,
+  "parent": "kos",
+  "certainty": 2
+ },
+ {
+  "id": "tw56",
+  "lat": 35.5966,
+  "lon": 27.1597,
+  "parent": "kos",
+  "certainty": 2
+ },
+ {
+  "id": "tw57",
+  "lat": 35.4213,
+  "lon": 26.9107,
+  "parent": "kos",
+  "certainty": 2
+ },
+ {
+  "id": "tw58",
+  "lat": 36.9984,
+  "lon": 26.9718,
+  "parent": "kos",
+  "certainty": 2
+ },
+ {
+  "id": "tw59",
+  "lat": 39.1552,
+  "lon": 22.8344,
+  "parent": "phthia",
+  "certainty": 2
+ },
+ {
+  "id": "tw60",
+  "lat": 38.792,
+  "lon": 22.4476,
+  "parent": "phthia",
+  "certainty": 2
+ },
+ {
+  "id": "tw61",
+  "lat": 39.2788,
+  "lon": 22.8213,
+  "parent": "phylake",
+  "certainty": 2
+ },
+ {
+  "id": "tw62",
+  "lat": 39.1548,
+  "lon": 22.7259,
+  "parent": "phylake",
+  "certainty": 3
+ },
+ {
+  "id": "tw63",
+  "lat": 38.951,
+  "lon": 22.9675,
+  "parent": "phylake",
+  "certainty": 2
+ },
+ {
+  "id": "tw64",
+  "lat": 39.0276,
+  "lon": 22.9628,
+  "parent": "phylake",
+  "certainty": 2
+ },
+ {
+  "id": "tw65",
+  "lat": 39.4594,
+  "lon": 22.9045,
+  "parent": "pherai",
+  "certainty": 2
+ },
+ {
+  "id": "tw66",
+  "lat": 39.1266,
+  "lon": 22.322,
+  "parent": "methone",
+  "certainty": 2
+ },
+ {
+  "id": "tw67",
+  "lat": 39.1281,
+  "lon": 23.2108,
+  "parent": "methone",
+  "certainty": 2
+ },
+ {
+  "id": "tw68",
+  "lat": 39.4155,
+  "lon": 21.8018,
+  "parent": "trikka",
+  "certainty": 2
+ },
+ {
+  "id": "tw69",
+  "lat": 39.7982,
+  "lon": 22.5699,
+  "parent": "argissa",
+  "certainty": 2
+ },
+ {
+  "id": "tw70",
+  "lat": 39.7085,
+  "lon": 22.1931,
+  "parent": "argissa",
+  "certainty": 2
+ },
+ {
+  "id": "tw71",
+  "lat": 39.8268,
+  "lon": 22.3184,
+  "parent": "argissa",
+  "certainty": 2
+ },
+ {
+  "id": "tw72",
+  "lat": 39.894,
+  "lon": 22.188,
+  "parent": "argissa",
+  "certainty": 2
+ },
+ {
+  "id": "tw73",
+  "lat": 39.5464,
+  "lon": 20.7877,
+  "parent": "kyphos",
+  "certainty": 1
+ },
+ {
+  "id": "tw74",
+  "lat": 40.4002,
+  "lon": 26.7871,
+  "parent": "adrasteia",
+  "certainty": 2
+ },
+ {
+  "id": "tw75",
+  "lat": 41.8619,
+  "lon": 32.8978,
+  "parent": "paphlagonia",
+  "certainty": 2
+ },
+ {
+  "id": "tw76",
+  "lat": 41.8382,
+  "lon": 32.6511,
+  "parent": "paphlagonia",
+  "certainty": 2
+ },
+ {
+  "id": "tw77",
+  "lat": 41.8919,
+  "lon": 33.0024,
+  "parent": "paphlagonia",
+  "certainty": 2
+ }
+]

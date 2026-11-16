@@ -1,0 +1,1703 @@
+[
+ {
+  "id": "thebes",
+  "side": "achaean",
+  "lat": 38.3199,
+  "lon": 23.3177,
+  "certainty": 1,
+  "minZoom": 5,
+  "anchor": "right",
+  "greek": "Thēbai / Hypothēbai",
+  "ships": 50,
+  "refs": [
+   {
+    "b": 2,
+    "from": 494,
+    "to": 510
+   }
+  ]
+ },
+ {
+  "id": "aulis",
+  "side": "story",
+  "lat": 38.4302,
+  "lon": 23.5937,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Aulis",
+  "refs": [
+   {
+    "b": 2,
+    "from": 303,
+    "to": 332
+   }
+  ]
+ },
+ {
+  "id": "orchomenos",
+  "side": "achaean",
+  "lat": 38.4933,
+  "lon": 22.9747,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Orchomenos",
+  "ships": 30,
+  "refs": [
+   {
+    "b": 2,
+    "from": 511,
+    "to": 516
+   },
+   {
+    "b": 9,
+    "from": 381
+   }
+  ]
+ },
+ {
+  "id": "panopeus",
+  "side": "achaean",
+  "lat": 38.4953,
+  "lon": 22.7943,
+  "certainty": 1,
+  "minZoom": 7,
+  "anchor": "left",
+  "greek": "Panopeus",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 517,
+    "to": 526
+   },
+   {
+    "b": 17,
+    "from": 306,
+    "to": 308
+   }
+  ]
+ },
+ {
+  "id": "opous",
+  "side": "achaean",
+  "lat": 38.6306,
+  "lon": 23.0479,
+  "certainty": 2,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Opous",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 527,
+    "to": 535
+   },
+   {
+    "b": 23,
+    "from": 85,
+    "to": 90
+   }
+  ]
+ },
+ {
+  "id": "chalcis",
+  "side": "achaean",
+  "lat": 38.4636,
+  "lon": 23.5986,
+  "certainty": 2,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Chalkis",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 536,
+    "to": 545
+   },
+   {
+    "b": 4,
+    "from": 463,
+    "to": 472
+   }
+  ]
+ },
+ {
+  "id": "athens",
+  "side": "achaean",
+  "lat": 37.9716,
+  "lon": 23.7264,
+  "certainty": 1,
+  "minZoom": 5,
+  "anchor": "right",
+  "greek": "Athēnai",
+  "ships": 50,
+  "refs": [
+   {
+    "b": 2,
+    "from": 546,
+    "to": 556
+   }
+  ]
+ },
+ {
+  "id": "salamis",
+  "side": "achaean",
+  "lat": 37.9001,
+  "lon": 23.4123,
+  "certainty": 2,
+  "minZoom": 5,
+  "anchor": "left",
+  "greek": "Salamis",
+  "ships": 12,
+  "refs": [
+   {
+    "b": 2,
+    "from": 557,
+    "to": 558
+   },
+   {
+    "b": 7,
+    "from": 181,
+    "to": 312
+   },
+   {
+    "b": 15,
+    "from": 674,
+    "to": 746
+   }
+  ]
+ },
+ {
+  "id": "argos",
+  "side": "achaean",
+  "lat": 37.6309,
+  "lon": 22.7204,
+  "certainty": 1,
+  "minZoom": 5,
+  "anchor": "left",
+  "greek": "Argos",
+  "ships": 80,
+  "refs": [
+   {
+    "b": 2,
+    "from": 559,
+    "to": 568
+   },
+   {
+    "b": 5
+   }
+  ]
+ },
+ {
+  "id": "tiryns",
+  "side": "achaean",
+  "lat": 37.5993,
+  "lon": 22.8,
+  "certainty": 1,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Tiryns",
+  "refs": [
+   {
+    "b": 2,
+    "from": 559
+   }
+  ]
+ },
+ {
+  "id": "mycenae",
+  "side": "achaean",
+  "lat": 37.7308,
+  "lon": 22.7562,
+  "certainty": 1,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Mykēnai",
+  "ships": 100,
+  "refs": [
+   {
+    "b": 2,
+    "from": 569,
+    "to": 580
+   }
+  ]
+ },
+ {
+  "id": "sparta",
+  "side": "achaean",
+  "lat": 37.0657,
+  "lon": 22.4535,
+  "certainty": 2,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Lakedaimōn",
+  "ships": 60,
+  "refs": [
+   {
+    "b": 2,
+    "from": 581,
+    "to": 590
+   },
+   {
+    "b": 3
+   }
+  ],
+  "alts": [
+   {
+    "lat": 36.9792,
+    "lon": 22.4783
+   }
+  ]
+ },
+ {
+  "id": "pylos",
+  "side": "achaean",
+  "lat": 37.0277,
+  "lon": 21.6957,
+  "certainty": 1,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Pylos",
+  "ships": 90,
+  "refs": [
+   {
+    "b": 2,
+    "from": 591,
+    "to": 602
+   },
+   {
+    "b": 11,
+    "from": 670,
+    "to": 761
+   }
+  ]
+ },
+ {
+  "id": "tegea",
+  "side": "achaean",
+  "lat": 37.4553,
+  "lon": 22.4207,
+  "certainty": 3,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Arkadiē",
+  "ships": 60,
+  "refs": [
+   {
+    "b": 2,
+    "from": 603,
+    "to": 614
+   }
+  ]
+ },
+ {
+  "id": "elis",
+  "side": "achaean",
+  "lat": 37.8913,
+  "lon": 21.3744,
+  "certainty": 2,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Ēlis",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 615,
+    "to": 624
+   }
+  ]
+ },
+ {
+  "id": "doulichion",
+  "side": "achaean",
+  "lat": 38.4,
+  "lon": 21.06,
+  "certainty": 3,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Doulichion",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 625,
+    "to": 630
+   }
+  ]
+ },
+ {
+  "id": "ithaca",
+  "side": "achaean",
+  "lat": 38.4605,
+  "lon": 20.6378,
+  "certainty": 2,
+  "minZoom": -1,
+  "anchor": "left",
+  "greek": "Ithakē",
+  "ships": 12,
+  "refs": [
+   {
+    "b": 2,
+    "from": 631,
+    "to": 637
+   },
+   {
+    "b": 10
+   }
+  ],
+  "alts": [
+   {
+    "lat": 38.22,
+    "lon": 20.4
+   },
+   {
+    "lat": 38.71,
+    "lon": 20.71
+   }
+  ]
+ },
+ {
+  "id": "calydon",
+  "side": "achaean",
+  "lat": 38.3729,
+  "lon": 21.5332,
+  "certainty": 2,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Kalydōn",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 638,
+    "to": 644
+   },
+   {
+    "b": 9,
+    "from": 529,
+    "to": 599
+   }
+  ]
+ },
+ {
+  "id": "knossos",
+  "side": "achaean",
+  "lat": 35.298,
+  "lon": 25.1629,
+  "certainty": 1,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Knōsos",
+  "ships": 80,
+  "refs": [
+   {
+    "b": 2,
+    "from": 645,
+    "to": 652
+   },
+   {
+    "b": 10,
+    "from": 260,
+    "to": 271
+   },
+   {
+    "b": 13
+   }
+  ]
+ },
+ {
+  "id": "rhodes",
+  "side": "achaean",
+  "lat": 36.399,
+  "lon": 28.143,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Ialysos",
+  "ships": 9,
+  "refs": [
+   {
+    "b": 2,
+    "from": 653,
+    "to": 670
+   },
+   {
+    "b": 5,
+    "from": 627,
+    "to": 669
+   }
+  ]
+ },
+ {
+  "id": "syme",
+  "side": "achaean",
+  "lat": 36.6184,
+  "lon": 27.8434,
+  "certainty": 1,
+  "minZoom": 7,
+  "anchor": "left",
+  "greek": "Symē",
+  "ships": 3,
+  "refs": [
+   {
+    "b": 2,
+    "from": 671,
+    "to": 675
+   }
+  ]
+ },
+ {
+  "id": "kos",
+  "side": "achaean",
+  "lat": 36.8936,
+  "lon": 27.2899,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Kōs",
+  "ships": 30,
+  "refs": [
+   {
+    "b": 2,
+    "from": 676,
+    "to": 680
+   }
+  ]
+ },
+ {
+  "id": "phthia",
+  "side": "achaean",
+  "lat": 39.3217,
+  "lon": 22.3783,
+  "certainty": 3,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Phthiē",
+  "ships": 50,
+  "refs": [
+   {
+    "b": 2,
+    "from": 681,
+    "to": 694
+   },
+   {
+    "b": 9,
+    "from": 478,
+    "to": 484
+   },
+   {
+    "b": 23,
+    "from": 140,
+    "to": 151
+   }
+  ],
+  "alts": [
+   {
+    "lat": 38.93,
+    "lon": 22.22
+   }
+  ]
+ },
+ {
+  "id": "phylake",
+  "side": "achaean",
+  "lat": 39.2893,
+  "lon": 22.7624,
+  "certainty": 2,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Phylakē",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 695,
+    "to": 710
+   }
+  ]
+ },
+ {
+  "id": "pherai",
+  "side": "achaean",
+  "lat": 39.379,
+  "lon": 22.7539,
+  "certainty": 1,
+  "minZoom": 7,
+  "anchor": "left",
+  "greek": "Pherai",
+  "ships": 11,
+  "refs": [
+   {
+    "b": 2,
+    "from": 711,
+    "to": 715
+   },
+   {
+    "b": 23,
+    "from": 288,
+    "to": 565
+   }
+  ]
+ },
+ {
+  "id": "iolkos",
+  "side": "achaean",
+  "lat": 39.3663,
+  "lon": 22.9689,
+  "certainty": 2,
+  "minZoom": 8,
+  "anchor": "bottom",
+  "greek": "Iōlkos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 712
+   }
+  ]
+ },
+ {
+  "id": "methone",
+  "side": "achaean",
+  "lat": 39.3316,
+  "lon": 23.0527,
+  "certainty": 3,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Methōnē",
+  "ships": 7,
+  "refs": [
+   {
+    "b": 2,
+    "from": 716,
+    "to": 728
+   }
+  ]
+ },
+ {
+  "id": "trikka",
+  "side": "achaean",
+  "lat": 39.5689,
+  "lon": 21.783,
+  "certainty": 2,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Trikkē",
+  "ships": 30,
+  "refs": [
+   {
+    "b": 2,
+    "from": 729,
+    "to": 733
+   },
+   {
+    "b": 4,
+    "from": 193,
+    "to": 219
+   }
+  ]
+ },
+ {
+  "id": "ormenion",
+  "side": "achaean",
+  "lat": 39.42,
+  "lon": 22.88,
+  "certainty": 3,
+  "minZoom": 8,
+  "anchor": "top",
+  "greek": "Ormenion",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 734,
+    "to": 737
+   },
+   {
+    "b": 11,
+    "from": 809,
+    "to": 848
+   }
+  ]
+ },
+ {
+  "id": "argissa",
+  "side": "achaean",
+  "lat": 39.6546,
+  "lon": 22.3506,
+  "certainty": 3,
+  "minZoom": 7,
+  "anchor": "left",
+  "greek": "Argissa",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 738,
+    "to": 747
+   },
+   {
+    "b": 12,
+    "from": 127,
+    "to": 194
+   }
+  ]
+ },
+ {
+  "id": "kyphos",
+  "side": "achaean",
+  "lat": 39.95,
+  "lon": 22.05,
+  "certainty": 3,
+  "minZoom": 7,
+  "anchor": "left",
+  "greek": "Kyphos",
+  "ships": 22,
+  "refs": [
+   {
+    "b": 2,
+    "from": 748,
+    "to": 755
+   }
+  ]
+ },
+ {
+  "id": "magnetes",
+  "side": "achaean",
+  "lat": 39.4082,
+  "lon": 23.0665,
+  "certainty": 3,
+  "minZoom": 8,
+  "anchor": "right",
+  "greek": "Magnētes",
+  "ships": 40,
+  "refs": [
+   {
+    "b": 2,
+    "from": 756,
+    "to": 759
+   }
+  ]
+ },
+ {
+  "id": "troy",
+  "side": "trojan",
+  "lat": 39.9575,
+  "lon": 26.2385,
+  "certainty": 1,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Troiē / Ilios",
+  "refs": [
+   {
+    "b": 2,
+    "from": 816,
+    "to": 818
+   },
+   {
+    "b": 3
+   },
+   {
+    "b": 6
+   },
+   {
+    "b": 22
+   },
+   {
+    "b": 24
+   }
+  ],
+  "flags": [
+   "capital"
+  ]
+ },
+ {
+  "id": "dardania",
+  "side": "trojan",
+  "lat": 39.8,
+  "lon": 26.58,
+  "certainty": 3,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Dardaniē",
+  "refs": [
+   {
+    "b": 2,
+    "from": 819,
+    "to": 823
+   },
+   {
+    "b": 20,
+    "from": 215,
+    "to": 240
+   }
+  ]
+ },
+ {
+  "id": "zeleia",
+  "side": "trojan",
+  "lat": 40.2036,
+  "lon": 27.5961,
+  "certainty": 2,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Zeleia",
+  "refs": [
+   {
+    "b": 2,
+    "from": 824,
+    "to": 827
+   },
+   {
+    "b": 4,
+    "from": 86,
+    "to": 147
+   },
+   {
+    "b": 5,
+    "from": 290,
+    "to": 296
+   }
+  ]
+ },
+ {
+  "id": "adrasteia",
+  "side": "trojan",
+  "lat": 40.3837,
+  "lon": 27.1913,
+  "certainty": 2,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Adrēsteia",
+  "refs": [
+   {
+    "b": 2,
+    "from": 828,
+    "to": 834
+   },
+   {
+    "b": 11,
+    "from": 328,
+    "to": 334
+   }
+  ]
+ },
+ {
+  "id": "percote",
+  "side": "trojan",
+  "lat": 40.2739,
+  "lon": 26.5888,
+  "certainty": 2,
+  "minZoom": 8,
+  "anchor": "top",
+  "greek": "Perkōtē",
+  "refs": [
+   {
+    "b": 2,
+    "from": 831
+   },
+   {
+    "b": 2,
+    "from": 835
+   },
+   {
+    "b": 15,
+    "from": 546,
+    "to": 548
+   }
+  ]
+ },
+ {
+  "id": "arisbe",
+  "side": "trojan",
+  "lat": 40.1943,
+  "lon": 26.5358,
+  "certainty": 2,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Arisbē",
+  "refs": [
+   {
+    "b": 2,
+    "from": 835,
+    "to": 839
+   },
+   {
+    "b": 12,
+    "from": 95,
+    "to": 174
+   },
+   {
+    "b": 13,
+    "from": 384,
+    "to": 393
+   }
+  ]
+ },
+ {
+  "id": "abydos",
+  "side": "trojan",
+  "lat": 40.1942,
+  "lon": 26.4113,
+  "certainty": 1,
+  "minZoom": 8,
+  "anchor": "bottom",
+  "greek": "Abydos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 836
+   },
+   {
+    "b": 4,
+    "from": 499,
+    "to": 500
+   }
+  ]
+ },
+ {
+  "id": "sestos",
+  "side": "trojan",
+  "lat": 40.2134,
+  "lon": 26.3893,
+  "certainty": 1,
+  "minZoom": 8,
+  "anchor": "left",
+  "greek": "Sēstos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 836
+   }
+  ]
+ },
+ {
+  "id": "larisa",
+  "side": "trojan",
+  "lat": 39.6155,
+  "lon": 26.1464,
+  "certainty": 3,
+  "minZoom": 8,
+  "anchor": "left",
+  "greek": "Larisa",
+  "refs": [
+   {
+    "b": 2,
+    "from": 840,
+    "to": 843
+   },
+   {
+    "b": 17,
+    "from": 288,
+    "to": 303
+   }
+  ],
+  "alts": [
+   {
+    "lat": 38.6891,
+    "lon": 27.0334
+   }
+  ]
+ },
+ {
+  "id": "ainos",
+  "side": "trojan",
+  "lat": 40.7249,
+  "lon": 26.0857,
+  "certainty": 2,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Ainos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 844,
+    "to": 845
+   },
+   {
+    "b": 4,
+    "from": 517,
+    "to": 538
+   }
+  ]
+ },
+ {
+  "id": "rhesus",
+  "side": "trojan",
+  "lat": 40.85,
+  "lon": 23.8,
+  "certainty": 3,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Rhēsos",
+  "refs": [
+   {
+    "b": 10,
+    "from": 433,
+    "to": 502
+   }
+  ]
+ },
+ {
+  "id": "ismaros",
+  "side": "trojan",
+  "lat": 40.92,
+  "lon": 25.55,
+  "certainty": 3,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Ismaros",
+  "refs": [
+   {
+    "b": 2,
+    "from": 846,
+    "to": 847
+   },
+   {
+    "b": 9,
+    "od": true,
+    "from": 39,
+    "to": 61
+   }
+  ]
+ },
+ {
+  "id": "amydon",
+  "side": "trojan",
+  "lat": 40.93,
+  "lon": 22.56,
+  "certainty": 3,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Amydōn",
+  "refs": [
+   {
+    "b": 2,
+    "from": 848,
+    "to": 850
+   },
+   {
+    "b": 21,
+    "from": 139,
+    "to": 204
+   }
+  ]
+ },
+ {
+  "id": "paphlagonia",
+  "side": "trojan",
+  "lat": 41.747,
+  "lon": 32.3856,
+  "certainty": 2,
+  "minZoom": 5,
+  "anchor": "left",
+  "greek": "Sēsamos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 851,
+    "to": 855
+   },
+   {
+    "b": 5,
+    "from": 576,
+    "to": 579
+   },
+   {
+    "b": 13,
+    "from": 643,
+    "to": 659
+   }
+  ]
+ },
+ {
+  "id": "alybe",
+  "side": "trojan",
+  "lat": 41.15,
+  "lon": 33.7,
+  "certainty": 3,
+  "minZoom": 5,
+  "anchor": "left",
+  "greek": "Alybē",
+  "refs": [
+   {
+    "b": 2,
+    "from": 856,
+    "to": 857
+   },
+   {
+    "b": 5,
+    "from": 39,
+    "to": 42
+   }
+  ]
+ },
+ {
+  "id": "mysia",
+  "side": "trojan",
+  "lat": 39.95,
+  "lon": 28,
+  "certainty": 3,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Mysoi",
+  "refs": [
+   {
+    "b": 2,
+    "from": 858,
+    "to": 861
+   }
+  ]
+ },
+ {
+  "id": "phrygia",
+  "side": "trojan",
+  "lat": 40.44,
+  "lon": 29.53,
+  "certainty": 3,
+  "minZoom": 5,
+  "anchor": "right",
+  "greek": "Askaniē",
+  "refs": [
+   {
+    "b": 2,
+    "from": 862,
+    "to": 863
+   },
+   {
+    "b": 3,
+    "from": 184,
+    "to": 190
+   },
+   {
+    "b": 16,
+    "from": 717,
+    "to": 719
+   }
+  ]
+ },
+ {
+  "id": "maeonia",
+  "side": "trojan",
+  "lat": 38.6188,
+  "lon": 28.0107,
+  "certainty": 2,
+  "minZoom": 5,
+  "anchor": "right",
+  "greek": "Mēiones",
+  "refs": [
+   {
+    "b": 2,
+    "from": 864,
+    "to": 866
+   },
+   {
+    "b": 20,
+    "from": 382,
+    "to": 392
+   }
+  ]
+ },
+ {
+  "id": "miletus",
+  "side": "trojan",
+  "lat": 37.5305,
+  "lon": 27.2788,
+  "certainty": 1,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Milētos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 867,
+    "to": 875
+   }
+  ]
+ },
+ {
+  "id": "lycia",
+  "side": "trojan",
+  "lat": 36.3571,
+  "lon": 29.3202,
+  "certainty": 2,
+  "minZoom": -1,
+  "anchor": "right",
+  "greek": "Lykiē",
+  "refs": [
+   {
+    "b": 2,
+    "from": 876,
+    "to": 877
+   },
+   {
+    "b": 6,
+    "from": 119,
+    "to": 236
+   },
+   {
+    "b": 16,
+    "from": 419,
+    "to": 683
+   }
+  ]
+ },
+ {
+  "id": "thebe",
+  "side": "trojan",
+  "lat": 39.5974,
+  "lon": 27.0202,
+  "certainty": 3,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Thēbē Hypoplakiē",
+  "refs": [
+   {
+    "b": 6,
+    "from": 395,
+    "to": 428
+   },
+   {
+    "b": 1,
+    "from": 366,
+    "to": 369
+   }
+  ]
+ },
+ {
+  "id": "lyrnessos",
+  "side": "trojan",
+  "lat": 39.5082,
+  "lon": 27.082,
+  "certainty": 3,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Lyrnēssos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 688,
+    "to": 693
+   },
+   {
+    "b": 19,
+    "from": 290,
+    "to": 300
+   },
+   {
+    "b": 20,
+    "from": 89,
+    "to": 96
+   }
+  ]
+ },
+ {
+  "id": "chryse",
+  "side": "trojan",
+  "lat": 39.5851,
+  "lon": 26.9281,
+  "certainty": 3,
+  "minZoom": 7,
+  "anchor": "bottom",
+  "greek": "Chrysē",
+  "refs": [
+   {
+    "b": 1,
+    "from": 11,
+    "to": 52
+   },
+   {
+    "b": 1,
+    "from": 430,
+    "to": 487
+   }
+  ],
+  "alts": [
+   {
+    "lat": 39.5361,
+    "lon": 26.1177
+   }
+  ]
+ },
+ {
+  "id": "pedasos",
+  "side": "trojan",
+  "lat": 39.5478,
+  "lon": 26.1939,
+  "certainty": 3,
+  "minZoom": 8,
+  "anchor": "left",
+  "greek": "Pēdasos",
+  "refs": [
+   {
+    "b": 6,
+    "from": 34,
+    "to": 35
+   },
+   {
+    "b": 21,
+    "from": 84,
+    "to": 87
+   },
+   {
+    "b": 20,
+    "from": 92
+   }
+  ]
+ },
+ {
+  "id": "camp",
+  "side": "story",
+  "lat": 39.9885,
+  "lon": 26.1965,
+  "certainty": 3,
+  "minZoom": 9,
+  "anchor": "left",
+  "refs": [
+   {
+    "b": 7,
+    "from": 433,
+    "to": 441
+   },
+   {
+    "b": 8,
+    "from": 222,
+    "to": 226
+   },
+   {
+    "b": 12,
+    "from": 3,
+    "to": 35
+   },
+   {
+    "b": 14,
+    "from": 30,
+    "to": 36
+   }
+  ],
+  "alts": [
+   {
+    "lat": 39.903,
+    "lon": 26.163
+   }
+  ],
+  "flags": [
+   "major"
+  ]
+ },
+ {
+  "id": "sigeion",
+  "side": "story",
+  "lat": 40.0078,
+  "lon": 26.199,
+  "certainty": 1,
+  "minZoom": 9,
+  "anchor": "left",
+  "greek": "Sigeion",
+  "refs": []
+ },
+ {
+  "id": "rhoiteion",
+  "side": "story",
+  "lat": 40.0097,
+  "lon": 26.3033,
+  "certainty": 1,
+  "minZoom": 9,
+  "anchor": "right",
+  "greek": "Rhoiteion",
+  "refs": []
+ },
+ {
+  "id": "kallikolone",
+  "side": "story",
+  "lat": 39.9681,
+  "lon": 26.432,
+  "certainty": 3,
+  "minZoom": 9,
+  "anchor": "right",
+  "greek": "Kallikolōnē",
+  "refs": [
+   {
+    "b": 20,
+    "from": 51,
+    "to": 53
+   },
+   {
+    "b": 20,
+    "from": 144,
+    "to": 152
+   }
+  ]
+ },
+ {
+  "id": "thymbra",
+  "side": "story",
+  "lat": 39.8997,
+  "lon": 26.2933,
+  "certainty": 3,
+  "minZoom": 9,
+  "anchor": "right",
+  "greek": "Thymbrē",
+  "refs": [
+   {
+    "b": 10,
+    "from": 427,
+    "to": 431
+   }
+  ]
+ },
+ {
+  "id": "ida",
+  "side": "story",
+  "lat": 39.6927,
+  "lon": 26.8192,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "top",
+  "greek": "Idē",
+  "refs": [
+   {
+    "b": 8,
+    "from": 47,
+    "to": 52
+   },
+   {
+    "b": 14,
+    "from": 153,
+    "to": 353
+   },
+   {
+    "b": 15,
+    "from": 151,
+    "to": 153
+   }
+  ],
+  "flags": [
+   "major",
+   "peak"
+  ],
+  "height": 1774
+ },
+ {
+  "id": "lekton",
+  "side": "story",
+  "lat": 39.4783,
+  "lon": 26.0633,
+  "certainty": 1,
+  "minZoom": 8,
+  "anchor": "left",
+  "greek": "Lekton",
+  "refs": [
+   {
+    "b": 14,
+    "from": 281,
+    "to": 285
+   }
+  ]
+ },
+ {
+  "id": "tenedos",
+  "side": "story",
+  "lat": 39.8343,
+  "lon": 26.0696,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Tenedos",
+  "refs": [
+   {
+    "b": 1,
+    "from": 38
+   },
+   {
+    "b": 1,
+    "from": 452
+   },
+   {
+    "b": 11,
+    "from": 624,
+    "to": 627
+   },
+   {
+    "b": 13,
+    "from": 32,
+    "to": 35
+   }
+  ]
+ },
+ {
+  "id": "imbros",
+  "side": "story",
+  "lat": 40.2333,
+  "lon": 25.9008,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Imbros",
+  "refs": [
+   {
+    "b": 13,
+    "from": 32,
+    "to": 35
+   },
+   {
+    "b": 21,
+    "from": 40,
+    "to": 44
+   },
+   {
+    "b": 24,
+    "from": 78
+   }
+  ]
+ },
+ {
+  "id": "samothrace",
+  "side": "story",
+  "lat": 40.452,
+  "lon": 25.576,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "top",
+  "greek": "Samothrakē",
+  "refs": [
+   {
+    "b": 13,
+    "from": 10,
+    "to": 16
+   }
+  ],
+  "flags": [
+   "peak"
+  ],
+  "height": 1611
+ },
+ {
+  "id": "lemnos",
+  "side": "story",
+  "lat": 39.905,
+  "lon": 25.229,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "left",
+  "greek": "Lēmnos",
+  "refs": [
+   {
+    "b": 1,
+    "from": 590,
+    "to": 594
+   },
+   {
+    "b": 2,
+    "from": 721,
+    "to": 725
+   },
+   {
+    "b": 7,
+    "from": 467,
+    "to": 475
+   },
+   {
+    "b": 14,
+    "from": 230,
+    "to": 231
+   }
+  ]
+ },
+ {
+  "id": "lesbos",
+  "side": "story",
+  "lat": 39.2,
+  "lon": 26.28,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Lesbos",
+  "refs": [
+   {
+    "b": 9,
+    "from": 128,
+    "to": 130
+   },
+   {
+    "b": 9,
+    "from": 664,
+    "to": 665
+   },
+   {
+    "b": 24,
+    "from": 544
+   }
+  ]
+ },
+ {
+  "id": "olympus",
+  "side": "story",
+  "lat": 40.0856,
+  "lon": 22.3586,
+  "certainty": 1,
+  "minZoom": -1,
+  "anchor": "top",
+  "greek": "Olympos",
+  "refs": [
+   {
+    "b": 1,
+    "from": 493,
+    "to": 611
+   },
+   {
+    "b": 4
+   },
+   {
+    "b": 8
+   },
+   {
+    "b": 15
+   },
+   {
+    "b": 20
+   }
+  ],
+  "flags": [
+   "peak"
+  ],
+  "height": 2917
+ },
+ {
+  "id": "scamander",
+  "side": "water",
+  "lat": 39.925,
+  "lon": 26.258,
+  "certainty": 2,
+  "minZoom": 9,
+  "anchor": "right",
+  "greek": "Skamandros",
+  "refs": [
+   {
+    "b": 20,
+    "from": 74
+   },
+   {
+    "b": 21
+   },
+   {
+    "b": 22,
+    "from": 147,
+    "to": 156
+   }
+  ],
+  "flags": [
+   "waterLabel"
+  ]
+ },
+ {
+  "id": "simoeis",
+  "side": "water",
+  "lat": 39.9655,
+  "lon": 26.3,
+  "certainty": 2,
+  "minZoom": 10,
+  "anchor": "top",
+  "greek": "Simoeis",
+  "refs": [
+   {
+    "b": 4,
+    "from": 473,
+    "to": 477
+   },
+   {
+    "b": 5,
+    "from": 773,
+    "to": 777
+   },
+   {
+    "b": 6,
+    "from": 4
+   },
+   {
+    "b": 21,
+    "from": 305,
+    "to": 323
+   }
+  ],
+  "flags": [
+   "waterLabel"
+  ]
+ },
+ {
+  "id": "hellespont",
+  "side": "water",
+  "lat": 40.09,
+  "lon": 26.29,
+  "certainty": 1,
+  "minZoom": 7,
+  "greek": "Hellēspontos",
+  "refs": [
+   {
+    "b": 2,
+    "from": 845
+   },
+   {
+    "b": 7,
+    "from": 86
+   },
+   {
+    "b": 12,
+    "from": 30
+   },
+   {
+    "b": 24,
+    "from": 346
+   }
+  ],
+  "flags": [
+   "waterLabel",
+   "sea"
+  ],
+  "rotate": -38
+ },
+ {
+  "id": "athos",
+  "side": "story",
+  "lat": 40.157,
+  "lon": 24.326,
+  "certainty": 1,
+  "minZoom": 6,
+  "anchor": "right",
+  "greek": "Athōs",
+  "refs": [
+   {
+    "b": 14,
+    "from": 229
+   }
+  ],
+  "flags": [
+   "peak"
+  ],
+  "height": 2033
+ },
+ {
+  "id": "kyllene",
+  "side": "story",
+  "lat": 37.94,
+  "lon": 22.4,
+  "certainty": 1,
+  "minZoom": 7,
+  "anchor": "right",
+  "greek": "Kyllēnē",
+  "refs": [
+   {
+    "b": 2,
+    "from": 603
+   }
+  ],
+  "flags": [
+   "peak"
+  ],
+  "height": 2376
+ }
+]

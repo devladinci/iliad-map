@@ -1,0 +1,792 @@
+{
+ "scenes": {
+  "1.1": {
+   "title": "Chryses and the plague",
+   "text": "The priest Chryses comes to the Achaean camp with a rich ransom for his daughter Chryseis. Agamemnon drives him away harshly. The old man prays to Apollo beside the sea. The god comes down from Olympus and shoots at the camp: a plague strikes first the mules and dogs, then the men."
+  },
+  "1.2": {
+   "title": "The quarrel in assembly",
+   "text": "On the tenth day of the plague Achilles calls the army to assembly. The seer Calchas says that Apollo is angry because of Chryses: Chryseis must go back to her father without ransom. Agamemnon agrees, but demands another prize in return. Achilles threatens to sail home to Phthia, and the king replies that he will take Briseis from him."
+  },
+  "1.3": {
+   "title": "Athena restrains Achilles",
+   "text": "Achilles reaches for his sword, but Athena catches him by the hair and stops him. Only he can see her. Achilles swears that one day the Achaeans will long for him, and throws the staff to the ground. Old Nestor of Pylos tries in vain to reconcile them, and the assembly breaks up."
+  },
+  "1.4": {
+   "title": "Briseis is taken away",
+   "text": "Achilles goes back to his tents with Patroclus. Agamemnon launches a ship: Odysseus will take Chryseis back to her father. Then the king sends two heralds for Briseis. Achilles does not blame them and tells Patroclus to bring her out."
+  },
+  "1.5": {
+   "title": "Achilles and Thetis",
+   "text": "Achilles sits alone on the shore and weeps. His mother, the sea goddess Thetis, rises from the sea and hears him out. He asks her to persuade Zeus to help the Trojans until the Achaeans learn how much they miss him. Thetis promises to go to Olympus on the twelfth day, when the gods return there."
+  },
+  "1.6": {
+   "title": "Chryseis comes home",
+   "text": "Odysseus' ship enters the harbour of Chryse. Odysseus hands Chryseis over to her father, and the Achaeans sacrifice to Apollo. Chryses prays for the god to end the plague, and Apollo hears him. In the morning the ship returns to the camp with a fair wind."
+  },
+  "1.7": {
+   "title": "Thetis before Zeus",
+   "text": "Achilles sits by his ships and goes neither to assembly nor to battle. On the twelfth morning Thetis rises from the sea to Olympus. She clasps Zeus' knees and asks him to honour her son. Zeus fears Hera's anger, but he nods his assent, and Olympus shakes."
+  },
+  "1.8": {
+   "title": "A quarrel on Olympus",
+   "text": "Hera has seen Thetis and accuses Zeus of plotting behind her back. Zeus threatens her, and the gods fall silent. Hephaestus calms his mother and tells how Zeus once threw him from Olympus and he landed on Lemnos. The gods laugh, feast until sunset and go to bed."
+  },
+  "2.1": {
+   "title": "The false dream",
+   "text": "Zeus cannot sleep: he is thinking how to honour Achilles. He sends Agamemnon a false Dream. The Dream stands over the king's head in the shape of Nestor and tells him that today he will take Troy. Agamemnon wakes, dresses and goes out among the ships."
+  },
+  "2.2": {
+   "title": "The army is tested",
+   "text": "At dawn Agamemnon tells the elders his dream beside Nestor's ship. Then he decides to test the army. In the assembly he says that Zeus has deceived him and that they must sail home. The men rush for the ships and start dragging them to the sea."
+  },
+  "2.3": {
+   "title": "Odysseus and Thersites",
+   "text": "Hera sends Athena to stop the flight. Athena spurs on Odysseus, who takes Agamemnon's staff and turns the men back to the assembly. Only Thersites goes on abusing Agamemnon. Odysseus strikes him with the staff, and the army laughs."
+  },
+  "2.4": {
+   "title": "The omen at Aulis",
+   "text": "Odysseus reminds the army of what they saw at Aulis before they sailed. A snake ate eight sparrow chicks and their mother, and Calchas said: they would fight for nine years and take Troy in the tenth. Nestor advises Agamemnon to draw up the army by tribes and clans. Agamemnon orders everyone to eat and get ready for battle."
+  },
+  "2.5": {
+   "title": "The army takes the field",
+   "text": "Agamemnon sacrifices an ox to Zeus and prays to take Troy this very day. Zeus accepts the sacrifice but does not grant the prayer. The heralds call out the army, and Athena passes through the ranks with the aegis. The Achaeans pour onto the meadow by the Scamander, countless as the leaves and flowers in spring."
+  },
+  "2.6": {
+   "title": "The Catalogue of Ships",
+   "text": "The poet asks the Muses for help and lists the whole Achaean army. For each contingent he says where it comes from, who leads it and how many ships it brought. The list starts in Boeotia, goes round Greece and the islands, and ends in Thessaly. In all there are 29 contingents with 1,186 ships."
+  },
+  "2.7": {
+   "title": "The best men and horses",
+   "text": "The poet asks the Muse who were the best. The best horses are the mares of Eumelus, and the best warrior is Ajax, for as long as Achilles is angry. Achilles lies by his ships, and his men amuse themselves on the shore with discus, javelin and bow. The army moves off, and the earth groans under its feet."
+  },
+  "2.8": {
+   "title": "The Trojans form up",
+   "text": "The Trojans are in assembly in front of Priam's palace. The goddess Iris comes to them in the shape of Polites, a son of Priam, and says that a huge army is coming across the plain. Hector dismisses the assembly, and the gates are opened. The Trojans and their allies form up at the hill of Batieia in front of the city."
+  },
+  "2.9": {
+   "title": "The Trojan Catalogue",
+   "text": "The poet lists the Trojans and their allies. Hector leads the Trojans, Aeneas the Dardanians, and Pandarus the men of Zeleia. Then come allies from the Hellespont, Thrace and Asia Minor. Last are the Lycians of Sarpedon and Glaucus, from the distant river Xanthus."
+  },
+  "3.1": {
+   "title": "Paris offers a duel",
+   "text": "The two armies meet on the plain. Paris steps out in front of the Trojans, but when he sees Menelaus he slips back among his own men. Hector rebukes him, and Paris offers a duel: he and Menelaus will fight for Helen and her treasure, and the rest will make peace. Menelaus accepts, and the soldiers lay their weapons on the ground."
+  },
+  "3.2": {
+   "title": "Helen on the wall",
+   "text": "The goddess Iris calls Helen to watch the duel. Helen goes up to the tower over the Scaean Gates, where Priam and the elders are sitting. Priam asks her about the Achaean leaders, and she points out Agamemnon, Odysseus, Ajax and Idomeneus. She looks for her brothers from Lacedaemon, but cannot see them."
+  },
+  "3.3": {
+   "title": "The oath before the duel",
+   "text": "The heralds call Priam down to the plain. He drives out in his chariot through the Scaean Gates and stops between the two armies. Agamemnon sacrifices lambs, and both sides swear: the winner takes Helen and the treasure. Priam goes back to Troy, because he cannot bear to watch his son fight."
+  },
+  "3.4": {
+   "title": "Paris against Menelaus",
+   "text": "Hector and Odysseus measure out the ground and draw lots: Paris throws first. His spear does not pierce Menelaus' shield. Menelaus' sword shatters on Paris' helmet, and he drags him by the helmet towards the Achaeans. Aphrodite snaps the strap, hides Paris in mist and carries him to his bedroom."
+  },
+  "3.5": {
+   "title": "Helen and Paris",
+   "text": "Aphrodite, disguised as an old wool-worker, finds Helen on the tower and calls her to Paris. Helen recognises her and refuses, but the goddess threatens her. In the bedroom Helen scolds Paris for running from Menelaus. He answers her tenderly, and the two go to bed."
+  },
+  "3.6": {
+   "title": "Menelaus looks for Paris",
+   "text": "Menelaus prowls through the crowd like a wild beast, looking for Paris. None of the Trojans can point him out. Nor would any have hidden him, for they all hate him. Agamemnon declares that Menelaus has won and demands Helen and the treasure."
+  },
+  "4.1": {
+   "title": "The council of the gods",
+   "text": "The gods drink nectar on Olympus and look down at Troy. Zeus asks whether the war should not end in peace. Hera will not hear of it: in return she lets him destroy, some day, her three dearest cities, Argos, Sparta and Mycenae. Zeus gives way and sends Athena to make the Trojans break the oath."
+  },
+  "4.2": {
+   "title": "The arrow of Pandarus",
+   "text": "Athena drops from Olympus like a shooting star between the two armies. In the shape of a Trojan warrior she persuades the archer Pandarus of Zeleia to shoot at Menelaus. Pandarus draws his bow behind his comrades' shields. Athena turns the arrow aside: it pierces the belt and only grazes Menelaus, but blood runs down his thighs."
+  },
+  "4.3": {
+   "title": "Machaon heals Menelaus",
+   "text": "Agamemnon shudders when he sees the blood, and laments for his brother. Menelaus reassures him: the wound is not dangerous. The herald Talthybius fetches the healer Machaon of Tricca. Machaon pulls out the arrow, sucks out the blood and puts herbs on the wound."
+  },
+  "4.4": {
+   "title": "Agamemnon reviews the army",
+   "text": "The Trojans advance, and the Achaeans arm again. Agamemnon goes along the ranks on foot, encouraging some and scolding others. He praises Idomeneus and the Cretans, the two Ajaxes, and old Nestor, who is setting out his chariots and foot soldiers."
+  },
+  "4.5": {
+   "title": "Odysseus and Diomedes rebuked",
+   "text": "Agamemnon finds Menestheus and Odysseus standing apart and scolds them. Odysseus answers back angrily, and the king takes back his words. Then he scolds Diomedes and tells him how his father Tydeus went alone to Thebes and beat everyone in the contests. Sthenelus protests, but Diomedes silences him and jumps down from his chariot, ready for battle."
+  },
+  "4.6": {
+   "title": "The first battle",
+   "text": "The Achaeans advance in silence, rank after rank, like waves rolling to the shore. The Trojans raise a clamour in many tongues. The two armies crash together: Antilochus kills the first Trojan, and Ajax brings down young Simoeisius. Apollo shouts to the Trojans from the citadel, Pergamus, Athena urges on the Achaeans, and many men on both sides fall in the dust side by side."
+  },
+  "5.1": {
+   "title": "Diomedes enters the fight",
+   "text": "Athena gives Diomedes strength and courage; his helmet and shield blaze like the autumn star. She takes Ares by the hand and leads him out of the battle to sit on the bank of the Scamander. Each of the Achaean leaders kills a Trojan. Diomedes sweeps across the plain like a river in flood."
+  },
+  "5.2": {
+   "title": "Diomedes is wounded",
+   "text": "Pandarus hits Diomedes in the shoulder with an arrow. Sthenelus pulls it out, and Diomedes prays to Athena. The goddess gives him back his strength and lifts the mist from his eyes, so that he can tell gods from men. She tells him not to fight the gods, except Aphrodite, and he goes back into the battle three times as fierce."
+  },
+  "5.3": {
+   "title": "Aeneas and Pandarus attack",
+   "text": "Aeneas finds Pandarus and takes him up into his chariot. Together they charge at Diomedes. Pandarus throws his spear but does not wound him, and Diomedes kills him with a spear in the face. Aeneas jumps down to guard the body, and Diomedes smashes his hip with a huge stone."
+  },
+  "5.4": {
+   "title": "Diomedes wounds Aphrodite",
+   "text": "Aphrodite puts her arms around her son Aeneas and carries him out of the battle. Diomedes catches up with her and wounds her in the hand; she drops Aeneas, but Apollo takes him up in a cloud. In Ares' chariot Aphrodite goes up to Olympus to her mother Dione, who comforts and heals her. Athena and Hera mock her, and Zeus advises her to leave war to others."
+  },
+  "5.5": {
+   "title": "Apollo protects Aeneas",
+   "text": "Three times Diomedes rushes at Aeneas, and three times Apollo beats him back. The fourth time the god warns him, and Diomedes gives ground. Apollo carries Aeneas to his temple on Pergamus, where Leto and Artemis heal him, and Ares comes back into the battle on the Trojan side. Sarpedon rebukes Hector, Hector rallies the army, and Aeneas returns unharmed."
+  },
+  "5.6": {
+   "title": "Ares and Hector advance",
+   "text": "The Achaeans hold their ground, but Hector advances with Ares at his side. Diomedes recognises the god and tells his men to fall back slowly, facing the enemy. Tlepolemus of Rhodes, a son of Heracles, is killed by the spear of the Lycian Sarpedon, a son of Zeus. The wounded Sarpedon is carried to the oak of Zeus, while Hector and Ares kill many."
+  },
+  "5.7": {
+   "title": "Hera and Athena come down",
+   "text": "Hera sees the Achaeans dying and harnesses her chariot, while Athena arms herself with the aegis and helmet. On the highest peak of Olympus Zeus allows them to stop Ares. The two goddesses fly to Troy and leave the horses where the Simoeis and the Scamander meet. Hera shouts to the Achaeans in the voice of loud-voiced Stentor."
+  },
+  "5.8": {
+   "title": "Diomedes wounds Ares",
+   "text": "Athena finds Diomedes cooling his wound beside his chariot and scolds him for hanging back. He answers that he is keeping away from Ares, as she herself told him to. Then Athena takes Sthenelus' place beside him and drives the horses straight at the god. She guides Diomedes' spear into Ares' belly, and he bellows like ten thousand men."
+  },
+  "5.9": {
+   "title": "Ares complains to Zeus",
+   "text": "Ares rises like a dark cloud to Olympus. He shows Zeus his wound and complains about Athena. Zeus tells him that he hates him more than any other god, because he loves only strife and battles, but orders that he be healed. Hera and Athena also return to Olympus."
+  },
+  "6.1": {
+   "title": "The battle without the gods",
+   "text": "The gods have left the fighting. The battle sways across the plain between the Simoeis and the Xanthus, and the Achaeans gain the upper hand. Menelaus takes the Trojan Adrestus alive and is ready to spare him for ransom. Agamemnon stops him and kills the prisoner."
+  },
+  "6.2": {
+   "title": "The advice of Helenus",
+   "text": "The Trojans are about to run for the city. The seer Helenus, a son of Priam, tells Aeneas and Hector first to halt the army in front of the gates. Then Hector must go into Troy and tell their mother to take her finest robe to the temple of Athena. Hector turns the Trojans back to the fight and sets off for the city."
+  },
+  "6.3": {
+   "title": "Glaucus and Diomedes",
+   "text": "The Lycian Glaucus and Diomedes meet between the two armies, and Diomedes asks who he is. Glaucus tells of his grandfather Bellerophon of Ephyra: King Proetus sent him to Lycia with a letter asking for his death, but there he killed the Chimaera and won half the kingdom. Diomedes remembers that his own grandfather once welcomed Bellerophon as a guest in his house. The two do not fight: they clasp hands and exchange armour, gold for bronze."
+  },
+  "6.4": {
+   "title": "Hector and Hecuba",
+   "text": "Hector reaches the Scaean Gates, and the women crowd round him with questions about their men. In Priam's palace his mother Hecuba comes to meet him. He refuses the wine and sends her with the women to the temple of Athena. Hecuba chooses her finest robe, brought from Sidon, and the priestess Theano lays it on the goddess's knees, but Athena refuses the prayer."
+  },
+  "6.5": {
+   "title": "Hector with Paris and Helen",
+   "text": "Hector enters Paris' house on the citadel, close to Priam's palace. Paris is polishing his weapons in the bedroom, and Helen sits among her maids. Hector rebukes him for staying at home while men die for his sake, and Paris promises to catch up with him. Helen invites Hector to sit down, but he is in a hurry to see his wife and son."
+  },
+  "6.6": {
+   "title": "Hector and Andromache",
+   "text": "Hector does not find Andromache at home: she is on the tower with the child. He goes back through the streets to the Scaean Gates, and there she runs to meet him. Andromache begs him to stay on the wall: Achilles has already killed her father and her seven brothers, when he sacked Thebe. Hector answers that he cannot hide from the fighting, takes in his arms little Astyanax, who is frightened by his helmet, and prays for him."
+  },
+  "6.7": {
+   "title": "Paris catches up",
+   "text": "Paris puts on his shining armour and runs through the city like a horse that has broken its tether. He catches up with Hector at the place where he was talking with his wife. Hector tells him that he is brave but careless, and urges him to come along."
+  },
+  "7.1": {
+   "title": "Hector's challenge",
+   "text": "Hector and Paris come out through the gates, and the Trojans gain the upper hand again. Athena comes down from Olympus and Apollo from Pergamus; they meet at the oak and agree to stop the battle for today. The seer Helenus passes their will on to Hector. Hector halts the armies and challenges the best of the Achaeans to a duel."
+  },
+  "7.2": {
+   "title": "The lot falls to Ajax",
+   "text": "The Achaeans are silent: ashamed to refuse and afraid to accept. Menelaus stands up, but Agamemnon holds him back. Nestor shames them with the story of a duel from his youth, and then nine leaders stand up. They cast lots in Agamemnon's helmet, and the lot of Ajax comes out."
+  },
+  "7.3": {
+   "title": "Ajax against Hector",
+   "text": "Ajax comes out with his shield, as big as a tower. They fight with spears, then with stones; Ajax knocks Hector down, but Apollo lifts him up. As they reach for their swords, the heralds part them, because night is falling. Hector gives Ajax a sword, and Ajax gives Hector a purple belt."
+  },
+  "7.4": {
+   "title": "Nestor's advice",
+   "text": "Agamemnon slaughters an ox in his tent and honours Ajax with the best cut of the meat. After the meal Nestor proposes that in the morning they stop fighting and gather and burn the dead. Then they should heap up a common mound and beside it build a wall with towers and a ditch to protect the ships. The kings agree."
+  },
+  "7.5": {
+   "title": "An assembly in Troy",
+   "text": "The Trojans gather on the citadel, in front of Priam's palace. Antenor proposes that they give back Helen and her treasure, because they have broken the oath. Paris refuses to return the woman, but is ready to hand over the treasure and add some of his own. Priam decides that in the morning they will send a herald to the Achaeans and ask for a truce for the dead."
+  },
+  "7.6": {
+   "title": "A truce for the dead",
+   "text": "At dawn the herald Idaeus goes to the ships and delivers the words of Paris and Priam. On Diomedes' advice the Achaeans refuse the treasure, but Agamemnon accepts the truce. Both sides gather their dead from the plain, wash off the blood and burn them on pyres. The Trojans weep in silence, because Priam does not let them wail aloud."
+  },
+  "7.7": {
+   "title": "The wall and the ditch",
+   "text": "Before daybreak the Achaeans heap up a common mound around the pyre. Next to it they build a wall with towers and gates, and in front of the wall they dig a deep ditch set with stakes. Poseidon complains to Zeus that this wall will outshine the fame of the one he built for Troy. In the evening ships come from Lemnos with wine, and Zeus thunders all night long."
+  },
+  "8.1": {
+   "title": "Zeus forbids the gods",
+   "text": "At dawn Zeus gathers the gods on the highest peak of Olympus. He forbids them to help either the Trojans or the Achaeans, and threatens to hurl anyone who disobeys into Tartarus. Then he harnesses his horses and flies to Gargarus, one of the peaks of Ida. There he sits and looks out over Troy and the Achaean ships."
+  },
+  "8.2": {
+   "title": "The golden scales",
+   "text": "The two armies fight all morning. At noon Zeus lifts his golden scales, and the lot of the Achaeans sinks. He thunders from Ida and hurls lightning among the Achaeans; they flee. Nestor is left alone with a wounded horse, but Diomedes takes him up into his chariot, and together they drive at Hector."
+  },
+  "8.3": {
+   "title": "Lightning before Diomedes",
+   "text": "Zeus hurls a thunderbolt in front of Diomedes' horses. Nestor understands the sign and turns the chariot, while Hector shouts after Diomedes and calls him a coward. Three times Diomedes wants to turn back, and three times Zeus thunders from Ida. Hector urges on the Trojans and his horses: he believes he will drive the Achaeans away this very night."
+  },
+  "8.4": {
+   "title": "Agamemnon's prayer",
+   "text": "Hera tries in vain to get Poseidon to help the Achaeans. Hector pins them between the ditch and the ships. Agamemnon stands by Odysseus' ship, in the middle of the camp, and begs Zeus in tears at least to let them live. Zeus pities him and sends an eagle with a fawn in its talons; the Achaeans throw themselves back into the fight."
+  },
+  "8.5": {
+   "title": "Teucer's arrows",
+   "text": "Diomedes is the first to drive his chariot out beyond the ditch, and the other leaders follow him. The archer Teucer shoots from behind the shield of his brother Ajax and brings down one Trojan after another, but he cannot hit Hector. Hector strikes him on the collarbone with a stone, and his comrades carry him to the ships. Zeus gives strength to the Trojans again, and they chase the Achaeans back to the ditch."
+  },
+  "8.6": {
+   "title": "Hera and Athena turned back",
+   "text": "Hera and Athena can bear it no longer: they harness the chariot and set out from Olympus to help the Achaeans. Zeus sees them from Ida and sends Iris. She stops them at the gates of Olympus, and they turn back. Then Zeus himself returns to Olympus and tells them that he will not give way."
+  },
+  "8.7": {
+   "title": "Fires on the plain",
+   "text": "The sun sets and night stops the fighting. Hector gathers the Trojans in an open space by the river, away from the ships. He orders them to stay on the plain tonight and keep fires burning, so that the Achaeans cannot sail away in secret. A thousand fires burn before Troy, fifty men sit by each, and the horses wait for dawn beside the chariots."
+  },
+  "9.1": {
+   "title": "A night of fear",
+   "text": "The Achaeans are gripped by fear. In the assembly Agamemnon weeps and proposes sailing home. Diomedes stands up to him: let the others go, he will stay and fight. On Nestor's advice, guards light fires between the ditch and the wall."
+  },
+  "9.2": {
+   "title": "Agamemnon's offer",
+   "text": "In Agamemnon's tent Nestor says they must win Achilles back. Agamemnon admits he was wrong and lists his gifts: gold, horses, seven women from Lesbos, and Briseis herself. If they get home, he will give him a daughter in marriage and seven towns by the sea on the border of Pylos, among them Cardamyle and Pherae. They choose Phoenix, Ajax and Odysseus as envoys."
+  },
+  "9.3": {
+   "title": "Along the shore to Achilles",
+   "text": "The envoys walk along the shore of the loud sea, praying to Poseidon. They find Achilles by his tent: he is playing a lyre taken from the spoils of Thebe and singing of famous men, while Patroclus sits opposite and listens. Achilles greets them as friends, pours them wine and roasts meat."
+  },
+  "9.4": {
+   "title": "Odysseus speaks",
+   "text": "After the meal Odysseus speaks first. The Trojans are camped right beside the ships, and Hector is waiting for dawn to set them on fire. Odysseus lists Agamemnon's gifts and reminds Achilles of what his father Peleus told him in Phthia: to keep his proud heart in check. If he cannot forgive Agamemnon, let him at least pity the other Achaeans."
+  },
+  "9.5": {
+   "title": "Achilles refuses",
+   "text": "Achilles answers sharply. He no longer trusts Agamemnon and wants neither his gifts nor his daughter, not even for all the wealth of Orchomenus and Egyptian Thebes. Tomorrow he will load his ships, and with a fair wind he will be in Phthia on the third day. His mother Thetis has told him he has two fates: a short life with glory at Troy, or a long life at home without it."
+  },
+  "9.6": {
+   "title": "Phoenix tells his story",
+   "text": "Everyone is silent. Old Phoenix bursts into tears and tells his own story: he quarrelled with his father Amyntor over a concubine, fled through Hellas and came to Phthia. Peleus took him in like a son, made him king of the Dolopians and gave him the small Achilles to bring up. Now Phoenix begs him not to turn away the Prayers, the daughters of Zeus."
+  },
+  "9.7": {
+   "title": "The tale of Meleager",
+   "text": "Phoenix tells an old story. The Curetes fought the Aetolians around Calydon over the head and hide of the boar that Artemis had sent against the city. Meleager, angry with his mother, stayed at home and refused every gift. He went out to fight only when the enemy was already setting fire to the city, and then he got nothing."
+  },
+  "9.8": {
+   "title": "Ajax speaks bluntly",
+   "text": "Achilles invites Phoenix to stay the night with him. Ajax speaks briefly and angrily: a man accepts payment even for a murdered brother or son, yet Achilles will not give way over one girl. Achilles replies that he will think of fighting only when Hector reaches the ships of the Myrmidons with fire. Odysseus and Ajax leave, and Phoenix stays."
+  },
+  "9.9": {
+   "title": "The answer reaches Agamemnon",
+   "text": "In Agamemnon's tent Odysseus reports the answer: Achilles refuses and threatens to sail away. For a long time no one speaks. Diomedes says they should never have begged him: let him do as he likes, and let them eat, sleep, and at dawn form up in front of the ships."
+  },
+  "10.1": {
+   "title": "A sleepless night",
+   "text": "Everyone is asleep except Agamemnon. He looks at the many Trojan fires on the plain and listens to their flutes. Menelaus is awake too and comes to him. Agamemnon sends him to wake Ajax and Idomeneus and goes himself to Nestor."
+  },
+  "10.2": {
+   "title": "Waking the chiefs",
+   "text": "Agamemnon finds Nestor beside his tent, his weapons next to the bed. Together they wake Odysseus and then Diomedes, who is sleeping in the open among his men, their spears stuck upright in the ground. Nestor sends Diomedes to fetch the other chiefs."
+  },
+  "10.3": {
+   "title": "Council beyond the ditch",
+   "text": "The chiefs find the guards awake, cross the ditch and sit down in a clear space among the dead. Nestor asks who will slip in among the Trojans to learn what they are planning. Diomedes volunteers and picks Odysseus as his companion. They arm, Athena sends a heron as a good sign, and they set off into the dark."
+  },
+  "10.4": {
+   "title": "Dolon sets out",
+   "text": "Hector does not let the Trojans sleep either and calls his chiefs together. He promises the best Achaean horses to the man who will go and spy at the ships. Dolon is no beauty but quick on his feet; he volunteers and makes Hector swear to give him the horses of Achilles. He throws on a wolf skin and sets off toward the ships."
+  },
+  "10.5": {
+   "title": "Dolon is caught",
+   "text": "Odysseus and Diomedes hear him, lie down among the dead and let him go past, then chase him and cut him off from his own side. Dolon begs for his life and tells everything: Hector is in council by the tomb of Ilus, the allies sleep without guards, some toward the sea and some toward Thymbra, and the Thracians of Rhesus have just arrived and lie at the far edge. Diomedes kills him. They hang his gear on a tamarisk and mark the place."
+  },
+  "10.6": {
+   "title": "Rhesus and the white horses",
+   "text": "The two reach the Thracians. They sleep exhausted in three rows, each man with his horses beside him. Diomedes kills twelve men and last of all King Rhesus, while Odysseus drags the bodies aside and unties the white horses. Athena warns them to leave; Apollo wakes a Thracian chief, but the two are already galloping toward the ships."
+  },
+  "10.7": {
+   "title": "Back at the ships",
+   "text": "At the spot where they killed Dolon they stop and pick up his bloody gear. Then they gallop for the ships, and Nestor is the first to hear the hooves. They are welcomed with joy. The two wash off the sweat in the sea, bathe, sit down to eat and pour wine to Athena."
+  },
+  "11.1": {
+   "title": "Strife at the ships",
+   "text": "At dawn Zeus sends Eris, the goddess of strife, to the ships. She stands on Odysseus' ship, in the middle of the camp, and shouts so that both ends can hear her. Agamemnon puts on his gleaming armour. The Achaeans form up at the ditch and the Trojans around Hector on the rise in the plain, and for a long time neither side gives way."
+  },
+  "11.2": {
+   "title": "Agamemnon drives the Trojans",
+   "text": "Toward midday the Achaeans break the lines. Agamemnon kills one Trojan leader after another, among them two sons of Priam, and spares no one. The Trojans flee across the middle of the plain, past the tomb of Ilus and the wild fig tree. The first of them stop only at the Scaean Gates and the oak."
+  },
+  "11.3": {
+   "title": "Agamemnon is wounded",
+   "text": "Zeus comes down to Ida with a thunderbolt in his hand and sends Iris to Hector: he is to hold back until Agamemnon is wounded. Near the city the fighting starts again. Coön, a son of Antenor, stabs Agamemnon through the arm; Agamemnon kills Coön and fights on until the wound dries. Then he mounts his chariot and is driven to the ships."
+  },
+  "11.4": {
+   "title": "Diomedes is wounded",
+   "text": "As soon as Agamemnon leaves the battle, Hector charges and the Achaeans run. Odysseus and Diomedes make a stand against him; Diomedes' spear strikes Hector's helmet and stuns him. Paris, hidden behind the pillar on the tomb of Ilus, shoots an arrow through Diomedes' foot. Odysseus covers him, Diomedes pulls the arrow out and drives off to the ships."
+  },
+  "11.5": {
+   "title": "Odysseus left alone",
+   "text": "Odysseus is left alone among the Trojans. He wonders whether to run, but stays and defends himself like a boar ringed by hounds. Socus wounds him in the ribs; Odysseus kills him and shouts three times for help. Menelaus and Ajax hear him: Ajax scatters the Trojans and Menelaus leads Odysseus out of the battle."
+  },
+  "11.6": {
+   "title": "Machaon wounded, Ajax gives ground",
+   "text": "Hector is fighting on the left, by the banks of the Scamander, against Nestor and Idomeneus. There Paris wounds the healer Machaon with an arrow, and Nestor drives him off to the ships in his chariot. Hector turns back toward the centre, where Ajax is. Zeus puts fear into Ajax and he gives ground slowly, step by step, like a stubborn donkey; Eurypylus is wounded too."
+  },
+  "11.7": {
+   "title": "Achilles sends Patroclus",
+   "text": "Achilles is watching the battle from the stern of his ship and sees Nestor's chariot carrying off a wounded man. He calls Patroclus and sends him to ask who it is. In Nestor's tent the slave woman Hecamede, taken from Tenedos, is mixing a drink in his great cup. Patroclus stands in the doorway, sees that the wounded man is Machaon, and wants to go straight back."
+  },
+  "11.8": {
+   "title": "Nestor's story",
+   "text": "Nestor keeps him with a long story from his youth. The Epeians of Elis besieged Thryoessa, a town on the Alpheus at the border of Pylos. The men of Pylos marched by night, young Nestor killed the first enemy and chased them all the way to Buprasium. In the end Nestor asks Patroclus to win Achilles over, or at least to go into battle himself in Achilles' armour, so that the Trojans take him for Achilles."
+  },
+  "11.9": {
+   "title": "Patroclus tends Eurypylus",
+   "text": "Patroclus runs back along the ships. By the ships of Odysseus, where the assembly place and the altars are, he meets Eurypylus limping with an arrow in his thigh. Eurypylus says the Achaeans will not hold out. Patroclus takes him to his tent, cuts out the arrow, washes the wound and puts on a bitter root that stops the pain."
+  },
+  "12.1": {
+   "title": "The fate of the wall",
+   "text": "While Patroclus tends Eurypylus, the fighting reaches the wall. The poet looks ahead: the wall was built without offerings to the gods and will not last long. After the war Poseidon and Apollo will turn against it all the rivers that run from Ida to the sea, and the shore will be smooth sand again."
+  },
+  "12.2": {
+   "title": "The Trojans at the ditch",
+   "text": "The Achaeans are pinned behind their wall. The Trojans' horses stop at the edge of the ditch: it is wide and steep and set with sharp stakes. Polydamas advises leaving the chariots and attacking on foot. Hector agrees, and the Trojans split into five companies."
+  },
+  "12.3": {
+   "title": "Asius at the left gate",
+   "text": "Only Asius will not listen and drives his chariot at the left gate, which the Achaeans are holding open for their fleeing men. In front of it stand two Lapiths, Polypoetes and Leonteus, as firm as oaks. Stones rain down from the towers. Asius cannot break through and complains to Zeus."
+  },
+  "12.4": {
+   "title": "The eagle and the snake",
+   "text": "An eagle flies past on the left with a snake in its claws; the snake bites it and it drops the snake among the Trojans. Polydamas takes this as a bad sign and advises against attacking the ships. Hector calls him a coward: the only sign he trusts is to fight for his country. The Trojans tear at the wall, while the two Ajaxes go along the towers urging the Achaeans on."
+  },
+  "12.5": {
+   "title": "Sarpedon speaks to Glaucus",
+   "text": "Zeus stirs his son Sarpedon against the wall. Sarpedon asks Glaucus why in Lycia they are honoured like gods and were given the best land beside the Xanthus. That is why they must stand in the front line. Death cannot be escaped anyway, and the two lead the Lycians forward."
+  },
+  "12.6": {
+   "title": "Sarpedon breaches the wall",
+   "text": "The Lycians attack the tower of Menestheus the Athenian. He sends a herald for help, and Ajax comes with Teucer. Ajax kills one of Sarpedon's companions with a rock, and Teucer wounds Glaucus with an arrow. Sarpedon grips the battlement with both hands and pulls the whole of it down, but the Lycians cannot get through and the two sides hold each other level."
+  },
+  "12.7": {
+   "title": "Hector breaks the gate",
+   "text": "Zeus gives the glory to Hector. He shouts to the Trojans to climb the wall, lifts a huge pointed stone in front of the gate and hurls it at the middle. The bars break, the doors fly apart, and Hector leaps in with two spears in his hands. The Trojans pour in after him, and the Achaeans run for the ships."
+  },
+  "13.1": {
+   "title": "Poseidon comes down from Samothrace",
+   "text": "Zeus has brought the Trojans to the ships and turns his eyes away north, to the lands of the Thracians. Poseidon is watching the battle from the highest peak of Samothrace and pities the Achaeans. In four strides he reaches his palace at Aegae, harnesses his horses and drives over the waves. He leaves them in a cave between Tenedos and Imbros and goes to the Achaean camp."
+  },
+  "13.2": {
+   "title": "Poseidon rallies the Achaeans",
+   "text": "The Trojans press on behind Hector, sure they will take the ships. Poseidon, in the shape of the seer Calchas, touches the two Ajaxes with his staff and fills them with strength. Then he rouses the tired men who are resting by the ships. Around the Ajaxes the ranks close up: shield to shield, helmet to helmet."
+  },
+  "13.3": {
+   "title": "Hector is stopped",
+   "text": "Hector comes down like a boulder torn loose by a flood, but the close ranks stop him. Meriones breaks his spear on Deiphobus' shield and goes to fetch another. Teucer kills Imbrius, and Hector kills Amphimachus, a grandson of Poseidon. The Achaeans drag both bodies away."
+  },
+  "13.4": {
+   "title": "Idomeneus and Meriones",
+   "text": "Angry over his grandson, Poseidon, in the shape of Thoas, urges on Idomeneus the Cretan. Idomeneus arms and outside his tent meets Meriones, who has come for a new spear. The two talk about courage and ambushes. They decide to go to the left of the battle, because in the centre the two Ajaxes and Teucer can cope."
+  },
+  "13.5": {
+   "title": "Idomeneus on the left",
+   "text": "On the left the fighting thickens. Zeus wants victory for the Trojans, while Poseidon secretly helps the Achaeans. Idomeneus, grey-haired as he is, kills Othryoneus, then Asius and Alcathous, the son-in-law of Anchises. He boasts to Deiphobus that he descends from Zeus and from Minos, king of Crete."
+  },
+  "13.6": {
+   "title": "Aeneas against Idomeneus",
+   "text": "Deiphobus fetches Aeneas, who is standing apart, angry with Priam. Idomeneus faces him, but his legs are no longer quick and he gives ground step by step. Deiphobus kills Ascalaphus, the son of Ares; Meriones wounds Deiphobus in the arm, and his brother leads him out of the battle toward the city. More men fall around the bodies."
+  },
+  "13.7": {
+   "title": "Menelaus on the left",
+   "text": "Menelaus fights Helenus and wounds him in the hand. Then he kills Peisander and shouts over the body that the Trojans stole his wife and still cannot get enough of war. Meriones kills Harpalion, the son of the Paphlagonian king, with an arrow. Angry for his friend, Paris kills Euchenor of Corinth."
+  },
+  "13.8": {
+   "title": "Hector in the centre",
+   "text": "Hector does not know that his men are dying on the left. He is fighting in the centre, where he broke through the gate: by the ships of Ajax and Protesilaus, where the wall is lowest. Against him stand Boeotians, Ionians, Locrians, Phthians and Epeians. The two Ajaxes fight side by side like two oxen in one furrow, while the Locrians shoot from behind with bows and slings."
+  },
+  "13.9": {
+   "title": "Polydamas' advice",
+   "text": "Polydamas advises Hector to gather the best men and decide whether to attack or pull back. Hector goes to the left and sees that many leaders are dead or wounded; he finds Paris and scolds him. The two return to the centre and the Trojans advance again, rank after rank. Ajax challenges Hector, an eagle flies past on the right, and the two armies clash with a shout."
+  },
+  "14.1": {
+   "title": "The wounded kings",
+   "text": "Nestor hears the shouting, comes out of his tent and sees that the wall is down. He meets Agamemnon, Odysseus and Diomedes coming up from the ships, leaning on their spears. Agamemnon proposes dragging the ships down to the sea; Odysseus rebukes him, and Diomedes says they should go to the battle and hearten the others. Poseidon, in the shape of an old man, takes Agamemnon by the hand and lets out a shout as loud as nine thousand men."
+  },
+  "14.2": {
+   "title": "Hera gets ready",
+   "text": "From Olympus Hera sees Poseidon in the battle and Zeus sitting on the top of Ida. She decides to put Zeus to sleep. She shuts herself in her chamber, bathes, rubs herself with scented oil and puts on her finest robe. Then, with a lie, she gets from Aphrodite the embroidered band that holds love and desire."
+  },
+  "14.3": {
+   "title": "From Olympus to Lemnos",
+   "text": "Hera darts down from Olympus, passes over Pieria and Emathia and over the snowy mountains of the Thracians without touching the ground. From Athos she sets out over the sea and comes to Lemnos, the city of Thoas. There she finds Sleep, the brother of Death, and asks him to put Zeus to sleep. Sleep is afraid, but Hera promises him Pasithea, one of the young Graces, as his wife, and swears to it."
+  },
+  "14.4": {
+   "title": "Hera puts Zeus to sleep",
+   "text": "Hera and Sleep, wrapped in mist, leave Lemnos and Imbros behind and come ashore at Lecton; the forest trembles under their feet. Sleep hides in the tallest fir on Ida. Hera climbs to the peak of Gargarus. Zeus sees her, is seized by desire, wraps them both in a golden cloud and falls asleep with his arms around her."
+  },
+  "14.5": {
+   "title": "Poseidon leads the Achaeans",
+   "text": "Sleep runs to the ships and tells Poseidon that Zeus is asleep. Poseidon now leads the Achaeans openly. The wounded kings rearrange the men: the best fighters take the best arms. The two armies clash, and the sea surges up the shore as far as the tents and ships."
+  },
+  "14.6": {
+   "title": "Ajax fells Hector",
+   "text": "Hector throws his spear at Ajax, but the straps across Ajax's chest stop it. Ajax picks up one of the stones used to prop the ships and hits him in the chest above the shield. Hector falls like an oak struck by lightning. His companions drive him by chariot to the ford of the Xanthus and pour water over him; he comes to, coughs up blood and passes out again."
+  },
+  "14.7": {
+   "title": "The Trojans run",
+   "text": "Seeing Hector carried out of the battle, the Achaeans attack harder still. One killing follows another, and over each fallen man the victor boasts. Peneleos lifts the head of Ilioneus on his spear and shows it to the Trojans. They run; the one who catches and kills the most of them is swift Ajax, the son of Oileus."
+  },
+  "15.1": {
+   "title": "Zeus wakes",
+   "text": "The Trojans flee back across the ditch. Zeus wakes on Ida and sees Poseidon among the Achaeans and Hector lying on the plain, coughing blood. He threatens Hera and reminds her how he once hung her from the sky with anvils on her feet. Hera swears she did not send Poseidon; Zeus orders her to summon Iris and Apollo and tells her what he has planned."
+  },
+  "15.2": {
+   "title": "Hera on Olympus",
+   "text": "Hera flies from Ida to Olympus, quick as a thought. She tells the gods that Zeus is angry and lets Ares know that his son Ascalaphus has been killed. Ares jumps up to take revenge, but Athena takes off his helmet and shield and sits him back down. Hera sends Apollo and Iris to Ida, to Zeus."
+  },
+  "15.3": {
+   "title": "Iris goes to Poseidon",
+   "text": "Zeus sends Iris from Ida down to the battle with an order: Poseidon must leave the war. Poseidon is furious: the three brothers divided the world by lot, and the earth is common to all. Iris advises him to give way to his elder brother. He obeys, though with a threat, and dives into the sea."
+  },
+  "15.4": {
+   "title": "Apollo revives Hector",
+   "text": "Zeus sends Apollo to Hector. Apollo swoops down from Ida like a hawk and finds him sitting up, already come to. He breathes strength into him and promises to go ahead of him and smooth the way for the chariots. Hector dashes off like a horse that has broken its rope, and the Achaeans are shaken to see him back in the fight."
+  },
+  "15.5": {
+   "title": "Apollo breaks the wall",
+   "text": "On Thoas' advice the best Achaeans stay to hold Hector while the rest fall back to the ships. Apollo leads the way with the aegis; he shakes it and the Achaeans run. With his foot he kicks in the banks of the ditch to make a bridge, and he knocks the wall down as easily as a child knocks over a sandcastle by the sea. The Trojans pour in with their chariots and the fighting reaches the sterns of the ships."
+  },
+  "15.6": {
+   "title": "Patroclus runs to Achilles",
+   "text": "While the fighting was at the wall, Patroclus sat in Eurypylus' tent tending his wound. Now he sees that the Trojans are over the wall and hears the cries of men in flight. He slaps his thighs, leaves Eurypylus to his servant and runs off to Achilles, to persuade him to fight."
+  },
+  "15.7": {
+   "title": "The fight at the ships",
+   "text": "The Achaeans cannot push the Trojans back, and the Trojans cannot break through to the tents. Hector and Ajax fight over one and the same ship: the one cannot set it on fire, the other cannot drive him off. Teucer's bowstring snaps, broken by Zeus, and he takes up a spear. Both leaders urge on their men, and many fall on either side."
+  },
+  "15.8": {
+   "title": "Behind the first ships",
+   "text": "Zeus gives Hector strength, and he falls on them like a wave breaking over a ship. The Achaeans draw back behind the first row of ships and make a stand by the tents. Nestor begs them, in the name of their parents, wives and children, not to run. Athena clears the mist from their eyes, and they see Hector and the whole battle plainly."
+  },
+  "15.9": {
+   "title": "The ship of Protesilaus",
+   "text": "Ajax will not stand back with the others. With a long ship's pike in his hands he strides from deck to deck, shouting to the Achaeans to defend the ships. Hector seizes the stern of the ship that once brought Protesilaus and calls for fire. Ajax steps back onto the rowing bench and from there spears every man who comes near with a torch: twelve of them."
+  },
+  "16.1": {
+   "title": "Patroclus pleads with Achilles",
+   "text": "Patroclus comes to Achilles in tears; Achilles compares him to a little girl tugging at her mother's dress. Patroclus tells him the best of the Achaeans are wounded and asks to be sent into battle in Achilles' armour. Achilles agrees, on one condition: he is to drive the Trojans from the ships and come back, without going on toward Troy."
+  },
+  "16.2": {
+   "title": "The first ship burns",
+   "text": "Ajax can no longer hold out under the arrows and spears; his helmet rings and his arm grows tired. Hector slices the head off Ajax's spear with his sword, and Ajax falls back. The Trojans throw fire into the ship and the stern goes up in flames. Achilles sees the blaze, slaps his thighs and tells Patroclus to hurry."
+  },
+  "16.3": {
+   "title": "The Myrmidons arm",
+   "text": "Patroclus puts on Achilles' armour but leaves his heavy spear from Pelion, which only Achilles can wield. Automedon yokes the immortal horses, and Achilles draws up the Myrmidons in five companies. Then he pours wine and prays to Zeus of far-off Dodona: may Patroclus drive the fighting from the ships and come back unharmed."
+  },
+  "16.4": {
+   "title": "Patroclus puts out the fire",
+   "text": "The Myrmidons pour out like wasps from a nest by the road. The Trojans see the armour and think Achilles has come back. Patroclus kills Pyraechmes, leader of the Paeonians from Amydon, drives the Trojans off and puts out the fire; the ship is left half burnt. The Trojans flee in disorder across the ditch, and Patroclus cuts them off and kills many of them between the ships, the river and the wall."
+  },
+  "16.5": {
+   "title": "The death of Sarpedon",
+   "text": "Sarpedon sees his Lycians falling and jumps down from his chariot to face Patroclus. Zeus wonders whether to save his son, but Hera talks him out of it: afterwards let Sleep and Death carry him to Lycia. Zeus sends a rain of blood on the earth. Patroclus' spear strikes Sarpedon in the chest; dying, he begs Glaucus not to leave his armour to the Achaeans."
+  },
+  "16.6": {
+   "title": "The fight over Sarpedon's body",
+   "text": "Glaucus is wounded and cannot help; he prays to Apollo, and the god stops his pain. The fight around the body goes on so long that it is covered in arrows, blood and dust. Zeus puts fear into Hector, the Trojans run, and the Achaeans strip off the armour. Apollo carries the body away and washes it in the river, and Sleep and Death bear it to Lycia."
+  },
+  "16.7": {
+   "title": "Under the walls of Troy",
+   "text": "Patroclus forgets Achilles' order and chases the Trojans all the way to the city. Three times he climbs the angle of the wall, and three times Apollo pushes him back with his hands; the fourth time the god shouts at him to get away. At the Scaean Gates Apollo, in the shape of Hector's uncle, sends Hector against Patroclus. Patroclus kills his charioteer Cebriones with a stone, and the two armies fight over the body."
+  },
+  "16.8": {
+   "title": "The death of Patroclus",
+   "text": "Toward evening the Achaeans get the upper hand, and three times Patroclus charges into the Trojans. The fourth time Apollo, wrapped in mist, strikes him on the back: his helmet falls, his spear breaks, his breastplate comes undone. Euphorbus spears him from behind and draws back. Hector finishes him with a thrust to the belly and boasts over him, then goes after Automedon, whom the immortal horses carry away."
+  },
+  "17.1": {
+   "title": "Menelaus and Euphorbus",
+   "text": "Patroclus lies dead under the walls of Troy. Menelaus stands over him like a cow guarding her first calf. Euphorbus, who was the first to wound Patroclus, demands the spoils for himself. Menelaus kills him with a spear through the throat."
+  },
+  "17.2": {
+   "title": "Hector takes the armour",
+   "text": "Apollo sends Hector back to the body, and Menelaus gives way to fetch Ajax. Hector has already stripped Achilles' armour from Patroclus and is dragging the body away. Ajax comes up with his great shield and Hector draws back. Ajax stands over Patroclus like a lion over its cubs."
+  },
+  "17.3": {
+   "title": "Hector in Achilles' armour",
+   "text": "Glaucus, leader of the Lycians, accuses Hector of running from Ajax. Hector catches up with the men carrying the armour to the city and puts it on himself. Zeus watches and shakes his head. Then Hector promises half the spoils to whoever drags the body over to the Trojans."
+  },
+  "17.4": {
+   "title": "The fight for the body",
+   "text": "The Trojans charge at the body and at first push the Achaeans back. Hippothous of Larisa ties a strap round Patroclus' ankle and starts to pull, but Ajax kills him. Apollo heartens Aeneas, and the Trojans stand firm again. Ajax orders that no one step back from the dead man."
+  },
+  "17.5": {
+   "title": "Fighting in the mist",
+   "text": "A thick mist lies over the body, while the sun shines on the rest of the field. The two armies pull the dead man each their own way, like men stretching an ox-hide. Achilles is far off by the ships and does not yet know that Patroclus is dead."
+  },
+  "17.6": {
+   "title": "Achilles' horses weep",
+   "text": "Away from the fighting, Achilles' immortal horses stand still and weep for Patroclus. Zeus pities them and gives them strength. Automedon drives them back into battle, and Alcimedon takes the reins. Hector and Aeneas try to capture them, but the two Ajaxes drive them off."
+  },
+  "17.7": {
+   "title": "Ajax's prayer",
+   "text": "Athena puts courage into Menelaus, and Apollo into Hector. Zeus wraps Ida in cloud, thunders and shakes the aegis; the Achaeans turn and run. Ajax prays: if they must die, let it be in the light. Zeus scatters the mist and the sun lights up the field."
+  },
+  "17.8": {
+   "title": "A messenger for Achilles",
+   "text": "Ajax sends Menelaus to find Antilochus, Nestor's son. Menelaus leaves the body unwillingly and finds him on the left of the battle. Antilochus is struck dumb by the news and his eyes fill with tears. Then he hands his armour to a comrade and runs for the ships, to Achilles."
+  },
+  "17.9": {
+   "title": "Carrying the body back",
+   "text": "Menelaus and Meriones lift the body high in their arms and set off for the ships. Behind them the two Ajaxes hold back the Trojans, as a wooded ridge holds back a river in flood. Hector and Aeneas press hard on their heels. Around the ditch the fleeing Achaeans drop many weapons."
+  },
+  "18.1": {
+   "title": "Achilles hears the news",
+   "text": "Achilles stands by his ships, sees the Achaeans fleeing and fears the worst. Antilochus comes up in tears: Patroclus is dead, and Hector has the armour. Achilles pours ashes over his head and throws himself on the ground. Antilochus holds his hands, afraid he may harm himself."
+  },
+  "18.2": {
+   "title": "Thetis rises from the sea",
+   "text": "In the depths of the sea Thetis hears her son's cry. She comes ashore by the Myrmidon ships with her sisters, the Nereids. Achilles tells her he will go back into battle and kill Hector, whatever it costs him. Thetis asks him to wait until morning: she will bring him new armour from Hephaestus."
+  },
+  "18.3": {
+   "title": "The shout from the ditch",
+   "text": "The fight for the body reaches the ships. Hera secretly sends Iris to Achilles, and he stands at the ditch without armour, a cloud of fire around his head. He shouts three times and the Trojans flee in terror; the Achaeans at last bring Patroclus in. Hera makes the sun set early."
+  },
+  "18.4": {
+   "title": "Polydamas' advice",
+   "text": "The Trojans gather for a council out on the plain, before they have even eaten. Polydamas advises them to go back into the city that same night, because Achilles has shown himself again. Hector refuses: they will stay near the ships and attack at dawn. The Trojans cheer Hector."
+  },
+  "18.5": {
+   "title": "The night beside Patroclus",
+   "text": "The Achaeans mourn Patroclus all night. Achilles lays his hands on his friend's chest and remembers how he promised Patroclus' father to bring him home to Opous in glory. He swears not to bury him until he has brought Hector's head and armour. They wash the body, anoint it with oil and cover it with a white cloth."
+  },
+  "18.6": {
+   "title": "Thetis visits Hephaestus",
+   "text": "On Olympus Zeus tells Hera she has had her way: Achilles has risen. Thetis arrives at Hephaestus' house of bronze and finds him sweating at the bellows. He remembers how she took him in when his mother cast him out and he fell from the sky. He promises her armour that everyone will marvel at."
+  },
+  "18.7": {
+   "title": "The shield: two cities",
+   "text": "Hephaestus sets the bellows going and throws bronze, tin, gold and silver into the fire. First he forges a great shield and pictures on it the earth, the sky, the sea, the sun, the moon and the stars. Then he makes two cities. In one there are weddings and a trial in the market-place; the other is besieged by two armies."
+  },
+  "18.8": {
+   "title": "The shield: fields and dance",
+   "text": "On the shield Hephaestus adds ploughing, harvest, grape-picking, a herd attacked by lions and a sheep pasture. Young men and girls dance on a floor like the one Daedalus made at Knossos for Ariadne. Round the rim runs the river Ocean. When the rest of the armour is ready too, Thetis takes it and swoops down from Olympus like a hawk."
+  },
+  "19.1": {
+   "title": "The new armour",
+   "text": "At dawn Thetis brings the armour to the ships. Achilles lies with his arms around Patroclus, weeping. The armour rings as she sets it down; the Myrmidons dare not look at it, but Achilles is glad. Thetis drips ambrosia and nectar into Patroclus' nostrils so that the body will not decay."
+  },
+  "19.2": {
+   "title": "Achilles gives up his anger",
+   "text": "Achilles walks along the shore and calls all the Achaeans to an assembly; even the wounded Diomedes, Odysseus and Agamemnon come. Achilles declares that his anger is over. Agamemnon puts the blame on Ate, the goddess of blindness, who blinded even Zeus on the day Heracles was being born in Thebes. He promises all the gifts."
+  },
+  "19.3": {
+   "title": "Food before battle",
+   "text": "Achilles wants to go into battle at once. Odysseus objects: hungry men cannot fight all day, so the army must eat first. He also wants the gifts brought out before everyone and an oath from Agamemnon. Achilles refuses to eat until Patroclus is avenged."
+  },
+  "19.4": {
+   "title": "The gifts and the oath",
+   "text": "Odysseus and several young Achaeans bring the gifts from Agamemnon's hut: tripods, cauldrons, horses, gold and seven women, and Briseis with them. Agamemnon sacrifices a boar and swears he has never touched her. The assembly breaks up. The Myrmidons carry the gifts to Achilles' ship."
+  },
+  "19.5": {
+   "title": "Laments for Patroclus",
+   "text": "Briseis sees Patroclus dead and throws herself on his body. He was kind to her when Achilles destroyed Lyrnessus and killed her husband. The elders beg Achilles to eat, but he refuses. He says no news could be harder, not even about his father in Phthia or his son, who is growing up on Scyros."
+  },
+  "19.6": {
+   "title": "Achilles arms himself",
+   "text": "Zeus pities Achilles and sends Athena to fill him with nectar and ambrosia, so that hunger will not weaken him. The Achaeans pour out from the ships; the gleam of bronze reaches the sky. Achilles puts on the armour made by Hephaestus: his shield shines like the moon. He takes his father's heavy spear, which only he can wield."
+  },
+  "19.7": {
+   "title": "The horse Xanthus speaks",
+   "text": "Automedon yokes the immortal horses and Achilles mounts the chariot. He tells them not to leave him on the field as they left Patroclus. Hera gives the horse Xanthus a human voice: this time they will bring him back alive, but he foretells that Achilles' death is near. Achilles answers that he knows it, and drives to the front."
+  },
+  "20.1": {
+   "title": "The council of the gods",
+   "text": "Zeus calls all the gods to Olympus; even the rivers and the nymphs come. He allows them to go down to Troy and help whichever side they like. He fears that without them Achilles will take the city this very day. Hera, Athena, Poseidon, Hermes and Hephaestus go to the ships; Ares, Apollo, Artemis, Leto, Aphrodite and the river god Xanthus go to the Trojans."
+  },
+  "20.2": {
+   "title": "The earth shakes",
+   "text": "The gods join the battle. Athena shouts beside the ditch, and Ares from the citadel of Troy and from Kallikolone above the Simoeis. Zeus thunders and Poseidon shakes the earth: Ida, the city and the ships tremble, and Hades takes fright in his kingdom below. The gods line up against one another; facing Hephaestus is the river that gods call Xanthus and men call Scamander."
+  },
+  "20.3": {
+   "title": "The gods sit and watch",
+   "text": "Achilles is looking for Hector, but Apollo urges Aeneas to face him. Hera is worried, and Poseidon suggests that the gods draw aside and only watch. He, Hera and Athena sit down on the wall of Heracles near the shore. Apollo, Ares and the others sit opposite, on Kallikolone."
+  },
+  "20.4": {
+   "title": "The line of Aeneas",
+   "text": "Achilles and Aeneas meet between the two armies. Achilles reminds him how he once chased him from Ida all the way to Lyrnessus. Aeneas answers with his family line: Dardanus, son of Zeus, founded Dardania on the slopes of Ida before there was any Troy in the plain. Both Priam and Anchises, Aeneas' father, come from his line."
+  },
+  "20.5": {
+   "title": "The duel with Aeneas",
+   "text": "Aeneas' spear stops in the gold layer of the new shield. Achilles' spear goes through Aeneas' shield and sticks in the ground behind him. Achilles rushes in with his sword; Aeneas lifts a huge stone. Poseidon pours a mist over Achilles' eyes and carries Aeneas over the ranks to the edge of the battle."
+  },
+  "20.6": {
+   "title": "Achilles among the Trojans",
+   "text": "Achilles goes along the ranks urging the Achaeans on. Hector promises to face him, but Apollo warns him to stay in the crowd. Achilles kills Iphition, born under Mount Tmolus, then Demoleon and Hippodamas. He also kills Polydorus, Priam's youngest son, whom his father had forbidden to fight."
+  },
+  "20.7": {
+   "title": "Hector faces Achilles",
+   "text": "Hector sees his brother Polydorus fall and can hold back no longer: he goes straight for Achilles. He throws his spear, but Athena turns it back with a light breath and it drops at his feet. Three times Achilles charges and three times he strikes only mist, because Apollo has hidden Hector. Achilles shouts a threat and turns on the other Trojans."
+  },
+  "20.8": {
+   "title": "Achilles' fury",
+   "text": "Achilles kills one Trojan after another; he does not spare even young Tros, who clasps his knees. He rages across the plain like fire on a dry mountainside. His horses trample dead men and shields, and the axle and wheels of his chariot are spattered with blood."
+  },
+  "21.1": {
+   "title": "At the ford of Xanthus",
+   "text": "At the ford of the Xanthus Achilles splits the fleeing Trojans in two. Some run across the plain towards the city; the others throw themselves into the river. Achilles leaves his spear on the bank and jumps in after them with his sword; the water turns red. He takes twelve young men alive and sends them, bound, to the ships."
+  },
+  "21.2": {
+   "title": "Lycaon begs for his life",
+   "text": "Out of the river comes Lycaon, a son of Priam. Achilles captured him once before and sold him on Lemnos; a friend from Imbros bought him free and sent him to Arisbe, and from there he slipped away home. Now, unarmed, he clasps Achilles' knees. Achilles answers that Patroclus died too, kills him and throws the body into the river."
+  },
+  "21.3": {
+   "title": "Asteropaeus, grandson of a river",
+   "text": "The river grows angry and puts courage into Asteropaeus, leader of the Paeonians and grandson of the river Axios. He throws two spears at once and grazes Achilles' arm, drawing blood. Achilles kills him with his sword and leaves the body to the fish. Then he cuts down seven more Paeonians."
+  },
+  "21.4": {
+   "title": "The river against Achilles",
+   "text": "Scamander complains that his bed is choked with corpses, and when Achilles leaps in, the river rises against him. Achilles scrambles out and runs across the plain with the wave at his heels. Poseidon and Athena take him by the hand and give him courage. Then Scamander calls his brother Simoeis to help, and a dark wave towers over Achilles."
+  },
+  "21.5": {
+   "title": "The fire of Hephaestus",
+   "text": "Hera fears for Achilles and sends her son Hephaestus with fire. The flames burn the corpses on the plain, then the trees along the bank, and the river's water begins to boil. Scamander begs for mercy and swears not to help the Trojans any more. Hera stops Hephaestus and the river flows back into its bed."
+  },
+  "21.6": {
+   "title": "The gods come to blows",
+   "text": "Now the gods come to blows too, and Zeus laughs on Olympus. Athena knocks Ares down with a stone and Aphrodite with her hand. Apollo refuses to fight Poseidon for the sake of mortals. Hera boxes Artemis' ears with her own bow, and Artemis runs in tears to Zeus."
+  },
+  "21.7": {
+   "title": "Priam opens the gates",
+   "text": "Apollo goes into Troy to guard the wall, and the other gods return to Olympus. From the tower Priam sees Achilles driving the Trojans towards the city. He orders the guards to hold the gates open until the fleeing men are inside. The Trojans run for the city, dusty and parched, with Achilles at their heels."
+  },
+  "21.8": {
+   "title": "Agenor waits for Achilles",
+   "text": "Before the gates Agenor, son of Antenor, decides not to run and waits for Achilles. His spear hits Achilles' new greave and bounces off. Apollo hides Agenor in mist, takes his shape and runs off towards the Scamander; Achilles races after him. Meanwhile the Trojans pour into the city."
+  },
+  "22.1": {
+   "title": "Hector stays outside",
+   "text": "The Trojans are back behind the walls, drinking and catching their breath. Only Hector stays outside, in front of the Scaean Gates. Far out on the plain Apollo reveals himself to Achilles and mocks him for chasing a god. Furious, Achilles turns and runs for the city."
+  },
+  "22.2": {
+   "title": "Pleas from the wall",
+   "text": "Priam is the first to see Achilles coming, shining like a star. From the wall he and Hecuba beg Hector to come inside the city. Hector does not move. He is ashamed before the Trojans, because he did not listen to Polydamas, and decides it is better to fight."
+  },
+  "22.3": {
+   "title": "The chase around the walls",
+   "text": "When Achilles comes close, Hector starts to tremble and runs. They race past the fig tree and along the wagon road to the two springs, one hot and one cold, where the Trojan women used to do their washing in peacetime. Three times they circle the city while the gods look on. The fourth time round, Zeus lifts his golden scales and Hector's lot sinks."
+  },
+  "22.4": {
+   "title": "Athena's trick",
+   "text": "Athena tells Achilles to stop and get his breath back. Then she takes the shape of Deiphobus, Hector's brother, and goes to him. She promises they will fight side by side. Hector believes her and stops running."
+  },
+  "22.5": {
+   "title": "The duel by the springs",
+   "text": "Hector offers an oath: the winner will give back the loser's body. Achilles refuses; there are no pacts between lions and men. Achilles' spear misses, but Athena secretly hands it back to him; Hector's spear bounces off the shield. Hector calls to Deiphobus for another spear, but no one is there, and he understands that the gods have tricked him."
+  },
+  "22.6": {
+   "title": "The death of Hector",
+   "text": "Hector draws his sword and charges. Achilles knows his own old armour and drives his spear in where it leaves the throat bare. Dying, Hector asks that his body be given back to his parents for a ransom. Achilles refuses."
+  },
+  "22.7": {
+   "title": "The body in the dust",
+   "text": "Achilles strips the armour from Hector. The Achaeans crowd round, marvel at his size, and each of them stabs the body. Achilles pierces his ankles, ties him to the chariot with straps and drives off towards the ships. Hector's head drags in the dust of his own land."
+  },
+  "22.8": {
+   "title": "Priam and Hecuba mourn",
+   "text": "From the wall his mother and father see it all. Hecuba tears her hair and throws off her veil. Priam wants to go out through the gates alone and plead with Achilles, but the people hold him back. The whole city weeps, as if Troy were on fire."
+  },
+  "22.9": {
+   "title": "Andromache finds out",
+   "text": "Andromache does not know yet: she is weaving at home and has ordered water heated for Hector's bath. She hears the wailing from the tower and runs up onto the wall. She sees the horses dragging Hector towards the ships and faints. She mourns for him, for herself, born in far-off Thebe, and for their little son."
+  },
+  "23.1": {
+   "title": "The Myrmidons mourn Patroclus",
+   "text": "At the ships Achilles keeps the Myrmidons together. Three times they drive their chariots around Patroclus' body, weeping. Achilles throws Hector face down in the dust beside the bier and gives his men a funeral feast. He refuses to wash the blood off himself until Patroclus has been burned on the pyre."
+  },
+  "23.2": {
+   "title": "The ghost of Patroclus",
+   "text": "Achilles falls asleep on the seashore. In his sleep the soul of Patroclus comes to him and asks to be buried quickly, so that he can pass the gates of Hades. He wants their bones to lie in one urn, just as they grew up together after his father brought him from Opous. Achilles reaches out to embrace him, but the soul vanishes like smoke."
+  },
+  "23.3": {
+   "title": "The pyre of Patroclus",
+   "text": "Men with mules bring wood from the slopes of Ida and pile it on the shore. The Myrmidons, fully armed, carry Patroclus there. Achilles cuts off his hair, which he was growing for the river Spercheios back home, and lays it in his friend's hands. On the pyre he offers sheep, oxen, horses, dogs and the twelve captured Trojans."
+  },
+  "23.4": {
+   "title": "The winds and the mound",
+   "text": "The pyre will not catch. Achilles prays to the winds Boreas and Zephyrus, and Iris carries his prayer to them. They come rushing over the sea and fan the fire all night, while Achilles pours wine and calls on the soul of Patroclus. In the morning they gather the bones into a golden urn and heap up a mound where the pyre stood."
+  },
+  "23.5": {
+   "title": "The games begin",
+   "text": "Achilles keeps the army there and brings out prizes from the ships: cauldrons, tripods, horses, mules, women and iron. First comes the chariot race; Eumelus of Pherae, Diomedes, Menelaus, Antilochus and Meriones enter. Nestor teaches his son Antilochus how to drive close round the turning post. Achilles points out the post far off on the plain and sends Phoenix there as judge."
+  },
+  "23.6": {
+   "title": "The chariot race",
+   "text": "The chariots race off in a cloud of dust. Apollo knocks the whip out of Diomedes' hand, but Athena gives it back and breaks Eumelus' yoke. At a narrow place Antilochus gets past Menelaus by a risky trick. Among the spectators Idomeneus and Ajax son of Oileus quarrel over who is in the lead; Diomedes comes in first."
+  },
+  "23.7": {
+   "title": "The quarrel over prizes",
+   "text": "Eumelus comes in last, and Achilles wants to give him the second prize. Antilochus will not give up the mare he has won; then Menelaus accuses him of cheating. Antilochus admits his fault and the two make peace. Achilles gives the prize left over to old Nestor, who tells of his own victories at the games in Bouprasion."
+  },
+  "23.8": {
+   "title": "Boxing, wrestling, running",
+   "text": "In the boxing Epeius knocks Euryalus down with a blow to the face. Ajax son of Telamon and Odysseus wrestle for a long time, but neither wins, and Achilles gives them equal prizes. In the foot race Ajax son of Oileus is ahead until Athena makes him slip in the ox dung, and Odysseus wins. Everyone laughs."
+  },
+  "23.9": {
+   "title": "The last contests",
+   "text": "Ajax son of Telamon and Diomedes fight a duel with spears, but the Achaeans stop them, fearing for Ajax. Polypoetes throws the lump of iron farthest. In the archery Teucer only cuts the cord, and Meriones hits the dove as it flies. For the spear-throw Achilles gives Agamemnon the prize without a contest."
+  },
+  "24.1": {
+   "title": "Achilles finds no rest",
+   "text": "The games are over and everyone sleeps, except Achilles. He tosses and turns, weeps for Patroclus and wanders along the shore. At dawn he ties Hector to his chariot and drags him three times around his friend's mound. Apollo keeps the body from being disfigured."
+  },
+  "24.2": {
+   "title": "The quarrel on Olympus",
+   "text": "The gods look on and pity Hector. On the twelfth day Apollo rebukes them: Achilles has lost all pity and all shame. Hera objects that the son of a goddess cannot be weighed against a mortal. Zeus decides: Achilles must give the body back for a ransom, and he sends for Thetis."
+  },
+  "24.3": {
+   "title": "Iris goes to Thetis",
+   "text": "Iris dives into the sea between Samothrace and Imbros and finds Thetis in her cave. The two go up to Olympus, where Zeus tells her his will. Thetis comes down to her son's hut and passes it on. Achilles agrees: whoever brings the ransom may take the dead man."
+  },
+  "24.4": {
+   "title": "Priam prepares to go",
+   "text": "Zeus sends Iris to Troy: Priam is to go to Achilles alone with gifts, with only one old herald. Hecuba begs him not to go, but he will not give way. He picks out the ransom from his treasure room, scolds his sons, and they load the wagon. Before leaving he prays to Zeus, and an eagle flies over the city on the right."
+  },
+  "24.5": {
+   "title": "Priam's night journey",
+   "text": "Priam and the herald Idaeus come down from the city onto the plain. By the time they pass the tomb of Ilus and stop to water the animals at the river, it is dark. There Hermes meets them in the shape of a young Myrmidon. He takes the reins, puts the guards at the ditch to sleep, opens the gate and brings them to Achilles' hut."
+  },
+  "24.6": {
+   "title": "Priam before Achilles",
+   "text": "Priam comes in unseen, clasps Achilles' knees and kisses the hands that killed his sons. He asks him to remember his own father Peleus, old and alone in Phthia. Both men weep: Priam for Hector, Achilles for his father and for Patroclus. Achilles says that Priam too was once happy, lord of everything between Lesbos, Phrygia and the Hellespont."
+  },
+  "24.7": {
+   "title": "The ransom and the supper",
+   "text": "Achilles accepts the ransom, has the body washed and lifts it onto the wagon himself. Then he asks Priam to eat with him: even Niobe, he says, ate after she lost her twelve children, and now she is a rock on Mount Sipylus. The two eat and look at each other in wonder. Achilles promises to hold back the war for eleven days while the Trojans bury Hector."
+  },
+  "24.8": {
+   "title": "The return to Troy",
+   "text": "During the night Hermes wakes Priam and leads him out of the camp unseen. At the ford of the Xanthus the god leaves them and day breaks. Cassandra is the first to see them from the citadel, and she calls out the whole city. The Trojans meet them at the gates in tears, and Priam asks them to make way for the wagon."
+  },
+  "24.9": {
+   "title": "The funeral of Hector",
+   "text": "In the palace the women mourn Hector: Andromache, Hecuba and last Helen, to whom he was always kind. For nine days the Trojans bring in wood, and on the tenth they burn the body. They gather the bones into a golden casket, cover the grave with stones and heap up a mound. Then they all gather for a feast in Priam's house."
+  }
+ },
+ "points": {
+  "p_ephyra": "Ephyra (Corinth)",
+  "p_sidon": "Sidon",
+  "p_battle8": "Battle on the plain",
+  "p_kardamyle": "Cardamyle",
+  "p_pharai": "Pherae (Kalamata)",
+  "p_dolon": "Capture of Dolon",
+  "p_left_scamander": "Left of the battle",
+  "p_thryon": "Thryoessa (Thryon)",
+  "p_gate_left": "The left gate",
+  "p_tower_menestheus": "Menestheus' tower",
+  "p_aigai": "Aegae",
+  "p_cave": "Poseidon's cave",
+  "p_ships_left": "Left of the ships",
+  "p_pieria": "Pieria",
+  "p_emathia": "Emathia",
+  "p_thrace_mts": "Mountains of the Thracians",
+  "p_sarpedon": "Death of Sarpedon",
+  "p_thetis_cave": "Thetis' sea cave",
+  "p_skyros": "Scyros",
+  "p_heracles_wall": "Wall of Heracles",
+  "p_battle20": "Battle on the plain",
+  "p_sipylos": "Mount Sipylus"
+ }
+}

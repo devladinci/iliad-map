@@ -1,0 +1,308 @@
+{
+ "gods": [
+  {
+   "id": "zeus",
+   "side": "both"
+  },
+  {
+   "id": "hera",
+   "side": "achaean"
+  },
+  {
+   "id": "athena",
+   "side": "achaean"
+  },
+  {
+   "id": "poseidon",
+   "side": "achaean"
+  },
+  {
+   "id": "hermes",
+   "side": "achaean"
+  },
+  {
+   "id": "hephaestus",
+   "side": "achaean"
+  },
+  {
+   "id": "thetis",
+   "side": "achaean"
+  },
+  {
+   "id": "apollo",
+   "side": "trojan"
+  },
+  {
+   "id": "artemis",
+   "side": "trojan"
+  },
+  {
+   "id": "leto",
+   "side": "trojan"
+  },
+  {
+   "id": "aphrodite",
+   "side": "trojan"
+  },
+  {
+   "id": "ares",
+   "side": "trojan"
+  },
+  {
+   "id": "xanthos",
+   "side": "trojan"
+  }
+ ],
+ "families": [
+  {
+   "id": "troy",
+   "side": "trojan",
+   "tree": {
+    "n": "zeus",
+    "c": [
+     {
+      "n": "dardanus",
+      "c": [
+       {
+        "n": "erichthonius",
+        "c": [
+         {
+          "n": "tros",
+          "c": [
+           {
+            "n": "ilus",
+            "c": [
+             {
+              "n": "laomedon",
+              "c": [
+               {
+                "n": "priam",
+                "w": "hecuba",
+                "at": "troy",
+                "c": [
+                 {
+                  "n": "hector",
+                  "w": "andromache",
+                  "c": [
+                   {
+                    "n": "astyanax"
+                   }
+                  ]
+                 },
+                 {
+                  "n": "paris",
+                  "w": "helen"
+                 },
+                 {
+                  "n": "helenus"
+                 },
+                 {
+                  "n": "deiphobus"
+                 },
+                 {
+                  "n": "cassandra"
+                 },
+                 {
+                  "n": "lycaon"
+                 },
+                 {
+                  "n": "polydorus"
+                 }
+                ]
+               },
+               {
+                "n": "tithonus"
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "n": "assaracus",
+            "c": [
+             {
+              "n": "capys",
+              "c": [
+               {
+                "n": "anchises",
+                "w": "aphrodite",
+                "c": [
+                 {
+                  "n": "aeneas",
+                  "at": "dardania"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           },
+           {
+            "n": "ganymede"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "atreus",
+   "side": "achaean",
+   "tree": {
+    "n": "atreus",
+    "c": [
+     {
+      "n": "agamemnon",
+      "w": "clytemnestra",
+      "at": "mycenae",
+      "c": [
+       {
+        "n": "orestes"
+       }
+      ]
+     },
+     {
+      "n": "menelaus",
+      "w": "helen",
+      "at": "sparta"
+     }
+    ]
+   }
+  },
+  {
+   "id": "aeacus",
+   "side": "achaean",
+   "tree": {
+    "n": "zeus",
+    "c": [
+     {
+      "n": "aeacus",
+      "c": [
+       {
+        "n": "peleus",
+        "w": "thetis",
+        "at": "phthia",
+        "c": [
+         {
+          "n": "achilles",
+          "c": [
+           {
+            "n": "neoptolemus"
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "telamon",
+   "side": "achaean",
+   "tree": {
+    "n": "telamon",
+    "c": [
+     {
+      "n": "ajax",
+      "at": "salamis"
+     },
+     {
+      "n": "teucer"
+     }
+    ]
+   }
+  },
+  {
+   "id": "nestor",
+   "side": "achaean",
+   "tree": {
+    "n": "neleus",
+    "c": [
+     {
+      "n": "nestor",
+      "at": "pylos",
+      "c": [
+       {
+        "n": "antilochus"
+       },
+       {
+        "n": "thrasymedes"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "diomedes",
+   "side": "achaean",
+   "tree": {
+    "n": "oeneus",
+    "at": "calydon",
+    "c": [
+     {
+      "n": "tydeus",
+      "c": [
+       {
+        "n": "diomedes",
+        "at": "argos"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "lycia",
+   "side": "trojan",
+   "tree": {
+    "n": "aeolus",
+    "c": [
+     {
+      "n": "sisyphus",
+      "c": [
+       {
+        "n": "glaucus1",
+        "c": [
+         {
+          "n": "bellerophon",
+          "c": [
+           {
+            "n": "isander"
+           },
+           {
+            "n": "hippolochus",
+            "c": [
+             {
+              "n": "glaucus",
+              "at": "lycia"
+             }
+            ]
+           },
+           {
+            "n": "laodameia",
+            "w": "zeus",
+            "c": [
+             {
+              "n": "sarpedon",
+              "at": "lycia"
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

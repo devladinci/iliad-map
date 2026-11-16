@@ -1,0 +1,404 @@
+{
+ "realms": {
+  "name": "Kingdoms of the heroes",
+  "sub": "The approximate lands of each king",
+  "intro": "The exact borders are not known. Each region is drawn around the towns that Homer gives to each king in the Catalogue of Ships (Book 2). A dashed line and “?” mean that the location is disputed. For Pylos the data from the Linear B tablets are added too. Tap a region to see its king and his towns."
+ },
+ "routes": {
+  "name": "Routes of the heroes and the gods",
+  "sub": "Journeys of heroes and gods in the poem",
+  "intro": "Five journeys described in the poem. The dashed line flows in the direction of travel. The routes are schematic: Homer names the points, but not the exact path between them."
+ },
+ "arch": {
+  "name": "Archaeology",
+  "sub": "28 excavated Bronze Age sites",
+  "intro": "Sites that are not mentioned in the “Iliad” but show the world around 1300–1200 BC: fortresses, tombs, mines and shipwrecks. The small brown square next to a town means that there are excavations there too."
+ },
+ "collapse": {
+  "name": "The collapse around 1200 BC",
+  "sub": "The palaces that burn at the time of the war",
+  "intro": "In about 50 years, between 1200 and 1150 BC, almost all the palaces in the Aegean and Anatolia are destroyed. Writing disappears and trade dies away. There are probably several causes: earthquakes, drought and famine, raids by the “Sea Peoples”, internal wars. If the Trojan War happened, it was in exactly this world. The dates are approximate.",
+  "items": {
+   "collapse_1": {
+    "name": "Pylos",
+    "text": "The Palace of Nestor burns around 1180 BC. The fire bakes the clay Linear B tablets and so preserves them to this day."
+   },
+   "collapse_2": {
+    "name": "Mycenae",
+    "text": "Destructions around 1250 and around 1190 BC. After that life goes on, but without the palace."
+   },
+   "collapse_3": {
+    "name": "Tiryns",
+    "text": "The palace is destroyed around 1200 BC, probably by an earthquake. The lower town lives on and even grows."
+   },
+   "collapse_4": {
+    "name": "Midea",
+    "text": "Destroyed around 1200 BC. Under the collapsed walls there are people who died, probably in an earthquake."
+   },
+   "collapse_5": {
+    "name": "Thebes",
+    "text": "The palace on the Cadmea burns at the end of the 13th century BC."
+   },
+   "collapse_6": {
+    "name": "Gla",
+    "text": "The great fortress is abandoned and burned around 1200 BC. The canals are no longer maintained and the Copais turns into a lake again."
+   },
+   "collapse_7": {
+    "name": "Troy VIIa",
+    "text": "The city is destroyed by fire around 1180 BC. Arrowheads and sling stones have been found in the destruction layer. Some scholars see a trace of the war here."
+   },
+   "collapse_8": {
+    "name": "Hattusa",
+    "text": "The Hittite capital is abandoned and burned around 1185 BC. The empire that held Wilusa as a vassal falls apart."
+   },
+   "collapse_9": {
+    "name": "Ugarit",
+    "text": "The rich port city is destroyed around 1185 BC. In its archive there is a letter of the last king: enemy ships have come and have burned his towns."
+   },
+   "collapse_10": {
+    "name": "↓ Egypt",
+    "text": "Around 1177 BC the pharaoh Ramesses III describes in his temple at Medinet Habu how he stopped the invasion of the “Sea Peoples”. Egypt survives, but grows weaker."
+   }
+  }
+ },
+ "trade": {
+  "name": "Trade routes",
+  "sub": "Copper, tin, gold and amber",
+  "intro": "Bronze is copper and a little tin. The copper comes mainly from Cyprus, and the tin from far away in the east. That is why the palaces depend on sea trade. The Uluburun ship (around 1300 BC) carried about 10 tonnes of copper and 1 tonne of tin. The routes are schematic.",
+  "items": {
+   "trade_1": {
+    "name": "Ugarit",
+    "text": "A large port on the Syrian coast. Tin from the east arrives here, and there is trade with Cyprus, Egypt and the Aegean."
+   },
+   "trade_2": {
+    "name": "Enkomi (Cyprus)",
+    "text": "The main copper city of Cyprus (probably the Alashiya of the eastern texts). The copper is cast into ingots shaped like a stretched hide."
+   },
+   "trade_3": {
+    "name": "Uluburun",
+    "text": "The shipwreck shows the route: copper, tin, glass, ivory, ebony and Mycenaean pottery on the way to the Aegean."
+   },
+   "trade_4": {
+    "name": "Ada Tepe",
+    "text": "A gold mine of the Thracians (around 1650–1200 BC). We do not know exactly where the gold went."
+   }
+  },
+  "lines": {
+   "trade_l1": {
+    "name": "The copper and tin route",
+    "text": "From Ugarit and Cyprus along the south coast of Asia Minor (past Gelidonya and Uluburun), by way of Rhodes and the Cyclades to the Argolid. This is how the Uluburun ship travelled."
+   },
+   "trade_l2": {
+    "name": "The gold of Thrace",
+    "text": "A presumed route: from Ada Tepe along the valley of the Arda and the Hebrus (Maritsa) to Aenus and the Troad. It is not proven."
+   },
+   "trade_l3": {
+    "name": "Amber from the Baltic",
+    "text": "Amber comes from the Baltic Sea by way of Central Europe and the Adriatic. It is found in the graves of Mycenae and Pylos. The route is schematic."
+   }
+  }
+ },
+ "gods": {
+  "name": "Sanctuaries of the gods",
+  "sub": "Where the gods “live” in the “Iliad”",
+  "intro": "The gods in the “Iliad” have favourite places and temples. Some of them are also known from archaeology, and the names of Zeus, Hera, Poseidon, Athena and Hermes occur in the Linear B tablets.",
+  "items": {
+   "gods_1": {
+    "name": "Apollo · Chryse",
+    "text": "The priest Chryses serves Apollo Smintheus. Apollo “guards Chryse and holy Cilla and rules over Tenedos”."
+   },
+   "gods_2": {
+    "name": "Apollo · Tenedos",
+    "text": "The island is under the protection of Apollo."
+   },
+   "gods_3": {
+    "name": "Apollo · Pergamus (Troy)",
+    "text": "Apollo has a temple on the summit of Pergamus, the citadel of Troy. {{5|There Leto and Artemis heal Aeneas (Book 5).}}"
+   },
+   "gods_4": {
+    "name": "Athena · Troy",
+    "text": "{{6|Hecuba and the Trojan women bring a peplos to the knees of the statue of Athena in her temple.}} {{6|The priestess Theano prays, but Athena refuses (Book 6).}}"
+   },
+   "gods_5": {
+    "name": "Apollo · Pytho (Delphi)",
+    "text": "Achilles mentions the riches behind the stone threshold of Apollo at Pytho (Book 9)."
+   },
+   "gods_6": {
+    "name": "Zeus · Gargarus",
+    "text": "On the peak of Ida Zeus has a sacred precinct and an altar (Book 8)."
+   },
+   "gods_7": {
+    "name": "Zeus · Dodona",
+    "text": "{{16|Achilles prays to Pelasgian Zeus of Dodona, where the Selli priests live, who sleep on the ground and do not wash their feet (Book 16).}}"
+   },
+   "gods_8": {
+    "name": "Poseidon · Aegae",
+    "text": "At Aegae Poseidon has a golden palace in the depths of the sea (Book 13). Where Aegae lies is disputed: Euboea or Achaea."
+   },
+   "gods_9": {
+    "name": "Poseidon · Helice",
+    "text": "Hera recalls that the Achaeans bring gifts to Poseidon at Helice and Aegae (Book 8). Classical Helice sinks in an earthquake in 373 BC."
+   },
+   "gods_10": {
+    "name": "Poseidon · Onchestus",
+    "text": "“Holy Onchestus, the beautiful grove of Poseidon” (Book 2)."
+   },
+   "gods_11": {
+    "name": "Hera · Argos",
+    "text": "Hera says that three cities are dearest to her: Argos, Sparta and Mycenae (Book 4). Near Argos her great sanctuary, the Heraion, later rises."
+   },
+   "gods_12": {
+    "name": "Hera · Sparta",
+    "text": "One of Hera’s three favourite cities (Book 4)."
+   },
+   "gods_13": {
+    "name": "Hera · Mycenae",
+    "text": "One of Hera’s three favourite cities (Book 4)."
+   },
+   "gods_14": {
+    "name": "Athena · Athens",
+    "text": "Athena raises Erechtheus and settles him in her rich temple (Book 2)."
+   },
+   "gods_15": {
+    "name": "Hephaestus · Lemnos",
+    "text": "Zeus throws Hephaestus from Olympus and he falls on Lemnos, where the Sintians take him in (Book 1)."
+   },
+   "gods_16": {
+    "name": "Ares · Thrace",
+    "text": "{{13|Ares sets out for the battle from Thrace together with his son Fear (Book 13).}} The Thracians are regarded as his people."
+   },
+   "gods_17": {
+    "name": "Aphrodite · Cyprus",
+    "text": "Homer often calls Aphrodite Cypris, that is, “the goddess from Cyprus” (Book 5)."
+   }
+  }
+ },
+ "linearb": {
+  "name": "Names in Linear B",
+  "sub": "Achilles, Hector and the gods in the Mycenaean archives",
+  "intro": "Linear B is the script of the Mycenaean palaces. The tablets are accounts and lists, not poems. But names such as Achilles and Hector occur in them, and almost all the gods of Olympus. These are ordinary people (shepherds, craftsmen), not the heroes themselves. But it shows that the names were in use centuries before Homer.",
+  "items": {
+   "linearb_1": {
+    "name": "Pylos: e-ko-to, a-ki-re-u",
+    "text": "e-ko-to = Hector; a-ki-re-u = Achilles; wa-na-ka = wanax, Homer’s “anax” (“lord”), the title of Agamemnon; po-se-da-o = Poseidon; e-ra = Hera; e-ma-a₂ = Hermes; di-wo-nu-so = Dionysus; pu-ro = Pylos."
+   },
+   "linearb_2": {
+    "name": "Knossos: a-ki-re-u, ai-wa",
+    "text": "a-ki-re-u = Achilles; ai-wa = probably Ajax; a-ta-na-po-ti-ni-ja = “the Mistress of Athana”; e-nu-wa-ri-jo = Enyalius, in the “Iliad” an epithet of Ares; pa-ja-wo = Paean; ko-no-so = Knossos."
+   },
+   "linearb_3": {
+    "name": "Thebes: te-qa",
+    "text": "te-qa- = Thebes. The palace archive confirms that the city already bears the same name in the Bronze Age."
+   },
+   "linearb_4": {
+    "name": "Mycenae and Kydonia",
+    "text": "Linear B tablets have also been found at Mycenae and Kydonia (Chania). The name of Mycenae itself has not yet been recognised in the tablets with certainty."
+   }
+  }
+ },
+ "res": {
+  "name": "Resources",
+  "sub": "Horses, metals, wood and wine",
+  "intro": "What the land gave the heroes. Homer himself mentions most of these resources; the metals are also confirmed by archaeology.",
+  "items": {
+   "res_1": {
+    "name": "horses",
+    "text": "The Trojans are “tamers of horses”{{24|; this is also how the whole poem ends: “So they buried Hector, tamer of horses”}}. Many horse bones have been found in Troy VI."
+   },
+   "res_2": {
+    "name": "horses",
+    "text": "The mares of Eumelus of Pherae are the fastest among the Achaeans, reared by Apollo himself (Book 2)."
+   },
+   "res_3": {
+    "name": "horses",
+    "text": "The white horses of the Thracian king Rhesus, “whiter than snow, swift as the wind” (Book 10)."
+   },
+   "res_4": {
+    "name": "silver",
+    "text": "The Halizones come from Alybe, “where silver is born” (Book 2)."
+   },
+   "res_5": {
+    "name": "silver",
+    "text": "Laurion (Thorikos) in Attica: silver and lead are mined here as early as the Bronze Age."
+   },
+   "res_6": {
+    "name": "gold",
+    "text": "Ada Tepe: the gold mine of the Thracians."
+   },
+   "res_7": {
+    "name": "copper",
+    "text": "Cyprus: the copper of the Bronze Age. Cinyras of Cyprus sends Agamemnon a breastplate as a guest-gift (Book 11)."
+   },
+   "res_8": {
+    "name": "wood",
+    "text": "{{23|The forests of Ida give the wood for the pyre of Patroclus (Book 23).}} {{24|For the pyre of Hector the Trojans haul wood for nine days (Book 24).}}"
+   },
+   "res_9": {
+    "name": "wine",
+    "text": "Achaean ships bring wine from Thrace every day (Book 9)."
+   },
+   "res_10": {
+    "name": "wine",
+    "text": "{{7|Euneus of Lemnos sends ships with wine; the Achaeans pay with bronze, iron, hides, oxen and slaves (Book 7).}}"
+   }
+  }
+ },
+ "winds": {
+  "name": "Winds and currents",
+  "sub": "Why Troy guarded the Hellespont",
+  "intro": "Through the Hellespont the water of the Black Sea flows strongly towards the Aegean, and in summer persistent north winds blow. Ships with oars and sails had difficulty entering the strait and waited for a fair wind. That is why the position of Troy was so advantageous. The winds and currents are those of today; they were probably similar.",
+  "items": {
+   "winds_1": {
+    "name": "Homer’s compass",
+    "text": "Homer names four winds: Boreas (the north wind), Eurus (the east wind), Notus (the south wind) and Zephyrus (the west wind). Boreas and Zephyrus “blow from Thrace” (Book 9)."
+   },
+   "winds_2": {
+    "name": "Beşik Bay",
+    "text": "According to Korfmann, ships waited here for a south wind in order to enter the strait, and Troy profited from this."
+   }
+  },
+  "lines": {
+   "winds_l1": {
+    "name": "The Hellespont current",
+    "text": "The surface current flows from the Sea of Marmara to the Aegean. At the entrance near Kumkale it reaches about 3.5–4 knots (about 7 km/h). Beneath it there is a reverse, saltier current."
+   },
+   "winds_l2": {
+    "name": "The north winds",
+    "text": "The prevailing winds here are from the north-east. In summer (June–September) the meltemi blows, a north wind that follows the coasts."
+   },
+   "winds_l3": {
+    "name": "The north winds",
+    "text": "The prevailing winds here are from the north-east. In summer (June–September) the meltemi blows, a north wind that follows the coasts."
+   }
+  }
+ },
+ "offmap": {
+  "name": "Beyond the map",
+  "sub": "Sidon, Cyprus, Egypt, the Ethiopians",
+  "intro": "Homer also mentions places far from Troy. Some are on the map; for others the arrow shows the direction.",
+  "items": {
+   "offmap_1": {
+    "name": "Sidon",
+    "text": "Paris brought to Troy many-coloured robes woven by Sidonian women (Book 6). The silver mixing bowl{{23|, a prize in the games,}} was made by Sidonians (Book 23)."
+   },
+   "offmap_2": {
+    "name": "Cyprus",
+    "text": "Cinyras of Cyprus sends Agamemnon a rich breastplate (Book 11)."
+   },
+   "offmap_3": {
+    "name": "↓ Egyptian Thebes",
+    "text": "“Hundred-gated” Egyptian Thebes{{9|: Achilles says that he would not be reconciled even for all the riches of Orchomenus and Thebes (Book 9)}}."
+   },
+   "offmap_4": {
+    "name": "↓ The Ethiopians",
+    "text": "{{1|The gods go to a feast with the “blameless Ethiopians” by Ocean (Book 1).}}"
+   },
+   "offmap_5": {
+    "name": "← Ocean",
+    "text": "Ocean is the river that flows around the whole world. Hera calls him “forefather of the gods” (Book 14), and he also flows along the rim of the shield of Achilles (Book 18)."
+   },
+   "offmap_6": {
+    "name": "The Amazons",
+    "text": "Priam fought against the Amazons by the river Sangarius (Book 3). Bellerophon defeated them in Lycia (Book 6)."
+   }
+  }
+ },
+ "hit": {
+  "name": "Hittite names",
+  "sub": "Wilusa, Arzawa, Ahhiyawa",
+  "intro": "The Hittite clay tablets of the 14th–13th centuries BC are the only written source from the very time of the war. Wilusa is probably Ilion, Ahhiyawa is probably the land of the Achaeans."
+ },
+ "tombs": {
+  "name": "Tombs of the heroes",
+  "sub": "According to later traditions, not Homer",
+  "intro": "Greeks of later centuries point to mounds as the tombs of the heroes of the Trojan War. These are traditions, not proven tombs.",
+  "items": {
+   "tombs_1": {
+    "name": "Achilles and Patroclus",
+    "text": "{{25|The mound on Cape Sigeum.}} In 334 BC Alexander the Great offers a sacrifice here before he sets out against Persia."
+   },
+   "tombs_2": {
+    "name": "Ajax",
+    "text": "{{25|The mound at Rhoeteum (Aianteion).}} {{25|By tradition the emperor Hadrian restores it.}}"
+   },
+   "tombs_3": {
+    "name": "Protesilaus",
+    "text": "The sanctuary and the tomb at Elaeus on the Gallipoli peninsula, described by Herodotus."
+   },
+   "tombs_4": {
+    "name": "Hecuba",
+    "text": "{{25|Cynossema (“the Dog’s Tomb”) on Gallipoli.}} {{25|According to the myth Hecuba is turned into a dog (Euripides, “Hecuba”).}}"
+   },
+   "tombs_5": {
+    "name": "Hector",
+    "text": "{{24|According to Pausanias, the Thebans moved the bones of Hector from Troy to Thebes on the advice of an oracle.}}"
+   },
+   "tombs_6": {
+    "name": "Agamemnon",
+    "text": "{{25|Pausanias saw the tombs of Atreus and Agamemnon at Mycenae.}} The name “Tomb of Agamemnon” for one tholos tomb is modern."
+   }
+  }
+ },
+ "coasts": {
+  "name": "Changing coastlines",
+  "sub": "A tour: how the coast looked then and today",
+  "intro": "The rivers have brought down so much sediment that many Bronze Age harbours are inland today. The tour passes through 11 places. At each one you can switch between “around 1200 BC” and “today”. For each place the study it is based on is named.",
+  "items": {
+   "coasts_1": {
+    "name": "Bay of Troy",
+    "text": "North of Troy there was a bay with marshes and lagoons. The sediments of the Scamander and the Simoeis filled it in. The ships of the Achaeans were here. The small Beşik Bay to the west was already almost filled in.",
+    "src": "J. Kraft, G. Rapp, İ. Kayan, J. Luce (2003); İ. Kayan (2014)"
+   },
+   "coasts_2": {
+    "name": "Miletus",
+    "text": "In the 2nd millennium BC Miletus is a peninsula in the Latmian Gulf. Under the city there are beach sands from 1413–1312 BC. Lake Bafa is part of the gulf.",
+    "src": "M. Müllenhoff, A. Herda, H. Brückner (2009)"
+   },
+   "coasts_3": {
+    "name": "Ephesus",
+    "text": "The Bronze Age shoreline runs under the oldest sanctuary of Artemis. The later city of Ephesus stands on hills that are then on the shore.",
+    "src": "J. Kraft, H. Brückner, İ. Kayan, H. Engelmann (2007)"
+   },
+   "coasts_4": {
+    "name": "Panaztepe",
+    "text": "The Bronze Age settlement at the mouth of the Hermus was an island or a peninsula. Today it is about 9 km from the sea.",
+    "src": "E. Öner, S. Vardar (2018)"
+   },
+   "coasts_5": {
+    "name": "Thermopylae",
+    "text": "The shore has advanced by at least 15 km in 4500 years. In the Bronze Age the sea reaches almost to Trachis.",
+    "src": "J. Kraft, G. Rapp, G. Szemler et al. (1987)"
+   },
+   "coasts_6": {
+    "name": "Pella",
+    "text": "The northern part of the Thermaic Gulf has been filled in by the Vardar. Pella is today about 25 km from the sea.",
+    "src": "M. Ghilardi et al. (2008–2012)"
+   },
+   "coasts_7": {
+    "name": "Copais",
+    "text": "Around 1300 BC the Mycenaeans drain the lake with canals and dykes and build the fortress of Gla. After 1200 BC it floods again. It was finally drained at the end of the 19th century.",
+    "src": "The archaeology of Gla and the Copais"
+   },
+   "coasts_8": {
+    "name": "Boebeis",
+    "text": "The large lake beside Boebe in the kingdom of Eumelus was drained in 1962. Today a small part has been restored.",
+    "src": "Modern data on Lake Karla"
+   },
+   "coasts_9": {
+    "name": "Tiryns",
+    "text": "In the Early Bronze Age the shore was only 300 m from Tiryns. By the Late Bronze Age it had moved by about 1 km. Today the sea is about 1.7 km away. In the 13th century BC the Mycenaeans build a dam 4 km to the east to divert the torrent that floods the lower town.",
+    "src": "E. Zangger (1994); H. Maroukian et al."
+   },
+   "coasts_10": {
+    "name": "Pylos",
+    "text": "Under today’s golf course near Romanos, drill cores reveal a filled-in rectangular basin. Eberhard Zangger considers it an artificial harbour of Mycenaean times, 5 km from the Palace of Nestor. If this is true, it is the first large harbour installation of the period.",
+    "src": "E. Zangger et al. (1997)"
+   },
+   "coasts_11": {
+    "name": "Achelous and the Echinades",
+    "text": "The sediments of the Achelous gradually join the Echinades islands to the mainland. The hill of Trikardo (the port of Oeniadae) is already surrounded by branches of the river around 1350–1000 BC. The researchers suggest that the myth of the fight of Heracles with the river god Achelous reflects a major diversion of the river at the end of the 2nd millennium BC.",
+    "src": "A. Vött, H. Brückner et al. (2004–2017)"
+   }
+  }
+ }
+}

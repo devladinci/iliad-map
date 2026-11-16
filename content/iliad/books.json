@@ -1,0 +1,218 @@
+[
+ {
+  "book": 1,
+  "at": [
+   "chryse",
+   "e_tent",
+   "olympus",
+   "camp"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 2,
+  "at": [
+   "aulis",
+   "e_batieia",
+   "mycenae"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 3,
+  "at": [
+   "e_duels",
+   "e_scaean",
+   "sparta"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 4,
+  "at": [
+   "zeleia",
+   "e_duels",
+   "trikka"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 5,
+  "at": [
+   "argos",
+   "e_ford",
+   "dardania"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 6,
+  "at": [
+   "e_scaean",
+   "lycia",
+   "thebe"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 7,
+  "at": [
+   "e_duels",
+   "salamis",
+   "e_wall"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 8,
+  "at": [
+   "ida",
+   "e_bivouac",
+   "e_wall"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 9,
+  "at": [
+   "e_tent",
+   "phthia",
+   "lesbos"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 10,
+  "at": [
+   "e_rhesus",
+   "e_ilos",
+   "e_bivouac"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 11,
+  "at": [
+   "e_ilos",
+   "pylos",
+   "ormenion"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 12,
+  "at": [
+   "e_wall",
+   "lycia",
+   "argissa"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 13,
+  "at": [
+   "samothrace",
+   "e_ships",
+   "knossos"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 14,
+  "at": [
+   "ida",
+   "lemnos",
+   "lekton",
+   "e_ford"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 15,
+  "at": [
+   "e_ships",
+   "ida"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 16,
+  "at": [
+   "e_patroclus",
+   "e_ships",
+   "e_tent",
+   "lycia"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 17,
+  "at": [
+   "e_patroclus",
+   "larisa"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 18,
+  "at": [
+   "e_wall",
+   "e_tent",
+   "olympus"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 19,
+  "at": [
+   "e_tent",
+   "lyrnessos"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 20,
+  "at": [
+   "kallikolone",
+   "dardania",
+   "scamander"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 21,
+  "at": [
+   "e_ford",
+   "amydon",
+   "imbros"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 22,
+  "at": [
+   "e_springs",
+   "e_scaean",
+   "troy"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 23,
+  "at": [
+   "e_pyre",
+   "pherai",
+   "opous"
+  ],
+  "scenes": []
+ },
+ {
+  "book": 24,
+  "at": [
+   "e_ford",
+   "e_tent",
+   "troy"
+  ],
+  "scenes": []
+ }
+]

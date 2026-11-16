@@ -1,0 +1,170 @@
+[
+ {
+  "id": "istanbul",
+  "lat": 41.01,
+  "lon": 28.98,
+  "kind": "city"
+ },
+ {
+  "id": "canakkale",
+  "lat": 40.15,
+  "lon": 26.41,
+  "kind": "city"
+ },
+ {
+  "id": "izmir",
+  "lat": 38.42,
+  "lon": 27.14,
+  "kind": "city"
+ },
+ {
+  "id": "bursa",
+  "lat": 40.19,
+  "lon": 29.06,
+  "kind": "city"
+ },
+ {
+  "id": "antalya",
+  "lat": 36.89,
+  "lon": 30.71,
+  "kind": "city"
+ },
+ {
+  "id": "ankara",
+  "lat": 39.93,
+  "lon": 32.86,
+  "kind": "city"
+ },
+ {
+  "id": "edirne",
+  "lat": 41.68,
+  "lon": 26.56,
+  "kind": "city"
+ },
+ {
+  "id": "bodrum",
+  "lat": 37.03,
+  "lon": 27.43,
+  "kind": "city"
+ },
+ {
+  "id": "athens",
+  "lat": 37.98,
+  "lon": 23.73,
+  "kind": "city"
+ },
+ {
+  "id": "thessaloniki",
+  "lat": 40.64,
+  "lon": 22.94,
+  "kind": "city"
+ },
+ {
+  "id": "patras",
+  "lat": 38.25,
+  "lon": 21.73,
+  "kind": "city"
+ },
+ {
+  "id": "kalamata",
+  "lat": 37.04,
+  "lon": 22.11,
+  "kind": "city"
+ },
+ {
+  "id": "volos",
+  "lat": 39.36,
+  "lon": 22.94,
+  "kind": "city"
+ },
+ {
+  "id": "heraklion",
+  "lat": 35.34,
+  "lon": 25.13,
+  "kind": "city"
+ },
+ {
+  "id": "rhodes",
+  "lat": 36.43,
+  "lon": 28.22,
+  "kind": "city"
+ },
+ {
+  "id": "mytilene",
+  "lat": 39.1,
+  "lon": 26.55,
+  "kind": "city"
+ },
+ {
+  "id": "alexandroupoli",
+  "lat": 40.85,
+  "lon": 25.87,
+  "kind": "city"
+ },
+ {
+  "id": "sofia",
+  "lat": 42.7,
+  "lon": 23.32,
+  "kind": "city"
+ },
+ {
+  "id": "plovdiv",
+  "lat": 42.14,
+  "lon": 24.75,
+  "kind": "city"
+ },
+ {
+  "id": "skopje",
+  "lat": 42,
+  "lon": 21.43,
+  "kind": "city"
+ },
+ {
+  "id": "tirana",
+  "lat": 41.33,
+  "lon": 19.82,
+  "kind": "city"
+ },
+ {
+  "id": "nicosia",
+  "lat": 35.17,
+  "lon": 33.36,
+  "kind": "city"
+ },
+ {
+  "id": "greece",
+  "lat": 39.55,
+  "lon": 21.75,
+  "kind": "country"
+ },
+ {
+  "id": "turkey",
+  "lat": 39.3,
+  "lon": 33.6,
+  "kind": "country"
+ },
+ {
+  "id": "bulgaria",
+  "lat": 42.75,
+  "lon": 25.6,
+  "kind": "country"
+ },
+ {
+  "id": "albania",
+  "lat": 40.65,
+  "lon": 20.1,
+  "kind": "country"
+ },
+ {
+  "id": "north_macedonia",
+  "lat": 41.6,
+  "lon": 21.75,
+  "kind": "country"
+ },
+ {
+  "id": "cyprus",
+  "lat": 34.95,
+  "lon": 33.1,
+  "kind": "country"
+ }
+]

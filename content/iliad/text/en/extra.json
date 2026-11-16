@@ -1,0 +1,295 @@
+{
+ "digs": {
+  "x_watercave": {
+   "name": "Water Cave of Wilusa",
+   "note": "Troy, the lower city",
+   "text": "An artificial tunnel about 160 m long, cut into the rock, with vertical shafts. It was made as early as the 3rd millennium BC and was also used in the time of Troy VI. The treaty of the Hittite king Muwatalli II with Alaksandu of Wilusa invokes the god of the “underground watercourse” (KASKAL.KUR) of Wilusa."
+  },
+  "x_besik": {
+   "name": "Beşik-Yassıtepe",
+   "note": "cemetery by Beşik Bay",
+   "text": "A Late Bronze Age cemetery with Mycenaean pottery, excavated by Korfmann. That is why he looks for the Achaean camp here."
+  },
+  "x_hanay": {
+   "name": "Hanaytepe",
+   "note": "a hill in the Kemer valley",
+   "text": "A mound with Bronze Age and later layers, excavated by Frank Calvert in the 19th century. Calvert links it with Thymbra."
+  },
+  "x_kumtepe": {
+   "name": "Kumtepe",
+   "note": "a settlement on the old shore",
+   "text": "A Neolithic and Early Bronze Age settlement (around 4800–2500 BC) on what was then the shore of the bay. It proves how far inland the sea reached in early times."
+  },
+  "x_poliochni": {
+   "name": "Poliochni",
+   "note": "Lemnos",
+   "text": "A large Early Bronze Age settlement, older than Troy II, with fortifications and public buildings."
+  },
+  "x_thermi": {
+   "name": "Thermi",
+   "note": "Lesbos",
+   "text": "A Bronze Age harbour settlement on the east coast of Lesbos."
+  },
+  "x_midea": {
+   "name": "Midea",
+   "note": "the Argolid",
+   "text": "A Mycenaean citadel with Cyclopean walls, the third power in the Argolid after Mycenae and Tiryns. Destroyed around 1200 BC."
+  },
+  "x_dendra": {
+   "name": "Dendra",
+   "note": "the cemetery of Midea",
+   "text": "The “Dendra armour” (around 1400 BC) was found here: a complete suit of bronze armour with a boar’s-tusk helmet. It resembles the armour that Homer describes."
+  },
+  "x_vapheio": {
+   "name": "Vapheio",
+   "note": "a tholos tomb near Sparta",
+   "text": "A tholos tomb from around 1500 BC, with the famous gold cups with bulls."
+  },
+  "x_iklaina": {
+   "name": "Iklaina",
+   "note": "in the kingdom of Pylos",
+   "text": "A Mycenaean administrative centre, subject to the palace at Pylos. One of the earliest Linear B tablets was found here."
+  },
+  "x_nichoria": {
+   "name": "Nichoria",
+   "note": "Messenia",
+   "text": "A Bronze Age settlement in Messenia, probably within the borders of the kingdom of Pylos."
+  },
+  "x_gla": {
+   "name": "Gla",
+   "note": "the fortress in the Copais",
+   "text": "The largest Mycenaean fortress (about 20 ha), built around 1300 BC on a rock in Lake Copais. It guarded the canals and dykes with which the Mycenaeans drain the lake."
+  },
+  "x_mitrou": {
+   "name": "Mitrou",
+   "note": "an islet in Locris",
+   "text": "A Bronze Age settlement on a small island off the coast of Locris, with unbroken occupation through the end of the Mycenaean period."
+  },
+  "x_kalapodi": {
+   "name": "Kalapodi",
+   "note": "a sanctuary in Phocis",
+   "text": "A sanctuary where the cult continues without a break from the Mycenaean period to Roman times."
+  },
+  "x_eleusis": {
+   "name": "Eleusis",
+   "note": "Attica",
+   "text": "Under the later temple of Demeter there is a Mycenaean building of the Bronze Age."
+  },
+  "x_lefkandi": {
+   "name": "Lefkandi",
+   "note": "Euboea",
+   "text": "A large settlement of the Late Bronze Age and the Early Iron Age. A tomb building from around 950 BC was found here, with the burial of a warrior and horses, a “heroon”."
+  },
+  "x_dimini": {
+   "name": "Dimini",
+   "note": "near Volos",
+   "text": "Besides the famous Neolithic settlement, a Mycenaean palace has also been found here. It is one of the candidates for Iolcus."
+  },
+  "x_kastanas": {
+   "name": "Kastanas",
+   "note": "on the river Axius (Vardar)",
+   "text": "A settlement mound on the Vardar with unbroken occupation through the Bronze Age and the Early Iron Age. It gives an idea of the land of the Paeonians at the time of the Trojan War."
+  },
+  "x_adatepe": {
+   "name": "Ada Tepe",
+   "note": "near Krumovgrad",
+   "text": "The oldest known gold mine in Europe. The Thracians mined gold here in the Late Bronze Age (around 1650–1200 BC)."
+  },
+  "x_valchitran": {
+   "name": "Valchitran",
+   "note": "the treasure near Pleven",
+   "text": "A Thracian treasure from around 1300 BC: 13 gold vessels with a total weight of about 12.5 kg. It is kept in Sofia."
+  },
+  "x_panaztepe": {
+   "name": "Panaztepe",
+   "note": "the mouth of the Hermus",
+   "text": "A Late Bronze Age settlement and cemetery with Mycenaean finds, in the Seha River Land of the Hittite texts."
+  },
+  "x_limantepe": {
+   "name": "Liman Tepe",
+   "note": "near Urla",
+   "text": "A large Bronze Age harbour settlement on the shore of the Gulf of İzmir."
+  },
+  "x_apasa": {
+   "name": "Apasa (Ayasuluk)",
+   "note": "Ephesus, the capital of Arzawa",
+   "text": "On Ayasuluk hill at Ephesus a Bronze Age settlement with Mycenaean graves has been found. Most scholars take it to be Apasa, the capital of the kingdom of Arzawa."
+  },
+  "x_iasos": {
+   "name": "Iasos",
+   "note": "Caria",
+   "text": "A settlement with Minoan and then Mycenaean layers on the Carian coast."
+  },
+  "x_kommos": {
+   "name": "Kommos",
+   "note": "the harbour of Phaestus",
+   "text": "A large harbour in southern Crete that traded with Egypt and Cyprus."
+  },
+  "x_kydonia": {
+   "name": "Kydonia (Chania)",
+   "note": "western Crete",
+   "text": "A Mycenaean centre with Linear B tablets under the old town of Chania."
+  },
+  "x_uluburun": {
+   "name": "Uluburun shipwreck",
+   "note": "sank around 1300 BC",
+   "text": "A merchant ship of the late 14th century BC that sank near Kaş. The cargo is copper, tin, glass, ivory and luxury objects, including Mycenaean pottery and an Egyptian scarab with the name of Nefertiti. The best picture of seafaring in the time of the Iliad."
+  },
+  "x_gelidonya": {
+   "name": "Cape Gelidonya shipwreck",
+   "note": "sank around 1200 BC",
+   "text": "A small merchant ship with copper ingots and a smith’s tools that sank around 1200 BC. Exactly the time of Troy VIIa."
+  }
+ },
+ "digNotes": {
+  "troy": "A citadel with walls 4–5 m thick and towers; a lower city to the south of about 20–30 ha, enclosed by a ditch. The Water Cave. The fire and destruction of Troy VIIa around 1180 BC.",
+  "mycenae": "The Lion Gate, Grave Circle A with the gold masks (around 1550 BC, older than the war), the tholos tomb called the “Treasury of Atreus”, the palace on the summit.",
+  "tiryns": "Cyclopean walls, vaulted galleries, a palace with a megaron. The lower town was buried by floods around 1200 BC.",
+  "pylos": "The Palace of Nestor: a megaron with a hearth, a bathroom with a tub, more than 1000 Linear B tablets. The palace burns down around 1180 BC.",
+  "thebes": "Under modern Thebes: Linear B tablets and cylinder seals from the Near East.",
+  "orchomenos": "The tholos tomb called the “Treasury of Minyas”, with a decorated ceiling in the side chamber.",
+  "athens": "Mycenaean walls on the Acropolis and an underground well, used around 1200 BC in times of danger.",
+  "knossos": "The palace and the Linear B archive from Mycenaean times.",
+  "argos": "Mycenaean graves and a settlement on the hills of Aspis and Larisa.",
+  "sparta": "The Menelaion and the Mycenaean palace at Agios Vasileios, with Linear B tablets.",
+  "ithaca": "The “School of Homer” at Agios Athanasios: Mycenaean pottery and walls.",
+  "salamis": "The Mycenaean acropolis of Kanakia, abandoned around 1200 BC.",
+  "rhodes": "A large Mycenaean cemetery at Ialysus.",
+  "miletus": "A Mycenaean layer; probably the Millawanda of the Hittite texts.",
+  "iolkos": "Mycenaean buildings at Kastro-Volos and a palace at Dimini.",
+  "lemnos": "Poliochni, one of the oldest urban settlements in the Aegean Sea.",
+  "chalcis": "Lefkandi, nearby, is a large settlement from the end of the Bronze Age.",
+  "kos": "A Mycenaean settlement under the modern town of Kos.",
+  "pherai": "Traces of a Mycenaean settlement under Velestino.",
+  "trikka": "Under the modern town of Trikala there are traces from the Bronze Age, but few.",
+  "panopeus": "Mycenaean finds under the Classical city."
+ },
+ "hittite": {
+  "h_wilusa": {
+   "name": "Wilusa",
+   "text": "A kingdom in north-western Asia Minor, a vassal of the Hittites. Most scholars equate it with (W)ilion, that is, Troy. Around 1280 BC the Hittite king Muwatalli II makes a treaty with its king Alaksandu (the name recalls Alexander, that is, Paris). The “Tawagalawa” letter mentions a dispute over Wilusa between the Hittites and Ahhiyawa."
+  },
+  "h_seha": {
+   "name": "Seha River Land",
+   "text": "A vassal kingdom of the Hittites in the valleys of the Caicus or the Hermus. King Manapa-Tarhunta writes about raids on Lesbos and Wilusa."
+  },
+  "h_arzawa": {
+   "name": "Arzawa",
+   "text": "A large western kingdom with its capital at Apasa (Ephesus). Around 1320 BC the Hittite king Mursili II crushes it and divides it into smaller vassal kingdoms: Mira, Seha, Hapalla."
+  },
+  "h_mira": {
+   "name": "Mira",
+   "text": "A successor of Arzawa in the Maeander valley. At the Karabel pass near İzmir there is a rock relief of its king Tarkasnawa."
+  },
+  "h_lukka": {
+   "name": "Lukka",
+   "text": "The Lukka lands, later Lycia, known for sea raids. They are also mentioned among the “Sea Peoples” in Egypt."
+  },
+  "h_millawanda": {
+   "name": "Millawanda",
+   "text": "Miletus in the Hittite texts. In the 13th century BC it is a foothold of Ahhiyawa in Asia Minor."
+  },
+  "h_ahhiyawa": {
+   "name": "Ahhiyawa (?)",
+   "text": "A kingdom across the sea whose king the Hittites call “brother”, their equal. Most scholars think these are the Mycenaean Greeks, Homer’s Achaeans. Where their centre was (Mycenae or Thebes) is not clear."
+  }
+ },
+ "towns": {
+  "tw01": "Plataea",
+  "tw02": "Thespiae",
+  "tw03": "Haliartus",
+  "tw04": "Onchestus",
+  "tw05": "Anthedon",
+  "tw06": "Eutresis",
+  "tw07": "Thisbe",
+  "tw08": "Hyria",
+  "tw09": "Mycalessus",
+  "tw10": "Copae",
+  "tw11": "Pytho (Delphi)",
+  "tw12": "Crisa",
+  "tw13": "Daulis",
+  "tw14": "Hyampolis",
+  "tw15": "Lilaea",
+  "tw16": "Cynus",
+  "tw17": "Thronium",
+  "tw18": "Scarphe",
+  "tw19": "Eretria",
+  "tw20": "Histiaea",
+  "tw21": "Cerinthus",
+  "tw22": "Carystus",
+  "tw23": "Styra",
+  "tw24": "Hermione",
+  "tw25": "Asine",
+  "tw26": "Troezen",
+  "tw27": "Epidaurus",
+  "tw28": "Aegina",
+  "tw29": "Corinth",
+  "tw30": "Cleonae",
+  "tw31": "Orneae",
+  "tw32": "Sicyon",
+  "tw33": "Pellene",
+  "tw34": "Aegium",
+  "tw35": "Helice",
+  "tw36": "Amyclae",
+  "tw37": "Helos",
+  "tw38": "Oetylus",
+  "tw39": "Cyparisseis",
+  "tw40": "Pheneus",
+  "tw41": "Orchomenus (Arcadia)",
+  "tw42": "Mantinea",
+  "tw43": "Stymphalus",
+  "tw44": "Pleuron",
+  "tw45": "Pylene",
+  "tw46": "Same (Cephalonia)",
+  "tw47": "Zacynthus",
+  "tw48": "Gortyn",
+  "tw49": "Phaestus",
+  "tw50": "Lyctus",
+  "tw51": "Lycastus",
+  "tw52": "Rhytium",
+  "tw53": "Lindus",
+  "tw54": "Camirus",
+  "tw55": "Nisyrus",
+  "tw56": "Carpathus",
+  "tw57": "Casus",
+  "tw58": "Calymna",
+  "tw59": "Alus",
+  "tw60": "Trachis",
+  "tw61": "Pyrasus",
+  "tw62": "Iton",
+  "tw63": "Antron",
+  "tw64": "Pteleum",
+  "tw65": "Glaphyrae",
+  "tw66": "Thaumacia",
+  "tw67": "Olizon",
+  "tw68": "Ithome",
+  "tw69": "Gyrtone",
+  "tw70": "Orthe",
+  "tw71": "Elone",
+  "tw72": "Oloosson",
+  "tw73": "Dodona",
+  "tw74": "Apaesus",
+  "tw75": "Cytorus",
+  "tw76": "Cromna",
+  "tw77": "Aegialus"
+ },
+ "rivers": {
+  "scamander": "Scamander",
+  "simoeis": "Simoeis",
+  "satnioeis": "Satnioeis",
+  "rhodios": "Rhodius",
+  "praktios": "Practius",
+  "strymon": "Strymon (Struma)",
+  "hebros": "Hebrus (Maritsa)",
+  "sangarios": "Sangarius",
+  "maeander": "Maeander",
+  "kaystros": "Cayster",
+  "hermos": "Hermus",
+  "acheloos": "Achelous",
+  "axios": "Axius (Vardar)",
+  "peneios": "Peneus",
+  "spercheios": "Spercheius",
+  "scamander_old": "Scamander ~1200 BC",
+  "simoeis_old": "Simoeis ~1200 BC"
+ }
+}

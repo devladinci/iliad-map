@@ -1,0 +1,913 @@
+[
+ {
+  "id": "realms",
+  "color": "#c9a86a",
+  "builtin": "realms"
+ },
+ {
+  "id": "routes",
+  "color": "#9b7fd1",
+  "builtin": "routes"
+ },
+ {
+  "id": "arch",
+  "color": "#a5764a",
+  "builtin": "digs"
+ },
+ {
+  "id": "collapse",
+  "color": "#d9774f",
+  "items": [
+   {
+    "id": "collapse_1",
+    "lat": 37.0277,
+    "lon": 21.6957,
+    "icon": "fire",
+    "anchor": "left"
+   },
+   {
+    "id": "collapse_2",
+    "lat": 37.7308,
+    "lon": 22.7562,
+    "icon": "fire",
+    "anchor": "top"
+   },
+   {
+    "id": "collapse_3",
+    "lat": 37.5993,
+    "lon": 22.8,
+    "icon": "fire",
+    "anchor": "bottom"
+   },
+   {
+    "id": "collapse_4",
+    "lat": 37.6498,
+    "lon": 22.8414,
+    "icon": "fire",
+    "anchor": "right"
+   },
+   {
+    "id": "collapse_5",
+    "lat": 38.3199,
+    "lon": 23.3177,
+    "icon": "fire",
+    "anchor": "right"
+   },
+   {
+    "id": "collapse_6",
+    "lat": 38.484,
+    "lon": 23.1819,
+    "icon": "fire",
+    "anchor": "right"
+   },
+   {
+    "id": "collapse_7",
+    "lat": 39.9575,
+    "lon": 26.2385,
+    "icon": "fire",
+    "anchor": "right"
+   },
+   {
+    "id": "collapse_8",
+    "lat": 40.0149,
+    "lon": 34.6172,
+    "icon": "fire",
+    "anchor": "right"
+   },
+   {
+    "id": "collapse_9",
+    "lat": 35.6017,
+    "lon": 35.7822,
+    "icon": "fire",
+    "anchor": "right"
+   },
+   {
+    "id": "collapse_10",
+    "lat": 33.45,
+    "lon": 31.4,
+    "icon": "edge",
+    "anchor": "right",
+    "dir": 90
+   }
+  ]
+ },
+ {
+  "id": "trade",
+  "color": "#c9874f",
+  "items": [
+   {
+    "id": "trade_1",
+    "lat": 35.6017,
+    "lon": 35.7822,
+    "icon": "hub",
+    "anchor": "right"
+   },
+   {
+    "id": "trade_2",
+    "lat": 35.1659,
+    "lon": 33.8702,
+    "icon": "hub",
+    "anchor": "right"
+   },
+   {
+    "id": "trade_3",
+    "lat": 36.1286,
+    "lon": 29.6858,
+    "icon": "hub",
+    "anchor": "right"
+   },
+   {
+    "id": "trade_4",
+    "lat": 41.437,
+    "lon": 25.655,
+    "icon": "hub",
+    "anchor": "right"
+   }
+  ],
+  "lines": [
+   {
+    "id": "trade_l1",
+    "color": "#c9874f",
+    "pts": [
+     [
+      35.78,
+      35.6
+     ],
+     [
+      34.7,
+      35.3
+     ],
+     [
+      33.87,
+      35.17
+     ],
+     [
+      32.8,
+      35.7
+     ],
+     [
+      31.5,
+      36.05
+     ],
+     [
+      30.41,
+      36.21
+     ],
+     [
+      29.69,
+      36.13
+     ],
+     [
+      28.7,
+      36.3
+     ],
+     [
+      28.1,
+      36.45
+     ],
+     [
+      26.8,
+      36.9
+     ],
+     [
+      25.3,
+      37.2
+     ],
+     [
+      23.9,
+      37.45
+     ],
+     [
+      22.8,
+      37.6
+     ]
+    ],
+    "labelAt": 0.8
+   },
+   {
+    "id": "trade_l2",
+    "color": "#d4af37",
+    "pts": [
+     [
+      25.655,
+      41.437
+     ],
+     [
+      25.9,
+      41.3
+     ],
+     [
+      26.15,
+      41
+     ],
+     [
+      26.086,
+      40.725
+     ],
+     [
+      25.95,
+      40.3
+     ],
+     [
+      26.15,
+      40.02
+     ]
+    ]
+   },
+   {
+    "id": "trade_l3",
+    "color": "#e0a03a",
+    "pts": [
+     [
+      19.3,
+      44.4
+     ],
+     [
+      19.3,
+      42.6
+     ],
+     [
+      19.4,
+      41
+     ],
+     [
+      20.1,
+      39.6
+     ],
+     [
+      20.7,
+      38.6
+     ],
+     [
+      21.2,
+      37.8
+     ],
+     [
+      21.7,
+      37.03
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "gods",
+  "color": "#c9a24a",
+  "items": [
+   {
+    "id": "gods_1",
+    "lat": 39.5851,
+    "lon": 26.9281,
+    "icon": "temple",
+    "anchor": "bottom",
+    "books": [
+     1
+    ]
+   },
+   {
+    "id": "gods_2",
+    "lat": 39.8343,
+    "lon": 26.0696,
+    "icon": "temple",
+    "anchor": "left",
+    "books": [
+     1
+    ]
+   },
+   {
+    "id": "gods_3",
+    "lat": 39.9583,
+    "lon": 26.2392,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     5
+    ]
+   },
+   {
+    "id": "gods_4",
+    "lat": 39.9569,
+    "lon": 26.2372,
+    "icon": "temple",
+    "anchor": "left",
+    "books": [
+     6
+    ]
+   },
+   {
+    "id": "gods_5",
+    "lat": 38.4823,
+    "lon": 22.5012,
+    "icon": "temple",
+    "anchor": "left",
+    "books": [
+     9
+    ]
+   },
+   {
+    "id": "gods_6",
+    "lat": 39.6927,
+    "lon": 26.8192,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     8,
+     14
+    ]
+   },
+   {
+    "id": "gods_7",
+    "lat": 39.5464,
+    "lon": 20.7877,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     16
+    ]
+   },
+   {
+    "id": "gods_8",
+    "lat": 38.5982,
+    "lon": 23.5526,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     8,
+     13
+    ]
+   },
+   {
+    "id": "gods_9",
+    "lat": 38.222,
+    "lon": 22.1318,
+    "icon": "temple",
+    "anchor": "left",
+    "books": [
+     8
+    ]
+   },
+   {
+    "id": "gods_10",
+    "lat": 38.3733,
+    "lon": 23.1503,
+    "icon": "temple",
+    "anchor": "bottom",
+    "books": [
+     2
+    ]
+   },
+   {
+    "id": "gods_11",
+    "lat": 37.6921,
+    "lon": 22.7748,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     4
+    ]
+   },
+   {
+    "id": "gods_12",
+    "lat": 37.0657,
+    "lon": 22.4535,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     4
+    ]
+   },
+   {
+    "id": "gods_13",
+    "lat": 37.7308,
+    "lon": 22.7562,
+    "icon": "temple",
+    "anchor": "left",
+    "books": [
+     4
+    ]
+   },
+   {
+    "id": "gods_14",
+    "lat": 37.9716,
+    "lon": 23.7264,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     2
+    ]
+   },
+   {
+    "id": "gods_15",
+    "lat": 39.905,
+    "lon": 25.229,
+    "icon": "temple",
+    "anchor": "left",
+    "books": [
+     1
+    ]
+   },
+   {
+    "id": "gods_16",
+    "lat": 41.3,
+    "lon": 25.2,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     13
+    ]
+   },
+   {
+    "id": "gods_17",
+    "lat": 35.05,
+    "lon": 33.2,
+    "icon": "temple",
+    "anchor": "right",
+    "books": [
+     5
+    ]
+   }
+  ]
+ },
+ {
+  "id": "linearb",
+  "color": "#a08c66",
+  "items": [
+   {
+    "id": "linearb_1",
+    "lat": 37.0277,
+    "lon": 21.6957,
+    "icon": "tablet",
+    "anchor": "left"
+   },
+   {
+    "id": "linearb_2",
+    "lat": 35.298,
+    "lon": 25.1629,
+    "icon": "tablet",
+    "anchor": "right"
+   },
+   {
+    "id": "linearb_3",
+    "lat": 38.3199,
+    "lon": 23.3177,
+    "icon": "tablet",
+    "anchor": "right"
+   },
+   {
+    "id": "linearb_4",
+    "lat": 37.7308,
+    "lon": 22.7562,
+    "icon": "tablet",
+    "anchor": "right"
+   }
+  ]
+ },
+ {
+  "id": "res",
+  "color": "#7c9a5a",
+  "items": [
+   {
+    "id": "res_1",
+    "lat": 39.9575,
+    "lon": 26.2385,
+    "icon": "res",
+    "anchor": "bottom",
+    "books": [
+     2,
+     5,
+     24
+    ]
+   },
+   {
+    "id": "res_2",
+    "lat": 39.379,
+    "lon": 22.7539,
+    "icon": "res",
+    "anchor": "bottom",
+    "books": [
+     2,
+     23
+    ]
+   },
+   {
+    "id": "res_3",
+    "lat": 40.85,
+    "lon": 23.8,
+    "icon": "res",
+    "anchor": "bottom",
+    "books": [
+     10
+    ]
+   },
+   {
+    "id": "res_4",
+    "lat": 41.15,
+    "lon": 33.7,
+    "icon": "res",
+    "anchor": "bottom",
+    "books": [
+     2
+    ]
+   },
+   {
+    "id": "res_5",
+    "lat": 37.7379,
+    "lon": 24.0536,
+    "icon": "res",
+    "anchor": "bottom"
+   },
+   {
+    "id": "res_6",
+    "lat": 41.437,
+    "lon": 25.655,
+    "icon": "res",
+    "anchor": "bottom"
+   },
+   {
+    "id": "res_7",
+    "lat": 35.05,
+    "lon": 33.2,
+    "icon": "res",
+    "anchor": "bottom",
+    "books": [
+     11
+    ]
+   },
+   {
+    "id": "res_8",
+    "lat": 39.72,
+    "lon": 26.7,
+    "icon": "res",
+    "anchor": "bottom",
+    "books": [
+     23,
+     24
+    ]
+   },
+   {
+    "id": "res_9",
+    "lat": 41,
+    "lon": 24.6,
+    "icon": "res",
+    "anchor": "bottom",
+    "books": [
+     9
+    ]
+   },
+   {
+    "id": "res_10",
+    "lat": 39.905,
+    "lon": 25.229,
+    "icon": "res",
+    "anchor": "top",
+    "books": [
+     7
+    ]
+   }
+  ]
+ },
+ {
+  "id": "winds",
+  "color": "#6fa8c7",
+  "items": [
+   {
+    "id": "winds_1",
+    "lat": 39.62,
+    "lon": 25.45,
+    "icon": "rose",
+    "anchor": "bottom",
+    "books": [
+     2,
+     9,
+     16,
+     21
+    ]
+   },
+   {
+    "id": "winds_2",
+    "lat": 39.903,
+    "lon": 26.163,
+    "icon": "hub",
+    "anchor": "left"
+   }
+  ],
+  "lines": [
+   {
+    "id": "winds_l1",
+    "color": "#6fa8c7",
+    "pts": [
+     [
+      26.7,
+      40.42
+     ],
+     [
+      26.58,
+      40.3
+     ],
+     [
+      26.41,
+      40.2
+     ],
+     [
+      26.39,
+      40.15
+     ],
+     [
+      26.3,
+      40.1
+     ],
+     [
+      26.21,
+      40.04
+     ],
+     [
+      26.06,
+      39.97
+     ],
+     [
+      25.9,
+      39.88
+     ]
+    ],
+    "fast": true
+   },
+   {
+    "id": "winds_l2",
+    "color": "#a9c7da",
+    "pts": [
+     [
+      26.8,
+      40.95
+     ],
+     [
+      26.2,
+      40.55
+     ],
+     [
+      25.6,
+      40.05
+     ],
+     [
+      25.1,
+      39.55
+     ]
+    ],
+    "fast": true,
+    "wind": true
+   },
+   {
+    "id": "winds_l3",
+    "color": "#a9c7da",
+    "pts": [
+     [
+      25.2,
+      41.05
+     ],
+     [
+      24.7,
+      40.6
+     ],
+     [
+      24.2,
+      40.05
+     ],
+     [
+      23.85,
+      39.5
+     ]
+    ],
+    "fast": true,
+    "wind": true
+   }
+  ]
+ },
+ {
+  "id": "offmap",
+  "color": "#b98ab0",
+  "items": [
+   {
+    "id": "offmap_1",
+    "lat": 33.5619,
+    "lon": 35.3728,
+    "icon": "hub",
+    "anchor": "left",
+    "books": [
+     6,
+     23
+    ]
+   },
+   {
+    "id": "offmap_2",
+    "lat": 35.05,
+    "lon": 33.2,
+    "icon": "hub",
+    "anchor": "left",
+    "books": [
+     11
+    ]
+   },
+   {
+    "id": "offmap_3",
+    "lat": 33.45,
+    "lon": 32.6,
+    "icon": "edge",
+    "anchor": "right",
+    "dir": 90,
+    "books": [
+     9
+    ]
+   },
+   {
+    "id": "offmap_4",
+    "lat": 33.45,
+    "lon": 29.6,
+    "icon": "edge",
+    "anchor": "left",
+    "dir": 90,
+    "books": [
+     1,
+     23
+    ]
+   },
+   {
+    "id": "offmap_5",
+    "lat": 37.2,
+    "lon": 17.15,
+    "icon": "edge",
+    "anchor": "right",
+    "dir": 180,
+    "books": [
+     14,
+     18
+    ]
+   },
+   {
+    "id": "offmap_6",
+    "lat": 40.55,
+    "lon": 30.4,
+    "icon": "hub",
+    "anchor": "right",
+    "books": [
+     3,
+     6
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hit",
+  "color": "#8a6bb8",
+  "builtin": "hittite"
+ },
+ {
+  "id": "tombs",
+  "color": "#9c8a78",
+  "items": [
+   {
+    "id": "tombs_1",
+    "lat": 39.996,
+    "lon": 26.19,
+    "icon": "tomb",
+    "anchor": "left",
+    "books": [
+     23
+    ],
+    "reveals": 25
+   },
+   {
+    "id": "tombs_2",
+    "lat": 40.0097,
+    "lon": 26.3033,
+    "icon": "tomb",
+    "anchor": "right",
+    "reveals": 25
+   },
+   {
+    "id": "tombs_3",
+    "lat": 40.0545,
+    "lon": 26.2233,
+    "icon": "tomb",
+    "anchor": "left"
+   },
+   {
+    "id": "tombs_4",
+    "lat": 40.1442,
+    "lon": 26.381,
+    "icon": "tomb",
+    "anchor": "left",
+    "reveals": 25
+   },
+   {
+    "id": "tombs_5",
+    "lat": 38.326,
+    "lon": 23.335,
+    "icon": "tomb",
+    "anchor": "right",
+    "reveals": 24
+   },
+   {
+    "id": "tombs_6",
+    "lat": 37.7262,
+    "lon": 22.752,
+    "icon": "tomb",
+    "anchor": "bottom",
+    "reveals": 25
+   }
+  ]
+ },
+ {
+  "id": "coasts",
+  "color": "#6fa8c7",
+  "tour": true,
+  "items": [
+   {
+    "id": "coasts_1",
+    "lat": 39.982,
+    "lon": 26.222,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 10.5
+   },
+   {
+    "id": "coasts_2",
+    "lat": 37.58,
+    "lon": 27.34,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 9
+   },
+   {
+    "id": "coasts_3",
+    "lat": 37.955,
+    "lon": 27.31,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 10
+   },
+   {
+    "id": "coasts_4",
+    "lat": 38.6,
+    "lon": 26.89,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 9.5
+   },
+   {
+    "id": "coasts_5",
+    "lat": 38.84,
+    "lon": 22.5,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 9
+   },
+   {
+    "id": "coasts_6",
+    "lat": 40.64,
+    "lon": 22.6,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 8
+   },
+   {
+    "id": "coasts_7",
+    "lat": 38.45,
+    "lon": 23.1,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 9
+   },
+   {
+    "id": "coasts_8",
+    "lat": 39.49,
+    "lon": 22.82,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 9
+   },
+   {
+    "id": "coasts_9",
+    "lat": 37.592,
+    "lon": 22.795,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 11
+   },
+   {
+    "id": "coasts_10",
+    "lat": 36.995,
+    "lon": 21.66,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 11
+   },
+   {
+    "id": "coasts_11",
+    "lat": 38.4,
+    "lon": 21.18,
+    "icon": "coast",
+    "anchor": "right",
+    "zoom": 9.5
+   }
+  ]
+ }
+]

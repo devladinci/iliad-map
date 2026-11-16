@@ -1,0 +1,37 @@
+[
+ {
+  "id": "h_wilusa",
+  "lat": 39.45,
+  "lon": 27.15
+ },
+ {
+  "id": "h_seha",
+  "lat": 39,
+  "lon": 27.9
+ },
+ {
+  "id": "h_arzawa",
+  "lat": 37.95,
+  "lon": 28
+ },
+ {
+  "id": "h_mira",
+  "lat": 38.2,
+  "lon": 29.5
+ },
+ {
+  "id": "h_lukka",
+  "lat": 36.75,
+  "lon": 29.95
+ },
+ {
+  "id": "h_millawanda",
+  "lat": 37.25,
+  "lon": 27.05
+ },
+ {
+  "id": "h_ahhiyawa",
+  "lat": 38.05,
+  "lon": 21.95
+ }
+]

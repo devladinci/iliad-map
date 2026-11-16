@@ -1,0 +1,4724 @@
+[
+ {
+  "id": "1.1",
+  "book": 1,
+  "from": 1,
+  "to": 52,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "chryse",
+   "tenedos"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.75
+   ],
+   "zoom": 7.6
+  }
+ },
+ {
+  "id": "1.2",
+  "book": 1,
+  "from": 53,
+  "to": 187,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "phthia"
+  ],
+  "view": {
+   "center": [
+    26.197,
+    39.989
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "1.3",
+  "book": 1,
+  "from": 188,
+  "to": 305,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "pylos"
+  ],
+  "view": {
+   "center": [
+    26.197,
+    39.989
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "1.4",
+  "book": 1,
+  "from": 306,
+  "to": 348,
+  "at": [
+   "e_tent",
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.992
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "1.5",
+  "book": 1,
+  "from": 349,
+  "to": 429,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "thebe",
+   "chryse",
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.992
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "1.6",
+  "book": 1,
+  "from": 430,
+  "to": 487,
+  "at": [
+   "chryse",
+   "camp"
+  ],
+  "mentions": [
+   "tenedos"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.75
+   ],
+   "zoom": 7.6
+  },
+  "path": {
+   "kind": "sail",
+   "pts": [
+    [
+     26.1965,
+     39.9885
+    ],
+    [
+     26.195,
+     40.012
+    ],
+    [
+     26.12,
+     39.94
+    ],
+    [
+     26.11,
+     39.8
+    ],
+    [
+     26.03,
+     39.6
+    ],
+    [
+     26.02,
+     39.47
+    ],
+    [
+     26.25,
+     39.44
+    ],
+    [
+     26.55,
+     39.5
+    ],
+    [
+     26.85,
+     39.555
+    ],
+    [
+     26.925,
+     39.575
+    ]
+   ]
+  }
+ },
+ {
+  "id": "1.7",
+  "book": 1,
+  "from": 488,
+  "to": 535,
+  "at": [
+   "e_tent",
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40
+   ],
+   "zoom": 5.3
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.19,
+     40.005
+    ],
+    [
+     24.3,
+     40.12
+    ],
+    [
+     22.3586,
+     40.0856
+    ]
+   ]
+  }
+ },
+ {
+  "id": "1.8",
+  "book": 1,
+  "from": 536,
+  "to": 611,
+  "at": [
+   "olympus"
+  ],
+  "mentions": [
+   "lemnos"
+  ],
+  "view": {
+   "center": [
+    23.8,
+    40
+   ],
+   "zoom": 5.6
+  },
+  "path": {
+   "kind": "tale",
+   "pts": [
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     23.8,
+     40.1
+    ],
+    [
+     25.229,
+     39.905
+    ]
+   ]
+  }
+ },
+ {
+  "id": "2.1",
+  "book": 2,
+  "from": 1,
+  "to": 47,
+  "at": [
+   "olympus",
+   "camp"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40
+   ],
+   "zoom": 5.3
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     24.3,
+     40.12
+    ],
+    [
+     26.1965,
+     39.9885
+    ]
+   ]
+  }
+ },
+ {
+  "id": "2.2",
+  "book": 2,
+  "from": 48,
+  "to": 154,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.197,
+    39.989
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "2.3",
+  "book": 2,
+  "from": 155,
+  "to": 277,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.197,
+    39.989
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "2.4",
+  "book": 2,
+  "from": 278,
+  "to": 393,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "aulis"
+  ],
+  "view": {
+   "center": [
+    24.9,
+    39.2
+   ],
+   "zoom": 5.5
+  }
+ },
+ {
+  "id": "2.5",
+  "book": 2,
+  "from": 394,
+  "to": 483,
+  "at": [
+   "camp",
+   "scamander"
+  ],
+  "view": {
+   "center": [
+    26.21,
+    39.975
+   ],
+   "zoom": 11
+  }
+ },
+ {
+  "id": "2.6",
+  "book": 2,
+  "from": 484,
+  "to": 760,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "thebes",
+   "orchomenos",
+   "panopeus",
+   "opous",
+   "chalcis",
+   "athens",
+   "salamis",
+   "argos",
+   "tiryns",
+   "mycenae",
+   "sparta",
+   "pylos",
+   "tegea",
+   "elis",
+   "doulichion",
+   "ithaca",
+   "calydon",
+   "knossos",
+   "rhodes",
+   "syme",
+   "kos",
+   "phthia",
+   "phylake",
+   "pherai",
+   "iolkos",
+   "methone",
+   "trikka",
+   "ormenion",
+   "argissa",
+   "kyphos",
+   "magnetes"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    37.8
+   ],
+   "zoom": 4.6
+  },
+  "path": {
+   "kind": "tale",
+   "pts": [
+    [
+     23.3177,
+     38.3199
+    ],
+    [
+     22.9747,
+     38.4933
+    ],
+    [
+     22.7943,
+     38.4953
+    ],
+    [
+     23.0479,
+     38.6306
+    ],
+    [
+     23.5986,
+     38.4636
+    ],
+    [
+     23.7264,
+     37.9716
+    ],
+    [
+     23.4123,
+     37.9001
+    ],
+    [
+     22.7204,
+     37.6309
+    ],
+    [
+     22.7562,
+     37.7308
+    ],
+    [
+     22.4535,
+     37.0657
+    ],
+    [
+     21.6957,
+     37.0277
+    ],
+    [
+     22.4207,
+     37.4553
+    ],
+    [
+     21.3744,
+     37.8913
+    ],
+    [
+     21.06,
+     38.4
+    ],
+    [
+     20.6378,
+     38.4605
+    ],
+    [
+     21.5332,
+     38.3729
+    ],
+    [
+     25.1629,
+     35.298
+    ],
+    [
+     28.143,
+     36.399
+    ],
+    [
+     27.8434,
+     36.6184
+    ],
+    [
+     27.2899,
+     36.8936
+    ],
+    [
+     22.3783,
+     39.3217
+    ],
+    [
+     22.7624,
+     39.2893
+    ],
+    [
+     22.7539,
+     39.379
+    ],
+    [
+     23.0527,
+     39.3316
+    ],
+    [
+     21.783,
+     39.5689
+    ],
+    [
+     22.88,
+     39.42
+    ],
+    [
+     22.3506,
+     39.6546
+    ],
+    [
+     22.05,
+     39.95
+    ],
+    [
+     23.0665,
+     39.4082
+    ]
+   ]
+  }
+ },
+ {
+  "id": "2.7",
+  "book": 2,
+  "from": 761,
+  "to": 785,
+  "at": [
+   "camp",
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.985
+   ],
+   "zoom": 11.3
+  }
+ },
+ {
+  "id": "2.8",
+  "book": 2,
+  "from": 786,
+  "to": 815,
+  "at": [
+   "troy",
+   "e_batieia"
+  ],
+  "view": {
+   "center": [
+    26.2345,
+    39.955
+   ],
+   "zoom": 12.8
+  }
+ },
+ {
+  "id": "2.9",
+  "book": 2,
+  "from": 816,
+  "to": 877,
+  "at": [
+   "e_batieia",
+   "troy"
+  ],
+  "mentions": [
+   "dardania",
+   "zeleia",
+   "adrasteia",
+   "percote",
+   "sestos",
+   "abydos",
+   "arisbe",
+   "larisa",
+   "ainos",
+   "ismaros",
+   "amydon",
+   "paphlagonia",
+   "alybe",
+   "mysia",
+   "phrygia",
+   "maeonia",
+   "miletus",
+   "lycia"
+  ],
+  "view": {
+   "center": [
+    28.1,
+    39.1
+   ],
+   "zoom": 4.2
+  }
+ },
+ {
+  "id": "3.1",
+  "book": 3,
+  "from": 1,
+  "to": 120,
+  "at": [
+   "e_duels"
+  ],
+  "view": {
+   "center": [
+    26.224,
+    39.957
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "3.2",
+  "book": 3,
+  "from": 121,
+  "to": 244,
+  "at": [
+   "e_scaean"
+  ],
+  "mentions": [
+   "sparta",
+   "ithaca",
+   "knossos",
+   "phrygia"
+  ],
+  "view": {
+   "center": [
+    26.2375,
+    39.9573
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "3.3",
+  "book": 3,
+  "from": 245,
+  "to": 313,
+  "at": [
+   "e_scaean",
+   "e_duels"
+  ],
+  "view": {
+   "center": [
+    26.227,
+    39.956
+   ],
+   "zoom": 12.3
+  },
+  "path": {
+   "kind": "ride",
+   "pts": [
+    [
+     26.236,
+     39.9573
+    ],
+    [
+     26.2268,
+     39.9559
+    ],
+    [
+     26.2175,
+     39.9545
+    ]
+   ]
+  }
+ },
+ {
+  "id": "3.4",
+  "book": 3,
+  "from": 314,
+  "to": 382,
+  "at": [
+   "e_duels"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "3.5",
+  "book": 3,
+  "from": 383,
+  "to": 448,
+  "at": [
+   "e_scaean",
+   "troy"
+  ],
+  "mentions": [
+   "sparta",
+   "phrygia",
+   "maeonia"
+  ],
+  "view": {
+   "center": [
+    26.2375,
+    39.9573
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "3.6",
+  "book": 3,
+  "from": 449,
+  "to": 461,
+  "at": [
+   "e_duels"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "4.1",
+  "book": 4,
+  "from": 1,
+  "to": 73,
+  "at": [
+   "olympus"
+  ],
+  "mentions": [
+   "troy",
+   "argos",
+   "sparta",
+   "mycenae"
+  ],
+  "view": {
+   "center": [
+    24.2,
+    38.6
+   ],
+   "zoom": 4.8
+  }
+ },
+ {
+  "id": "4.2",
+  "book": 4,
+  "from": 74,
+  "to": 147,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "zeleia"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "4.3",
+  "book": 4,
+  "from": 148,
+  "to": 219,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "argos",
+   "trikka"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "4.4",
+  "book": 4,
+  "from": 220,
+  "to": 325,
+  "at": [
+   "e_duels"
+  ],
+  "view": {
+   "center": [
+    26.215,
+    39.96
+   ],
+   "zoom": 11.8
+  }
+ },
+ {
+  "id": "4.5",
+  "book": 4,
+  "from": 326,
+  "to": 421,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "thebes",
+   "mycenae"
+  ],
+  "view": {
+   "center": [
+    26.215,
+    39.96
+   ],
+   "zoom": 11.8
+  }
+ },
+ {
+  "id": "4.6",
+  "book": 4,
+  "from": 422,
+  "to": 544,
+  "at": [
+   "e_duels",
+   "troy"
+  ],
+  "mentions": [
+   "simoeis",
+   "abydos",
+   "ainos"
+  ],
+  "view": {
+   "center": [
+    26.224,
+    39.957
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "5.1",
+  "book": 5,
+  "from": 1,
+  "to": 94,
+  "at": [
+   "e_duels",
+   "scamander"
+  ],
+  "view": {
+   "center": [
+    26.225,
+    39.95
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "5.2",
+  "book": 5,
+  "from": 95,
+  "to": 165,
+  "at": [
+   "e_duels"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "5.3",
+  "book": 5,
+  "from": 166,
+  "to": 310,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "zeleia"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "5.4",
+  "book": 5,
+  "from": 311,
+  "to": 430,
+  "at": [
+   "e_duels",
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40
+   ],
+   "zoom": 5.3
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.2175,
+     39.9545
+    ],
+    [
+     24.3,
+     40.12
+    ],
+    [
+     22.3586,
+     40.0856
+    ]
+   ]
+  }
+ },
+ {
+  "id": "5.5",
+  "book": 5,
+  "from": 431,
+  "to": 518,
+  "at": [
+   "e_duels",
+   "troy"
+  ],
+  "mentions": [
+   "lycia"
+  ],
+  "view": {
+   "center": [
+    26.226,
+    39.957
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "5.6",
+  "book": 5,
+  "from": 519,
+  "to": 710,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "rhodes",
+   "lycia"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "5.7",
+  "book": 5,
+  "from": 711,
+  "to": 792,
+  "at": [
+   "olympus",
+   "e_ford"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40
+   ],
+   "zoom": 5.3
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     24.3,
+     40.12
+    ],
+    [
+     26.2258,
+     39.96
+    ]
+   ]
+  }
+ },
+ {
+  "id": "5.8",
+  "book": 5,
+  "from": 793,
+  "to": 863,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "thebes"
+  ],
+  "view": {
+   "center": [
+    26.221,
+    39.957
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "5.9",
+  "book": 5,
+  "from": 864,
+  "to": 909,
+  "at": [
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40
+   ],
+   "zoom": 5.3
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.2175,
+     39.9545
+    ],
+    [
+     24.3,
+     40.12
+    ],
+    [
+     22.3586,
+     40.0856
+    ]
+   ]
+  }
+ },
+ {
+  "id": "6.1",
+  "book": 6,
+  "from": 1,
+  "to": 72,
+  "at": [
+   "e_ford"
+  ],
+  "mentions": [
+   "arisbe",
+   "pedasos"
+  ],
+  "view": {
+   "center": [
+    26.226,
+    39.96
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "6.2",
+  "book": 6,
+  "from": 73,
+  "to": 118,
+  "at": [
+   "e_ford"
+  ],
+  "mentions": [
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.226,
+    39.96
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "6.3",
+  "book": 6,
+  "from": 119,
+  "to": 236,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "p_ephyra",
+   "tiryns",
+   "argos",
+   "lycia"
+  ],
+  "points": [
+   {
+    "id": "p_ephyra",
+    "lat": 37.906,
+    "lon": 22.879,
+    "certainty": 2
+   }
+  ],
+  "view": {
+   "center": [
+    26,
+    37.6
+   ],
+   "zoom": 4.6
+  },
+  "path": {
+   "kind": "tale",
+   "pts": [
+    [
+     22.879,
+     37.906
+    ],
+    [
+     22.8,
+     37.5993
+    ],
+    [
+     22.95,
+     37.35
+    ],
+    [
+     23.25,
+     37.05
+    ],
+    [
+     24.4,
+     36.45
+    ],
+    [
+     25.4,
+     36.2
+    ],
+    [
+     26.6,
+     36.15
+    ],
+    [
+     27.75,
+     35.8
+    ],
+    [
+     28.7,
+     36
+    ],
+    [
+     29.25,
+     36.22
+    ],
+    [
+     29.3202,
+     36.3571
+    ]
+   ]
+  }
+ },
+ {
+  "id": "6.4",
+  "book": 6,
+  "from": 237,
+  "to": 311,
+  "at": [
+   "e_scaean",
+   "troy"
+  ],
+  "mentions": [
+   "p_sidon"
+  ],
+  "points": [
+   {
+    "id": "p_sidon",
+    "lat": 33.5606,
+    "lon": 35.3758,
+    "certainty": 1
+   }
+  ],
+  "view": {
+   "center": [
+    26.2375,
+    39.9573
+   ],
+   "zoom": 13
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.236,
+     39.9573
+    ],
+    [
+     26.2368,
+     39.9576
+    ],
+    [
+     26.2378,
+     39.9577
+    ],
+    [
+     26.2385,
+     39.9575
+    ]
+   ]
+  }
+ },
+ {
+  "id": "6.5",
+  "book": 6,
+  "from": 312,
+  "to": 368,
+  "at": [
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.2375,
+    39.9573
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "6.6",
+  "book": 6,
+  "from": 369,
+  "to": 502,
+  "at": [
+   "troy",
+   "e_scaean"
+  ],
+  "mentions": [
+   "thebe"
+  ],
+  "view": {
+   "center": [
+    26.2375,
+    39.9573
+   ],
+   "zoom": 13
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.2388,
+     39.9572
+    ],
+    [
+     26.2379,
+     39.957
+    ],
+    [
+     26.2369,
+     39.957
+    ],
+    [
+     26.236,
+     39.9573
+    ]
+   ]
+  }
+ },
+ {
+  "id": "6.7",
+  "book": 6,
+  "from": 503,
+  "to": 529,
+  "at": [
+   "troy",
+   "e_scaean"
+  ],
+  "view": {
+   "center": [
+    26.2375,
+    39.9573
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "7.1",
+  "book": 7,
+  "from": 1,
+  "to": 91,
+  "at": [
+   "e_scaean",
+   "e_duels"
+  ],
+  "mentions": [
+   "hellespont"
+  ],
+  "view": {
+   "center": [
+    26.227,
+    39.956
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "7.2",
+  "book": 7,
+  "from": 92,
+  "to": 205,
+  "at": [
+   "e_duels"
+  ],
+  "mentions": [
+   "pylos",
+   "tegea",
+   "mycenae",
+   "salamis"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "7.3",
+  "book": 7,
+  "from": 206,
+  "to": 312,
+  "at": [
+   "e_duels"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.955
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "7.4",
+  "book": 7,
+  "from": 313,
+  "to": 344,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.197,
+    39.989
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "7.5",
+  "book": 7,
+  "from": 345,
+  "to": 380,
+  "at": [
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.2375,
+    39.9573
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "7.6",
+  "book": 7,
+  "from": 381,
+  "to": 432,
+  "at": [
+   "camp",
+   "e_duels",
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.215,
+    39.973
+   ],
+   "zoom": 11
+  }
+ },
+ {
+  "id": "7.7",
+  "book": 7,
+  "from": 433,
+  "to": 482,
+  "at": [
+   "e_wall",
+   "camp"
+  ],
+  "mentions": [
+   "lemnos"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.986
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "8.1",
+  "book": 8,
+  "from": 1,
+  "to": 52,
+  "at": [
+   "olympus",
+   "ida"
+  ],
+  "view": {
+   "center": [
+    24.6,
+    39.9
+   ],
+   "zoom": 5.2
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     24.5,
+     39.95
+    ],
+    [
+     26.8192,
+     39.6927
+    ]
+   ]
+  }
+ },
+ {
+  "id": "8.2",
+  "book": 8,
+  "from": 53,
+  "to": 129,
+  "at": [
+   "p_battle8",
+   "ida"
+  ],
+  "points": [
+   {
+    "id": "p_battle8",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.83
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "8.3",
+  "book": 8,
+  "from": 130,
+  "to": 197,
+  "at": [
+   "p_battle8"
+  ],
+  "mentions": [
+   "e_wall"
+  ],
+  "points": [
+   {
+    "id": "p_battle8",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.21,
+    39.972
+   ],
+   "zoom": 11.2
+  }
+ },
+ {
+  "id": "8.4",
+  "book": 8,
+  "from": 198,
+  "to": 252,
+  "at": [
+   "e_wall",
+   "camp"
+  ],
+  "mentions": [
+   "tw35",
+   "lemnos"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.986
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "8.5",
+  "book": 8,
+  "from": 253,
+  "to": 349,
+  "at": [
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.981
+   ],
+   "zoom": 12.3
+  }
+ },
+ {
+  "id": "8.6",
+  "book": 8,
+  "from": 350,
+  "to": 484,
+  "at": [
+   "olympus",
+   "ida"
+  ],
+  "view": {
+   "center": [
+    24.6,
+    39.9
+   ],
+   "zoom": 5.2
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.8192,
+     39.6927
+    ],
+    [
+     24.5,
+     39.95
+    ],
+    [
+     22.3586,
+     40.0856
+    ]
+   ]
+  }
+ },
+ {
+  "id": "8.7",
+  "book": 8,
+  "from": 485,
+  "to": 565,
+  "at": [
+   "e_bivouac"
+  ],
+  "mentions": [
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.212,
+    39.967
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "9.1",
+  "book": 9,
+  "from": 1,
+  "to": 88,
+  "at": [
+   "camp",
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.985
+   ],
+   "zoom": 11.8
+  }
+ },
+ {
+  "id": "9.2",
+  "book": 9,
+  "from": 89,
+  "to": 181,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "lesbos",
+   "pylos",
+   "p_kardamyle",
+   "p_pharai"
+  ],
+  "points": [
+   {
+    "id": "p_kardamyle",
+    "lat": 36.888,
+    "lon": 22.235,
+    "certainty": 1
+   },
+   {
+    "id": "p_pharai",
+    "lat": 37.045,
+    "lon": 22.116,
+    "certainty": 2
+   }
+  ],
+  "view": {
+   "center": [
+    24,
+    38.45
+   ],
+   "zoom": 4.6
+  }
+ },
+ {
+  "id": "9.3",
+  "book": 9,
+  "from": 182,
+  "to": 221,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "thebe"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.9935
+   ],
+   "zoom": 12
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.1965,
+     39.9885
+    ],
+    [
+     26.198,
+     39.9935
+    ],
+    [
+     26.1985,
+     39.9985
+    ]
+   ]
+  }
+ },
+ {
+  "id": "9.4",
+  "book": 9,
+  "from": 222,
+  "to": 306,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "e_bivouac",
+   "phthia"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.99
+   ],
+   "zoom": 11.6
+  }
+ },
+ {
+  "id": "9.5",
+  "book": 9,
+  "from": 307,
+  "to": 429,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "phthia",
+   "orchomenos"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    39.3
+   ],
+   "zoom": 5.2
+  }
+ },
+ {
+  "id": "9.6",
+  "book": 9,
+  "from": 430,
+  "to": 523,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "phthia"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    39.65
+   ],
+   "zoom": 5.4
+  }
+ },
+ {
+  "id": "9.7",
+  "book": 9,
+  "from": 524,
+  "to": 605,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "calydon"
+  ],
+  "view": {
+   "center": [
+    23.9,
+    39.1
+   ],
+   "zoom": 4.6
+  }
+ },
+ {
+  "id": "9.8",
+  "book": 9,
+  "from": 606,
+  "to": 668,
+  "at": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.1985,
+    39.996
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "9.9",
+  "book": 9,
+  "from": 669,
+  "to": 713,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.989
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "10.1",
+  "book": 10,
+  "from": 1,
+  "to": 71,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "e_bivouac"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.98
+   ],
+   "zoom": 11.6
+  }
+ },
+ {
+  "id": "10.2",
+  "book": 10,
+  "from": 72,
+  "to": 179,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.989
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "10.3",
+  "book": 10,
+  "from": 180,
+  "to": 298,
+  "at": [
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.98
+   ],
+   "zoom": 12.4
+  }
+ },
+ {
+  "id": "10.4",
+  "book": 10,
+  "from": 299,
+  "to": 337,
+  "at": [
+   "e_ilos",
+   "e_bivouac"
+  ],
+  "view": {
+   "center": [
+    26.217,
+    39.9645
+   ],
+   "zoom": 11.8
+  }
+ },
+ {
+  "id": "10.5",
+  "book": 10,
+  "from": 338,
+  "to": 468,
+  "at": [
+   "p_dolon"
+  ],
+  "mentions": [
+   "e_ilos",
+   "thymbra",
+   "e_rhesus"
+  ],
+  "points": [
+   {
+    "id": "p_dolon",
+    "lat": 39.975,
+    "lon": 26.2,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.978
+   ],
+   "zoom": 11.8
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.1975,
+     39.981
+    ],
+    [
+     26.2,
+     39.975
+    ]
+   ]
+  }
+ },
+ {
+  "id": "10.6",
+  "book": 10,
+  "from": 469,
+  "to": 525,
+  "at": [
+   "e_rhesus"
+  ],
+  "mentions": [
+   "p_dolon"
+  ],
+  "points": [
+   {
+    "id": "p_dolon",
+    "lat": 39.975,
+    "lon": 26.2,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.97
+   ],
+   "zoom": 11.8
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.2,
+     39.975
+    ],
+    [
+     26.1975,
+     39.9655
+    ]
+   ]
+  }
+ },
+ {
+  "id": "10.7",
+  "book": 10,
+  "from": 526,
+  "to": 579,
+  "at": [
+   "p_dolon",
+   "camp"
+  ],
+  "points": [
+   {
+    "id": "p_dolon",
+    "lat": 39.975,
+    "lon": 26.2,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.977
+   ],
+   "zoom": 11.4
+  },
+  "path": {
+   "kind": "ride",
+   "pts": [
+    [
+     26.1975,
+     39.9655
+    ],
+    [
+     26.2,
+     39.975
+    ],
+    [
+     26.1975,
+     39.981
+    ],
+    [
+     26.1965,
+     39.9885
+    ]
+   ]
+  }
+ },
+ {
+  "id": "11.1",
+  "book": 11,
+  "from": 1,
+  "to": 83,
+  "at": [
+   "camp",
+   "e_wall",
+   "e_bivouac"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.979
+   ],
+   "zoom": 11.6
+  }
+ },
+ {
+  "id": "11.2",
+  "book": 11,
+  "from": 84,
+  "to": 180,
+  "at": [
+   "e_ilos",
+   "e_scaean"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.963
+   ],
+   "zoom": 11.2
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.203,
+     39.968
+    ],
+    [
+     26.231,
+     39.9612
+    ],
+    [
+     26.236,
+     39.9573
+    ]
+   ]
+  }
+ },
+ {
+  "id": "11.3",
+  "book": 11,
+  "from": 181,
+  "to": 283,
+  "at": [
+   "ida",
+   "e_scaean",
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.85
+   ],
+   "zoom": 8
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.8192,
+     39.6927
+    ],
+    [
+     26.236,
+     39.9573
+    ]
+   ]
+  }
+ },
+ {
+  "id": "11.4",
+  "book": 11,
+  "from": 284,
+  "to": 400,
+  "at": [
+   "e_ilos"
+  ],
+  "view": {
+   "center": [
+    26.226,
+    39.9625
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "11.5",
+  "book": 11,
+  "from": 401,
+  "to": 488,
+  "at": [
+   "e_ilos"
+  ],
+  "view": {
+   "center": [
+    26.224,
+    39.9635
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "11.6",
+  "book": 11,
+  "from": 489,
+  "to": 595,
+  "at": [
+   "p_left_scamander"
+  ],
+  "mentions": [
+   "scamander"
+  ],
+  "points": [
+   {
+    "id": "p_left_scamander",
+    "lat": 39.9645,
+    "lon": 26.2225,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.218,
+    39.967
+   ],
+   "zoom": 11.8
+  }
+ },
+ {
+  "id": "11.7",
+  "book": 11,
+  "from": 596,
+  "to": 654,
+  "at": [
+   "e_tent",
+   "camp"
+  ],
+  "mentions": [
+   "tenedos"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.9935
+   ],
+   "zoom": 12
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.1985,
+     39.9985
+    ],
+    [
+     26.198,
+     39.9935
+    ],
+    [
+     26.1965,
+     39.9885
+    ]
+   ]
+  }
+ },
+ {
+  "id": "11.8",
+  "book": 11,
+  "from": 655,
+  "to": 803,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "pylos",
+   "elis",
+   "p_thryon"
+  ],
+  "points": [
+   {
+    "id": "p_thryon",
+    "lat": 37.628,
+    "lon": 21.496,
+    "certainty": 2
+   }
+  ],
+  "view": {
+   "center": [
+    23.8,
+    38.6
+   ],
+   "zoom": 4.6
+  },
+  "path": {
+   "kind": "tale",
+   "pts": [
+    [
+     21.6957,
+     37.0277
+    ],
+    [
+     21.496,
+     37.628
+    ],
+    [
+     21.3744,
+     37.8913
+    ]
+   ]
+  }
+ },
+ {
+  "id": "11.9",
+  "book": 11,
+  "from": 804,
+  "to": 848,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.989
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "12.1",
+  "book": 12,
+  "from": 1,
+  "to": 35,
+  "at": [
+   "e_wall"
+  ],
+  "mentions": [
+   "ida",
+   "scamander",
+   "simoeis"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.87
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "12.2",
+  "book": 12,
+  "from": 36,
+  "to": 107,
+  "at": [
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.979
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "12.3",
+  "book": 12,
+  "from": 108,
+  "to": 194,
+  "at": [
+   "p_gate_left"
+  ],
+  "points": [
+   {
+    "id": "p_gate_left",
+    "lat": 39.9782,
+    "lon": 26.2015,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.201,
+    39.9785
+   ],
+   "zoom": 12.8
+  }
+ },
+ {
+  "id": "12.4",
+  "book": 12,
+  "from": 195,
+  "to": 289,
+  "at": [
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.1985,
+    39.9805
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "12.5",
+  "book": 12,
+  "from": 290,
+  "to": 330,
+  "at": [
+   "e_wall"
+  ],
+  "mentions": [
+   "lycia"
+  ],
+  "view": {
+   "center": [
+    27.75,
+    38.2
+   ],
+   "zoom": 4.8
+  }
+ },
+ {
+  "id": "12.6",
+  "book": 12,
+  "from": 331,
+  "to": 435,
+  "at": [
+   "p_tower_menestheus"
+  ],
+  "points": [
+   {
+    "id": "p_tower_menestheus",
+    "lat": 39.9796,
+    "lon": 26.1995,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.1995,
+    39.98
+   ],
+   "zoom": 12.8
+  }
+ },
+ {
+  "id": "12.7",
+  "book": 12,
+  "from": 436,
+  "to": 471,
+  "at": [
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.982
+   ],
+   "zoom": 12.8
+  }
+ },
+ {
+  "id": "13.1",
+  "book": 13,
+  "from": 1,
+  "to": 38,
+  "at": [
+   "samothrace",
+   "p_aigai",
+   "p_cave",
+   "camp"
+  ],
+  "mentions": [
+   "tenedos",
+   "imbros"
+  ],
+  "points": [
+   {
+    "id": "p_aigai",
+    "lat": 38.5982,
+    "lon": 23.5526,
+    "certainty": 3
+   },
+   {
+    "id": "p_cave",
+    "lat": 40.02,
+    "lon": 25.97,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    24.9,
+    39.5
+   ],
+   "zoom": 5.4
+  },
+  "path": {
+   "kind": "ride",
+   "pts": [
+    [
+     25.576,
+     40.452
+    ],
+    [
+     23.5526,
+     38.5982
+    ],
+    [
+     24.6,
+     39.6
+    ],
+    [
+     25.97,
+     40.02
+    ],
+    [
+     26.1965,
+     39.9885
+    ]
+   ]
+  }
+ },
+ {
+  "id": "13.2",
+  "book": 13,
+  "from": 39,
+  "to": 135,
+  "at": [
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.984
+   ],
+   "zoom": 12.6
+  }
+ },
+ {
+  "id": "13.3",
+  "book": 13,
+  "from": 136,
+  "to": 205,
+  "at": [
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.9845
+   ],
+   "zoom": 12.6
+  }
+ },
+ {
+  "id": "13.4",
+  "book": 13,
+  "from": 206,
+  "to": 329,
+  "at": [
+   "camp",
+   "p_ships_left"
+  ],
+  "points": [
+   {
+    "id": "p_ships_left",
+    "lat": 39.9805,
+    "lon": 26.2005,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.985
+   ],
+   "zoom": 12
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.1965,
+     39.9885
+    ],
+    [
+     26.2005,
+     39.9805
+    ]
+   ]
+  }
+ },
+ {
+  "id": "13.5",
+  "book": 13,
+  "from": 330,
+  "to": 454,
+  "at": [
+   "p_ships_left"
+  ],
+  "mentions": [
+   "knossos"
+  ],
+  "points": [
+   {
+    "id": "p_ships_left",
+    "lat": 39.9805,
+    "lon": 26.2005,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.2005,
+    39.981
+   ],
+   "zoom": 12.8
+  }
+ },
+ {
+  "id": "13.6",
+  "book": 13,
+  "from": 455,
+  "to": 575,
+  "at": [
+   "p_ships_left"
+  ],
+  "points": [
+   {
+    "id": "p_ships_left",
+    "lat": 39.9805,
+    "lon": 26.2005,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.2005,
+    39.981
+   ],
+   "zoom": 12.8
+  }
+ },
+ {
+  "id": "13.7",
+  "book": 13,
+  "from": 576,
+  "to": 672,
+  "at": [
+   "p_ships_left"
+  ],
+  "mentions": [
+   "paphlagonia",
+   "tw29"
+  ],
+  "points": [
+   {
+    "id": "p_ships_left",
+    "lat": 39.9805,
+    "lon": 26.2005,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.2005,
+    39.981
+   ],
+   "zoom": 12.8
+  }
+ },
+ {
+  "id": "13.8",
+  "book": 13,
+  "from": 673,
+  "to": 722,
+  "at": [
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.984
+   ],
+   "zoom": 12.6
+  }
+ },
+ {
+  "id": "13.9",
+  "book": 13,
+  "from": 723,
+  "to": 837,
+  "at": [
+   "e_ships",
+   "p_ships_left"
+  ],
+  "points": [
+   {
+    "id": "p_ships_left",
+    "lat": 39.9805,
+    "lon": 26.2005,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.1998,
+    39.983
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "14.1",
+  "book": 14,
+  "from": 1,
+  "to": 152,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.987
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "14.2",
+  "book": 14,
+  "from": 153,
+  "to": 224,
+  "at": [
+   "olympus"
+  ],
+  "mentions": [
+   "ida"
+  ],
+  "view": {
+   "center": [
+    24.6,
+    39.9
+   ],
+   "zoom": 5.3
+  }
+ },
+ {
+  "id": "14.3",
+  "book": 14,
+  "from": 225,
+  "to": 279,
+  "at": [
+   "olympus",
+   "p_pieria",
+   "p_emathia",
+   "p_thrace_mts",
+   "athos",
+   "lemnos"
+  ],
+  "points": [
+   {
+    "id": "p_pieria",
+    "lat": 40.28,
+    "lon": 22.45,
+    "certainty": 2
+   },
+   {
+    "id": "p_emathia",
+    "lat": 40.52,
+    "lon": 22.25,
+    "certainty": 2
+   },
+   {
+    "id": "p_thrace_mts",
+    "lat": 41.05,
+    "lon": 23.9,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    23.8,
+    40.45
+   ],
+   "zoom": 5.6
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     22.45,
+     40.28
+    ],
+    [
+     22.25,
+     40.52
+    ],
+    [
+     23.9,
+     41.05
+    ],
+    [
+     24.326,
+     40.157
+    ],
+    [
+     25.229,
+     39.905
+    ]
+   ]
+  }
+ },
+ {
+  "id": "14.4",
+  "book": 14,
+  "from": 280,
+  "to": 353,
+  "at": [
+   "imbros",
+   "lekton",
+   "ida"
+  ],
+  "mentions": [
+   "lemnos"
+  ],
+  "view": {
+   "center": [
+    26,
+    39.8
+   ],
+   "zoom": 6.6
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     25.229,
+     39.905
+    ],
+    [
+     25.86,
+     40.17
+    ],
+    [
+     26.063,
+     39.478
+    ],
+    [
+     26.8192,
+     39.6927
+    ]
+   ]
+  }
+ },
+ {
+  "id": "14.5",
+  "book": 14,
+  "from": 354,
+  "to": 401,
+  "at": [
+   "e_ships"
+  ],
+  "mentions": [
+   "ida"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.85
+   ],
+   "zoom": 8
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.8192,
+     39.6927
+    ],
+    [
+     26.199,
+     39.985
+    ]
+   ]
+  }
+ },
+ {
+  "id": "14.6",
+  "book": 14,
+  "from": 402,
+  "to": 439,
+  "at": [
+   "e_ships",
+   "e_ford"
+  ],
+  "view": {
+   "center": [
+    26.212,
+    39.972
+   ],
+   "zoom": 11.4
+  },
+  "path": {
+   "kind": "ride",
+   "pts": [
+    [
+     26.199,
+     39.985
+    ],
+    [
+     26.1975,
+     39.981
+    ],
+    [
+     26.2005,
+     39.973
+    ],
+    [
+     26.208,
+     39.9675
+    ],
+    [
+     26.2258,
+     39.96
+    ]
+   ]
+  }
+ },
+ {
+  "id": "14.7",
+  "book": 14,
+  "from": 440,
+  "to": 522,
+  "at": [
+   "e_ships",
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.1985,
+    39.983
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "15.1",
+  "book": 15,
+  "from": 1,
+  "to": 77,
+  "at": [
+   "ida"
+  ],
+  "mentions": [
+   "e_ships",
+   "e_ford"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.85
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "15.2",
+  "book": 15,
+  "from": 78,
+  "to": 156,
+  "at": [
+   "olympus"
+  ],
+  "mentions": [
+   "ida"
+  ],
+  "view": {
+   "center": [
+    24.6,
+    39.9
+   ],
+   "zoom": 5.3
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.8192,
+     39.6927
+    ],
+    [
+     22.3586,
+     40.0856
+    ]
+   ]
+  }
+ },
+ {
+  "id": "15.3",
+  "book": 15,
+  "from": 157,
+  "to": 219,
+  "at": [
+   "ida",
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.85
+   ],
+   "zoom": 8
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.8192,
+     39.6927
+    ],
+    [
+     26.199,
+     39.985
+    ]
+   ]
+  }
+ },
+ {
+  "id": "15.4",
+  "book": 15,
+  "from": 220,
+  "to": 280,
+  "at": [
+   "ida",
+   "e_ford"
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.85
+   ],
+   "zoom": 8
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.8192,
+     39.6927
+    ],
+    [
+     26.2258,
+     39.96
+    ]
+   ]
+  }
+ },
+ {
+  "id": "15.5",
+  "book": 15,
+  "from": 281,
+  "to": 389,
+  "at": [
+   "e_wall",
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.1985,
+    39.983
+   ],
+   "zoom": 12.4
+  }
+ },
+ {
+  "id": "15.6",
+  "book": 15,
+  "from": 390,
+  "to": 404,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.198,
+    39.992
+   ],
+   "zoom": 12
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.1965,
+     39.9885
+    ],
+    [
+     26.198,
+     39.9935
+    ]
+   ]
+  }
+ },
+ {
+  "id": "15.7",
+  "book": 15,
+  "from": 405,
+  "to": 591,
+  "at": [
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.9845
+   ],
+   "zoom": 12.6
+  }
+ },
+ {
+  "id": "15.8",
+  "book": 15,
+  "from": 592,
+  "to": 673,
+  "at": [
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.985
+   ],
+   "zoom": 12.6
+  }
+ },
+ {
+  "id": "15.9",
+  "book": 15,
+  "from": 674,
+  "to": 746,
+  "at": [
+   "e_ships"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.985
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "16.1",
+  "book": 16,
+  "from": 1,
+  "to": 100,
+  "at": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.1985,
+    39.997
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "16.2",
+  "book": 16,
+  "from": 101,
+  "to": 129,
+  "at": [
+   "e_ships",
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.991
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "16.3",
+  "book": 16,
+  "from": 130,
+  "to": 256,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "tw73",
+   "magnetes"
+  ],
+  "view": {
+   "center": [
+    23.5,
+    39.75
+   ],
+   "zoom": 5
+  }
+ },
+ {
+  "id": "16.4",
+  "book": 16,
+  "from": 257,
+  "to": 418,
+  "at": [
+   "e_ships",
+   "e_wall"
+  ],
+  "mentions": [
+   "amydon"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.983
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "16.5",
+  "book": 16,
+  "from": 419,
+  "to": 507,
+  "at": [
+   "p_sarpedon"
+  ],
+  "mentions": [
+   "lycia"
+  ],
+  "points": [
+   {
+    "id": "p_sarpedon",
+    "lat": 39.9665,
+    "lon": 26.211,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.209,
+    39.9705
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "16.6",
+  "book": 16,
+  "from": 508,
+  "to": 683,
+  "at": [
+   "p_sarpedon",
+   "lycia"
+  ],
+  "points": [
+   {
+    "id": "p_sarpedon",
+    "lat": 39.9665,
+    "lon": 26.211,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    27.75,
+    38.2
+   ],
+   "zoom": 4.8
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.211,
+     39.9665
+    ],
+    [
+     29.3202,
+     36.3571
+    ]
+   ]
+  }
+ },
+ {
+  "id": "16.7",
+  "book": 16,
+  "from": 684,
+  "to": 776,
+  "at": [
+   "e_scaean",
+   "e_patroclus"
+  ],
+  "view": {
+   "center": [
+    26.228,
+    39.962
+   ],
+   "zoom": 12
+  },
+  "path": {
+   "kind": "ride",
+   "pts": [
+    [
+     26.211,
+     39.9665
+    ],
+    [
+     26.2258,
+     39.96
+    ],
+    [
+     26.2335,
+     39.9588
+    ]
+   ]
+  }
+ },
+ {
+  "id": "16.8",
+  "book": 16,
+  "from": 777,
+  "to": 867,
+  "at": [
+   "e_patroclus"
+  ],
+  "view": {
+   "center": [
+    26.2335,
+    39.9588
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "17.1",
+  "book": 17,
+  "from": 1,
+  "to": 60,
+  "at": [
+   "e_patroclus"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.958
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "17.2",
+  "book": 17,
+  "from": 61,
+  "to": 139,
+  "at": [
+   "e_patroclus"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.958
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "17.3",
+  "book": 17,
+  "from": 140,
+  "to": 232,
+  "at": [
+   "e_patroclus"
+  ],
+  "mentions": [
+   "lycia"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.958
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "17.4",
+  "book": 17,
+  "from": 233,
+  "to": 365,
+  "at": [
+   "e_patroclus"
+  ],
+  "mentions": [
+   "larisa"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.958
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "17.5",
+  "book": 17,
+  "from": 366,
+  "to": 425,
+  "at": [
+   "e_patroclus"
+  ],
+  "mentions": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.958
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "17.6",
+  "book": 17,
+  "from": 426,
+  "to": 542,
+  "at": [
+   "e_patroclus"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.958
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "17.7",
+  "book": 17,
+  "from": 543,
+  "to": 650,
+  "at": [
+   "e_patroclus"
+  ],
+  "mentions": [
+   "ida"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.958
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "17.8",
+  "book": 17,
+  "from": 651,
+  "to": 701,
+  "at": [
+   "e_patroclus"
+  ],
+  "view": {
+   "center": [
+    26.215,
+    39.977
+   ],
+   "zoom": 11
+  }
+ },
+ {
+  "id": "17.9",
+  "book": 17,
+  "from": 702,
+  "to": 761,
+  "at": [
+   "e_patroclus",
+   "e_wall"
+  ],
+  "view": {
+   "center": [
+    26.215,
+    39.972
+   ],
+   "zoom": 11
+  }
+ },
+ {
+  "id": "18.1",
+  "book": 18,
+  "from": 1,
+  "to": 34,
+  "at": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.99
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "18.2",
+  "book": 18,
+  "from": 35,
+  "to": 147,
+  "at": [
+   "p_thetis_cave",
+   "e_tent"
+  ],
+  "points": [
+   {
+    "id": "p_thetis_cave",
+    "lat": 40.34,
+    "lon": 25.74,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    25.97,
+    40.17
+   ],
+   "zoom": 7.8
+  }
+ },
+ {
+  "id": "18.3",
+  "book": 18,
+  "from": 148,
+  "to": 242,
+  "at": [
+   "e_wall",
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.99
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "18.4",
+  "book": 18,
+  "from": 243,
+  "to": 314,
+  "at": [
+   "e_bivouac"
+  ],
+  "view": {
+   "center": [
+    26.208,
+    39.975
+   ],
+   "zoom": 11.3
+  }
+ },
+ {
+  "id": "18.5",
+  "book": 18,
+  "from": 315,
+  "to": 355,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "opous"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.998
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "18.6",
+  "book": 18,
+  "from": 356,
+  "to": 467,
+  "at": [
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40.05
+   ],
+   "zoom": 5.5
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     26.1985,
+     39.9985
+    ],
+    [
+     24.3,
+     40.25
+    ],
+    [
+     22.3586,
+     40.0856
+    ]
+   ]
+  }
+ },
+ {
+  "id": "18.7",
+  "book": 18,
+  "from": 468,
+  "to": 540,
+  "at": [
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    22.3586,
+    40.0856
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "18.8",
+  "book": 18,
+  "from": 541,
+  "to": 617,
+  "at": [
+   "olympus"
+  ],
+  "mentions": [
+   "knossos"
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40.05
+   ],
+   "zoom": 5.5
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     24.3,
+     39.85
+    ],
+    [
+     26.1985,
+     39.9985
+    ]
+   ]
+  }
+ },
+ {
+  "id": "19.1",
+  "book": 19,
+  "from": 1,
+  "to": 39,
+  "at": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.998
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "19.2",
+  "book": 19,
+  "from": 40,
+  "to": 144,
+  "at": [
+   "camp"
+  ],
+  "mentions": [
+   "thebes"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.99
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "19.3",
+  "book": 19,
+  "from": 145,
+  "to": 237,
+  "at": [
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.99
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "19.4",
+  "book": 19,
+  "from": 238,
+  "to": 281,
+  "at": [
+   "camp",
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.99
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "19.5",
+  "book": 19,
+  "from": 282,
+  "to": 339,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "lyrnessos",
+   "phthia",
+   "p_skyros"
+  ],
+  "points": [
+   {
+    "id": "p_skyros",
+    "lat": 38.8725,
+    "lon": 24.525,
+    "certainty": 1
+   }
+  ],
+  "view": {
+   "center": [
+    24.7,
+    39.6
+   ],
+   "zoom": 5.6
+  }
+ },
+ {
+  "id": "19.6",
+  "book": 19,
+  "from": 340,
+  "to": 391,
+  "at": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.99
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "19.7",
+  "book": 19,
+  "from": 392,
+  "to": 424,
+  "at": [
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.998
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "20.1",
+  "book": 20,
+  "from": 1,
+  "to": 40,
+  "at": [
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    22.3586,
+    40.0856
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "20.2",
+  "book": 20,
+  "from": 41,
+  "to": 74,
+  "at": [
+   "e_wall",
+   "troy",
+   "kallikolone",
+   "ida",
+   "scamander"
+  ],
+  "mentions": [
+   "simoeis"
+  ],
+  "view": {
+   "center": [
+    26.4,
+    39.8
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "20.3",
+  "book": 20,
+  "from": 75,
+  "to": 155,
+  "at": [
+   "p_battle20",
+   "p_heracles_wall",
+   "kallikolone"
+  ],
+  "points": [
+   {
+    "id": "p_battle20",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   },
+   {
+    "id": "p_heracles_wall",
+    "lat": 39.973,
+    "lon": 26.186,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.31,
+    39.975
+   ],
+   "zoom": 9.8
+  }
+ },
+ {
+  "id": "20.4",
+  "book": 20,
+  "from": 156,
+  "to": 258,
+  "at": [
+   "p_battle20"
+  ],
+  "mentions": [
+   "ida",
+   "lyrnessos",
+   "dardania"
+  ],
+  "points": [
+   {
+    "id": "p_battle20",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.5,
+    39.78
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "20.5",
+  "book": 20,
+  "from": 259,
+  "to": 352,
+  "at": [
+   "p_battle20",
+   "p_heracles_wall"
+  ],
+  "points": [
+   {
+    "id": "p_battle20",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   },
+   {
+    "id": "p_heracles_wall",
+    "lat": 39.973,
+    "lon": 26.186,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.21,
+    39.972
+   ],
+   "zoom": 11.3
+  }
+ },
+ {
+  "id": "20.6",
+  "book": 20,
+  "from": 353,
+  "to": 418,
+  "at": [
+   "p_battle20"
+  ],
+  "mentions": [
+   "maeonia"
+  ],
+  "points": [
+   {
+    "id": "p_battle20",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.21,
+    39.972
+   ],
+   "zoom": 11.3
+  }
+ },
+ {
+  "id": "20.7",
+  "book": 20,
+  "from": 419,
+  "to": 454,
+  "at": [
+   "p_battle20"
+  ],
+  "points": [
+   {
+    "id": "p_battle20",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.21,
+    39.972
+   ],
+   "zoom": 11.3
+  }
+ },
+ {
+  "id": "20.8",
+  "book": 20,
+  "from": 455,
+  "to": 503,
+  "at": [
+   "p_battle20"
+  ],
+  "points": [
+   {
+    "id": "p_battle20",
+    "lat": 39.9645,
+    "lon": 26.212,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    26.21,
+    39.972
+   ],
+   "zoom": 11.3
+  }
+ },
+ {
+  "id": "21.1",
+  "book": 21,
+  "from": 1,
+  "to": 33,
+  "at": [
+   "e_ford"
+  ],
+  "view": {
+   "center": [
+    26.224,
+    39.962
+   ],
+   "zoom": 11.8
+  }
+ },
+ {
+  "id": "21.2",
+  "book": 21,
+  "from": 34,
+  "to": 135,
+  "at": [
+   "e_ford"
+  ],
+  "mentions": [
+   "lemnos",
+   "imbros",
+   "arisbe"
+  ],
+  "view": {
+   "center": [
+    25.9,
+    40.05
+   ],
+   "zoom": 7
+  },
+  "path": {
+   "kind": "tale",
+   "pts": [
+    [
+     26.2385,
+     39.9575
+    ],
+    [
+     25.229,
+     39.905
+    ],
+    [
+     25.9008,
+     40.2333
+    ],
+    [
+     26.5358,
+     40.1943
+    ],
+    [
+     26.2385,
+     39.9575
+    ]
+   ]
+  }
+ },
+ {
+  "id": "21.3",
+  "book": 21,
+  "from": 136,
+  "to": 210,
+  "at": [
+   "e_ford"
+  ],
+  "mentions": [
+   "amydon"
+  ],
+  "view": {
+   "center": [
+    26.224,
+    39.962
+   ],
+   "zoom": 11.8
+  }
+ },
+ {
+  "id": "21.4",
+  "book": 21,
+  "from": 211,
+  "to": 327,
+  "at": [
+   "e_ford",
+   "scamander"
+  ],
+  "mentions": [
+   "simoeis"
+  ],
+  "view": {
+   "center": [
+    26.235,
+    39.948
+   ],
+   "zoom": 11
+  }
+ },
+ {
+  "id": "21.5",
+  "book": 21,
+  "from": 328,
+  "to": 384,
+  "at": [
+   "e_ford",
+   "scamander"
+  ],
+  "view": {
+   "center": [
+    26.235,
+    39.948
+   ],
+   "zoom": 11
+  }
+ },
+ {
+  "id": "21.6",
+  "book": 21,
+  "from": 385,
+  "to": 513,
+  "at": [
+   "e_ford"
+  ],
+  "mentions": [
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    26.22,
+    39.968
+   ],
+   "zoom": 11
+  }
+ },
+ {
+  "id": "21.7",
+  "book": 21,
+  "from": 514,
+  "to": 543,
+  "at": [
+   "troy",
+   "e_scaean"
+  ],
+  "mentions": [
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    26.2385,
+    39.9573
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "21.8",
+  "book": 21,
+  "from": 544,
+  "to": 611,
+  "at": [
+   "e_scaean"
+  ],
+  "mentions": [
+   "scamander"
+  ],
+  "view": {
+   "center": [
+    26.238,
+    39.955
+   ],
+   "zoom": 12
+  }
+ },
+ {
+  "id": "22.1",
+  "book": 22,
+  "from": 1,
+  "to": 24,
+  "at": [
+   "e_scaean"
+  ],
+  "view": {
+   "center": [
+    26.236,
+    39.9573
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "22.2",
+  "book": 22,
+  "from": 25,
+  "to": 130,
+  "at": [
+   "e_scaean"
+  ],
+  "view": {
+   "center": [
+    26.2385,
+    39.9573
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "22.3",
+  "book": 22,
+  "from": 131,
+  "to": 213,
+  "at": [
+   "e_scaean",
+   "e_springs"
+  ],
+  "view": {
+   "center": [
+    26.2372,
+    39.9572
+   ],
+   "zoom": 13
+  },
+  "path": {
+   "kind": "walk",
+   "pts": [
+    [
+     26.2358,
+     39.959
+    ],
+    [
+     26.2385,
+     39.9592
+    ],
+    [
+     26.2405,
+     39.9588
+    ],
+    [
+     26.2412,
+     39.9573
+    ],
+    [
+     26.2405,
+     39.9558
+    ],
+    [
+     26.2385,
+     39.9552
+    ],
+    [
+     26.2362,
+     39.9556
+    ],
+    [
+     26.235,
+     39.9562
+    ],
+    [
+     26.2348,
+     39.9575
+    ],
+    [
+     26.2358,
+     39.959
+    ]
+   ]
+  }
+ },
+ {
+  "id": "22.4",
+  "book": 22,
+  "from": 214,
+  "to": 247,
+  "at": [
+   "e_springs"
+  ],
+  "view": {
+   "center": [
+    26.2372,
+    39.9572
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "22.5",
+  "book": 22,
+  "from": 248,
+  "to": 305,
+  "at": [
+   "e_springs"
+  ],
+  "view": {
+   "center": [
+    26.2372,
+    39.9572
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "22.6",
+  "book": 22,
+  "from": 306,
+  "to": 366,
+  "at": [
+   "e_springs"
+  ],
+  "view": {
+   "center": [
+    26.2372,
+    39.9572
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "22.7",
+  "book": 22,
+  "from": 367,
+  "to": 404,
+  "at": [
+   "e_springs"
+  ],
+  "view": {
+   "center": [
+    26.2372,
+    39.9572
+   ],
+   "zoom": 13
+  }
+ },
+ {
+  "id": "22.8",
+  "book": 22,
+  "from": 405,
+  "to": 436,
+  "at": [
+   "troy",
+   "e_scaean"
+  ],
+  "view": {
+   "center": [
+    26.2385,
+    39.9573
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "22.9",
+  "book": 22,
+  "from": 437,
+  "to": 515,
+  "at": [
+   "troy"
+  ],
+  "mentions": [
+   "thebe"
+  ],
+  "view": {
+   "center": [
+    26.2385,
+    39.9573
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "23.1",
+  "book": 23,
+  "from": 1,
+  "to": 58,
+  "at": [
+   "e_tent",
+   "camp"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.99
+   ],
+   "zoom": 11.5
+  }
+ },
+ {
+  "id": "23.2",
+  "book": 23,
+  "from": 59,
+  "to": 109,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "opous"
+  ],
+  "view": {
+   "center": [
+    26.199,
+    39.998
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "23.3",
+  "book": 23,
+  "from": 110,
+  "to": 191,
+  "at": [
+   "e_pyre"
+  ],
+  "mentions": [
+   "ida",
+   "phthia"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.999
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "23.4",
+  "book": 23,
+  "from": 192,
+  "to": 257,
+  "at": [
+   "e_pyre"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.999
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "23.5",
+  "book": 23,
+  "from": 258,
+  "to": 361,
+  "at": [
+   "e_pyre"
+  ],
+  "mentions": [
+   "pherai"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.999
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "23.6",
+  "book": 23,
+  "from": 362,
+  "to": 533,
+  "at": [
+   "e_pyre"
+  ],
+  "view": {
+   "center": [
+    26.203,
+    39.987
+   ],
+   "zoom": 11.3
+  }
+ },
+ {
+  "id": "23.7",
+  "book": 23,
+  "from": 534,
+  "to": 652,
+  "at": [
+   "e_pyre"
+  ],
+  "mentions": [
+   "elis"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.999
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "23.8",
+  "book": 23,
+  "from": 653,
+  "to": 797,
+  "at": [
+   "e_pyre"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.999
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "23.9",
+  "book": 23,
+  "from": 798,
+  "to": 897,
+  "at": [
+   "e_pyre"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.999
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "24.1",
+  "book": 24,
+  "from": 1,
+  "to": 21,
+  "at": [
+   "e_tent",
+   "e_pyre"
+  ],
+  "view": {
+   "center": [
+    26.2,
+    39.999
+   ],
+   "zoom": 12.2
+  }
+ },
+ {
+  "id": "24.2",
+  "book": 24,
+  "from": 22,
+  "to": 76,
+  "at": [
+   "olympus"
+  ],
+  "view": {
+   "center": [
+    22.3586,
+    40.0856
+   ],
+   "zoom": 8
+  }
+ },
+ {
+  "id": "24.3",
+  "book": 24,
+  "from": 77,
+  "to": 142,
+  "at": [
+   "p_thetis_cave",
+   "olympus",
+   "e_tent"
+  ],
+  "mentions": [
+   "samothrace",
+   "imbros"
+  ],
+  "points": [
+   {
+    "id": "p_thetis_cave",
+    "lat": 40.34,
+    "lon": 25.74,
+    "certainty": 3
+   }
+  ],
+  "view": {
+   "center": [
+    24.3,
+    40.1
+   ],
+   "zoom": 5.5
+  },
+  "path": {
+   "kind": "fly",
+   "pts": [
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     24.1,
+     40.42
+    ],
+    [
+     25.74,
+     40.34
+    ],
+    [
+     24,
+     40.15
+    ],
+    [
+     22.3586,
+     40.0856
+    ],
+    [
+     24.3,
+     39.88
+    ],
+    [
+     26.1985,
+     39.9985
+    ]
+   ]
+  }
+ },
+ {
+  "id": "24.4",
+  "book": 24,
+  "from": 143,
+  "to": 321,
+  "at": [
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.2385,
+    39.9573
+   ],
+   "zoom": 12.5
+  }
+ },
+ {
+  "id": "24.5",
+  "book": 24,
+  "from": 322,
+  "to": 467,
+  "at": [
+   "troy",
+   "e_ilos",
+   "e_ford",
+   "e_wall",
+   "e_tent"
+  ],
+  "view": {
+   "center": [
+    26.217,
+    39.978
+   ],
+   "zoom": 11
+  },
+  "path": {
+   "kind": "ride",
+   "pts": [
+    [
+     26.236,
+     39.9573
+    ],
+    [
+     26.2335,
+     39.96
+    ],
+    [
+     26.231,
+     39.9612
+    ],
+    [
+     26.2258,
+     39.96
+    ],
+    [
+     26.215,
+     39.964
+    ],
+    [
+     26.203,
+     39.972
+    ],
+    [
+     26.1975,
+     39.981
+    ],
+    [
+     26.1985,
+     39.9985
+    ]
+   ]
+  }
+ },
+ {
+  "id": "24.6",
+  "book": 24,
+  "from": 468,
+  "to": 571,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "phthia",
+   "lesbos",
+   "phrygia",
+   "hellespont"
+  ],
+  "view": {
+   "center": [
+    25.95,
+    39.8
+   ],
+   "zoom": 5.3
+  }
+ },
+ {
+  "id": "24.7",
+  "book": 24,
+  "from": 572,
+  "to": 676,
+  "at": [
+   "e_tent"
+  ],
+  "mentions": [
+   "p_sipylos"
+  ],
+  "points": [
+   {
+    "id": "p_sipylos",
+    "lat": 38.5672,
+    "lon": 27.4547,
+    "certainty": 1
+   }
+  ],
+  "view": {
+   "center": [
+    26.8,
+    39.3
+   ],
+   "zoom": 6.4
+  }
+ },
+ {
+  "id": "24.8",
+  "book": 24,
+  "from": 677,
+  "to": 718,
+  "at": [
+   "e_tent",
+   "e_ford",
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.217,
+    39.978
+   ],
+   "zoom": 11
+  },
+  "path": {
+   "kind": "ride",
+   "pts": [
+    [
+     26.1985,
+     39.9985
+    ],
+    [
+     26.1975,
+     39.981
+    ],
+    [
+     26.203,
+     39.972
+    ],
+    [
+     26.215,
+     39.964
+    ],
+    [
+     26.2258,
+     39.96
+    ],
+    [
+     26.231,
+     39.9612
+    ],
+    [
+     26.2335,
+     39.96
+    ],
+    [
+     26.236,
+     39.9573
+    ]
+   ]
+  }
+ },
+ {
+  "id": "24.9",
+  "book": 24,
+  "from": 719,
+  "to": 804,
+  "at": [
+   "troy"
+  ],
+  "view": {
+   "center": [
+    26.2385,
+    39.9573
+   ],
+   "zoom": 12.5
+  }
+ }
+]

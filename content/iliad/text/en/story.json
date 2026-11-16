@@ -1,0 +1,275 @@
+{
+ "events": {
+  "e_scaean": {
+   "name": "Scaean Gates",
+   "note": "the gate to the plain and the tower above it",
+   "text": "{{3|From the tower above the gate Helen points out the Achaean heroes to Priam (Book 3).}} {{6|Here Hector says farewell to Andromache and little Astyanax (Book 6).}} {{16|Apollo stops Patroclus below the wall (Book 16).}} {{22|Hector stands before the gate and waits for Achilles (Book 22).}} An oak grows by the gate.",
+   "loc": "Schematic. Homer calls the gate to the plain the Scaean (“left”) gate. Troy VI has several gates; the most likely candidates are the western and the southern."
+  },
+  "e_springs": {
+   "name": "Chase and death of Hector",
+   "note": "the springs, the fig tree and the wagon road",
+   "text": "{{22|Achilles chases Hector three times around the walls.}} {{22|They run past the lookout and the fig tree, along the wagon road, to the two springs of the Scamander: one warm, one cold.}} There the women used to wash their clothes in peacetime. {{22|Athena tricks Hector and he dies by the spear of Achilles.}}",
+   "loc": "Schematic. Some scholars link the springs with the “Water Cave”, excavated at the south-western edge of the lower city."
+  },
+  "e_ford": {
+   "name": "Ford of the Xanthos",
+   "note": "where the Scamander and the Simoeis join",
+   "text": "{{5|Hera and Athena stop their chariot where the Simoeis and the Scamander join (Book 5).}} {{14|The wounded Hector is carried to the ford (Book 14).}} {{21|In Book 21 Achilles fills the river with corpses and kills Lycaon and Asteropaeus, and the river rises against him.}} {{21|Hephaestus dries it up with fire.}} {{24|In Book 24 Priam crosses the ford at night with Hermes.}}",
+   "loc": "Schematic, following the approximate ancient riverbeds. The rivers have often changed course."
+  },
+  "e_ilos": {
+   "name": "Tomb of Ilus",
+   "note": "the burial mound of the founder of Ilion",
+   "text": "{{10|Hector calls the council of the Trojans by the tomb (Book 10).}} {{11|Paris, hidden behind the pillar on the tomb, shoots at Diomedes (Book 11).}} {{24|Priam passes the tomb on his way to the Achaean camp (Book 24).}}",
+   "loc": "Unknown. Homer places it in the middle of the plain, between the city and the river."
+  },
+  "e_batieia": {
+   "name": "Batieia (tomb of Myrine)",
+   "note": "a steep mound in front of the city",
+   "text": "“People call it Batieia, but the gods call it the tomb of swift Myrine.” {{2|Here the Trojans and their allies form up for battle at the end of Book 2.}}",
+   "loc": "Unknown. The marker is notional."
+  },
+  "e_duels": {
+   "name": "Duels before Troy",
+   "note": "the plain between the two armies",
+   "text": "{{3|Menelaus and Paris fight for Helen; Aphrodite carries Paris off to the palace (Book 3).}} {{4|Pandarus breaks the truce with an arrow (Book 4).}} {{7|Ajax and Hector fight until dark and exchange gifts (Book 7).}}",
+   "loc": "Schematic: somewhere on the plain in front of the city."
+  },
+  "e_patroclus": {
+   "name": "Death of Patroclus",
+   "note": "below the walls of Troy",
+   "text": "{{16|Three times Patroclus tries to climb the wall; Apollo pushes him back.}} {{16|Euphorbus wounds him, Hector kills him (Book 16).}} {{17|The whole of Book 17 is the battle for his body.}}",
+   "loc": "Schematic, below the north-western corner of the walls."
+  },
+  "e_bivouac": {
+   "name": "Trojan bivouac",
+   "note": "“a thousand fires on the plain”",
+   "text": "{{8|For the first time the Trojans spend the night on the plain, near the ditch: a thousand fires, with fifty men at each (Book 8).}} {{10|During the night Dolon sets out from here as a scout (Book 10).}}",
+   "loc": "Schematic: “on the raised ground in the plain”, near the Achaean ditch."
+  },
+  "e_rhesus": {
+   "name": "Camp of Rhesus",
+   "note": "the Thracians at the end of the Trojan line",
+   "text": "{{10|The Thracians of Rhesus have arrived last and sleep apart, at the end of the line.}} {{10|Odysseus and Diomedes kill Rhesus and twelve of his men and lead away the white horses.}}",
+   "loc": "Schematic."
+  },
+  "e_wall": {
+   "name": "Achaean wall and ditch",
+   "note": "the fortification around the ships",
+   "text": "{{7|The Achaeans build the wall and the ditch on Nestor’s advice (Book 7).}} {{8|The Trojans reach the ditch (Book 8).}} {{12|In Book 12 Sarpedon tears down part of the wall, and Hector smashes the gate with a stone.}} {{18|In Book 18 Achilles, without armour, shouts three times from the ditch and the Trojans flee.}}",
+   "loc": "Schematic. The dashed line shows the possible position around the camp."
+  },
+  "e_ships": {
+   "name": "Ship of Protesilaus",
+   "note": "the battle at the ships",
+   "text": "{{13|The battle reaches the ships themselves (Books 13–15).}} {{15|Hector grabs the stern of the ship of Protesilaus and calls for fire; Ajax defends it with a long spear.}} {{16|When the ship catches fire, Achilles sends Patroclus into the fight (Book 16).}}",
+   "loc": "Schematic, inside the camp."
+  },
+  "e_tent": {
+   "name": "Tent of Achilles",
+   "note": "the Myrmidons",
+   "text": "{{1|Achilles withdraws here after the quarrel (Book 1).}} {{9|The embassy of Odysseus, Ajax and Phoenix asks him to return (Book 9).}} {{16|Patroclus puts on Achilles’ armour (Book 16).}} {{19|Achilles and Agamemnon are reconciled (Book 19).}} {{24|Priam kisses the hands of Achilles and ransoms the body of Hector (Book 24).}}",
+   "loc": "Schematic. Homer places Achilles at one end of the camp; ancient tradition links the spot with Sigeum."
+  },
+  "e_pyre": {
+   "name": "Pyre of Patroclus and the games",
+   "note": "on the shore by the camp",
+   "text": "{{23|Achilles builds a huge pyre for Patroclus, and a mound is heaped over the bones.}} {{23|The funeral games follow: chariot race, boxing, wrestling, foot race, spear throwing.}}",
+   "loc": "Schematic. {{25|By ancient tradition the tomb of Achilles and Patroclus is on Cape Sigeum.}}"
+  }
+ },
+ "routes": {
+  "r_hera": {
+   "name": "Hera’s flight",
+   "text": "{{14|Hera sets out from Olympus, passes over Pieria and Emathia and over the snowy mountains of Thrace, and steps from Athos into the sea.}} {{14|On Lemnos she finds Sleep.}} {{14|The two pass Imbros, come ashore at Lectum and climb Mount Ida, where Zeus is (Book 14, lines 225–293).}}",
+   "loc": "Schematic. Homer names the points, but not the exact path between them."
+  },
+  "r_poseidon": {
+   "name": "Poseidon’s journey",
+   "text": "{{13|Poseidon watches from Samothrace.}} {{13|In four strides he reaches his palace at Aegae, yokes his horses and races across the sea.}} {{13|He leaves them in a cave between Tenedos and Imbros and goes on foot to the Achaean camp (Book 13, lines 10–38).}}",
+   "loc": "Schematic. The location of Aegae is disputed: Euboea (the marker) or Achaea."
+  },
+  "r_chryse": {
+   "name": "Odysseus returns Chryseis",
+   "text": "{{1|Odysseus sails with Chryseis and the sacrifice for Apollo (a hecatomb), rounds Cape Lectum and enters the harbour of Chryse.}} {{1|In the morning the ship returns with a fair wind (Book 1, lines 430–487).}}",
+   "loc": "Schematic. If Chryse is at the Smintheum on the Aegean coast, the route is much shorter."
+  },
+  "r_priam": {
+   "name": "Priam’s night journey",
+   "text": "{{24|Priam goes out through the gate with a wagon carrying the ransom.}} {{24|He passes the tomb of Ilus and stops at the river to water the animals.}} {{24|There Hermes meets him, leads him past the guards and opens the gate of the Achaean camp by the tent of Achilles (Book 24, lines 322–470).}}",
+   "loc": "Schematic."
+  },
+  "r_chase": {
+   "name": "Chase around the walls",
+   "text": "{{22|“Three times they ran around the city of Priam.”}} {{22|Achilles chases Hector as a falcon chases a dove.}} {{22|They run along the wagon road, past the fig tree and the springs (Book 22, lines 136–166).}}",
+   "loc": "Schematic, around the citadel."
+  }
+ },
+ "books": {
+  "1": {
+   "title": "The Wrath",
+   "summary": "Chryses pleads for his daughter; Apollo sends a plague. Agamemnon takes Briseis and Achilles withdraws. Thetis pleads with Zeus on Olympus."
+  },
+  "2": {
+   "title": "The Dream and the Catalogue of Ships",
+   "summary": "Zeus sends Agamemnon a false dream. Thersites. All the contingents of both armies are listed."
+  },
+  "3": {
+   "title": "The Duel of Paris and Menelaus",
+   "summary": "Helen points out the heroes from the wall. Aphrodite rescues Paris."
+  },
+  "4": {
+   "title": "The Broken Truce",
+   "summary": "Pandarus shoots at Menelaus; Machaon treats him. The first battle begins."
+  },
+  "5": {
+   "title": "The Deeds of Diomedes",
+   "summary": "Diomedes wounds Aphrodite and Ares. Aeneas is saved by the gods."
+  },
+  "6": {
+   "title": "Hector and Andromache",
+   "summary": "Glaucus and Diomedes exchange armour. Hector says farewell to Andromache at the Scaean Gates."
+  },
+  "7": {
+   "title": "Ajax against Hector",
+   "summary": "A duel until dark. A truce for the dead. The Achaeans build a wall and a ditch."
+  },
+  "8": {
+   "title": "The Interrupted Battle",
+   "summary": "Zeus watches from Mount Ida and stops the gods. The Trojans spend the night on the plain."
+  },
+  "9": {
+   "title": "The Embassy to Achilles",
+   "summary": "Odysseus, Ajax and Phoenix ask Achilles to return. He refuses."
+  },
+  "10": {
+   "title": "The Night Raid",
+   "summary": "Odysseus and Diomedes catch Dolon and kill Rhesus."
+  },
+  "11": {
+   "title": "The Deeds of Agamemnon",
+   "summary": "Agamemnon, Diomedes and Odysseus are wounded. Nestor advises Patroclus to ask for Achilles’ armour."
+  },
+  "12": {
+   "title": "The Battle at the Wall",
+   "summary": "Sarpedon breaks down the wall, Hector smashes the gate."
+  },
+  "13": {
+   "title": "The Battle at the Ships",
+   "summary": "Poseidon comes down from Samothrace and helps the Achaeans. Idomeneus distinguishes himself."
+  },
+  "14": {
+   "title": "Hera Deceives Zeus",
+   "summary": "Hera puts Zeus to sleep on Mount Ida. Hector is wounded and carried to the ford."
+  },
+  "15": {
+   "title": "The Trojans at the Ships",
+   "summary": "Zeus wakes. Hector seizes the ship of Protesilaus; Ajax defends the ships."
+  },
+  "16": {
+   "title": "The Patrocleia",
+   "summary": "Patroclus, in Achilles’ armour, chases the Trojans, kills Sarpedon and is killed by Hector."
+  },
+  "17": {
+   "title": "The Battle for the Body",
+   "summary": "Menelaus, Meriones and the two Ajaxes rescue the body of Patroclus."
+  },
+  "18": {
+   "title": "The Shield of Achilles",
+   "summary": "Achilles learns about Patroclus and shouts from the ditch. Hephaestus forges the new shield."
+  },
+  "19": {
+   "title": "The Reconciliation",
+   "summary": "Achilles and Agamemnon are reconciled. Briseis returns and mourns Patroclus."
+  },
+  "20": {
+   "title": "The Gods in Battle",
+   "summary": "The gods divide: some on Callicolone, the others on the wall of Heracles. Achilles against Aeneas."
+  },
+  "21": {
+   "title": "The Battle in the River",
+   "summary": "Achilles in the Scamander: Lycaon, Asteropaeus, the river rises. Hephaestus dries it up."
+  },
+  "22": {
+   "title": "The Death of Hector",
+   "summary": "Three circuits of the walls and the duel by the springs."
+  },
+  "23": {
+   "title": "The Funeral of Patroclus",
+   "summary": "The pyre, the mound and the funeral games."
+  },
+  "24": {
+   "title": "Priam and Achilles",
+   "summary": "Priam crosses the ford with Hermes and ransoms the body of Hector. The funeral of Hector in Troy."
+  }
+ },
+ "overlays": {
+  "troy": {
+   "name": "Bay of Troy around 1200 BC",
+   "text": "Today Troy is several kilometres from the sea. Drill cores taken by the geologists J. Kraft and İ. Kayan (together with the classicist J. Luce) show that in the time of Troy VI–VIIa there was a bay with marshes and lagoons north of the city. The sediments of the Scamander and the Simoeis filled it in over 3000 years.",
+   "loc": "Approximate. The reconstructions differ by about 1–2 km: Kraft and Luce put the shore 1–2 km from Troy, Kayan puts it further north. The pale zone shows the marshes along the edge."
+  },
+  "troymarsh": {
+   "name": "Marshes and lagoons around 1200 BC",
+   "text": "Shallow lagoons, marshes and river channels between the bay and Troy. Strabo describes here “a blind mouth, salt lagoons and marshes”.",
+   "loc": "Approximate."
+  },
+  "latmos": {
+   "name": "Latmian Gulf around 1200 BC",
+   "text": "Today the ruins of Miletus lie in the middle of a plain, far from the coast. In the 2nd millennium BC Miletus is a peninsula in a deep gulf: under the city there are beach sands from 1413–1312 BC, and the sea remains at the Delphinion until at least around 900 BC. The sediments of the Maeander fill in the gulf; only Lake Bafa remains of it.",
+   "loc": "Approximate. The direction and the places follow the drill cores of M. Müllenhoff, A. Herda and H. Brückner; the exact line to the east is uncertain."
+  },
+  "ephesus": {
+   "name": "Gulf of Ephesus around 1200 BC",
+   "text": "Drill cores show that the shoreline of the Middle and Late Bronze Age runs right under the oldest sanctuary of Artemis, at the foot of Ayasuluk hill. Around 1000 BC the northern slope of Pion hill drops into a sea 8–20 m deep. Since then the delta of the Cayster (Küçük Menderes) has advanced by about 8 km.",
+   "loc": "Approximate (after J. Kraft, H. Brückner, İ. Kayan, 2007). The starting point at the Artemision is well established; the northern shore is less certain."
+  },
+  "gediz": {
+   "name": "Mouth of the Hermus around 1200 BC",
+   "text": "Panaztepe was an island or a peninsula in the 3rd millennium BC, and today it is about 9 km from the sea. In the Late Bronze Age the settlement probably stood on the shore of a bay where the Hermus (Gediz), the Seha River of the Hittite texts, reaches the sea.",
+   "loc": "Approximate. There are drill cores, but the exact shoreline for 1200 BC has not been published; the outline is notional."
+  },
+  "malis": {
+   "name": "Malian Gulf in antiquity",
+   "text": "The Spercheius, the river of Achilles, then entered the sea much further inland. The shore has advanced eastwards by at least 15 km in the last 4500 years. In the Bronze Age the gulf reached westwards beyond today’s villages of Anthili and Moschochori, almost to the cliffs of Trachis. At Thermopylae in 480 BC the pass was only 20–30 m wide.",
+   "loc": "Approximate (after J. Kraft et al., 1987). The line is drawn through these reference points."
+  },
+  "thermaic": {
+   "name": "Thermaic Gulf in antiquity",
+   "text": "The sediments of the Axius (Vardar), the Haliacmon and the Loudias have filled in the northern part of the gulf. At its furthest, the sea reached about 30 km inland from today’s shore. Pella, the main port of Macedonia, is today about 25 km from the sea; in the Classical period it is linked to it by a lagoon lake.",
+   "loc": "Approximate (after M. Ghilardi et al.). The direction is certain; the exact line around 1200 BC is not."
+  },
+  "kopais": {
+   "name": "Lake Copais",
+   "text": "A large shallow lake and marsh in Boeotia. Around 1300 BC the Mycenaeans drain it with canals and dykes and build the fortress of Gla. After the collapse of the palaces it floods again. It was finally drained in the 1880s. Homer calls it the Cephisian lake (Book 5, line 709).",
+   "loc": "Approximate outline."
+  },
+  "boibe": {
+   "name": "Lake Boebeis",
+   "text": "The lake beside the town of Boebe in the kingdom of Eumelus. It was drained in 1962. Today part of it (Karla) has been restored.",
+   "loc": "Approximate outline."
+  }
+ },
+ "plan": {
+  "lower": {
+   "name": "Lower city of Troy VI–VIIa",
+   "text": "There was a lower city around the citadel, to the south and east. Korfmann’s excavations (1988–2005) show that it covered about 20–30 ha and extended about 400 m south of the fortress. Troy was a large city, comparable to Ugarit.",
+   "loc": "Approximate outline after Korfmann’s excavations. The size is disputed: some scholars think it was smaller."
+  },
+  "ditch": {
+   "name": "Ditch of the lower city",
+   "text": "A U-shaped ditch cut into the rock surrounds the lower city at the end of Troy VI. Behind it there was probably a wooden fence. It was found by magnetic survey in the 1990s.",
+   "loc": "Approximate line."
+  }
+ },
+ "regions": {
+  "aegean": "Aegean Sea",
+  "ionian": "Ionian Sea",
+  "propontis": "Propontis",
+  "black": "Black Sea",
+  "mediterranean": "Mediterranean Sea",
+  "thrace": "Thrace",
+  "asia": "Asia Minor"
+ }
+}
